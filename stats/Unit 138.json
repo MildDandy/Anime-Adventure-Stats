@@ -1,0 +1,155 @@
+{
+    "Name": "Jelly",
+    "Tags": [
+        "Damage Type Light",
+        "Unobtainable Units",
+        "Fairy Tail Units",
+        "Secret Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "HYBD"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Light"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 3": "AoE (Circle) - radius: 8.5",
+        "Upgrade 6": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,375",
+            "Damage": "110",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "15.71"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "225",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "32.14"
+        },
+        {
+            "Upgrade 2": "2,150",
+            "Damage": "300",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "46.15"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "450",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "69.23"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "600",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "900",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "1,100",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "183.33"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "1,500",
+            "Range": "26.5",
+            "SPA": "5.5",
+            "DPS": "272.73"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "2,100",
+            "Range": "27",
+            "SPA": "5.5",
+            "DPS": "381.82"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,375",
+            "Damage": "1,012.45",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "144.64"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "2,070.91",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "295.84"
+        },
+        {
+            "Upgrade 2": "2,150",
+            "Damage": "2,761.22",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "424.8"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "4,141.83",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "637.2"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "5,522.44",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "8,283.66",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "10,124.47",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "1,687.41"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "13,806.1",
+            "Range": "26.5",
+            "SPA": "5.5",
+            "DPS": "2,510.2"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "19,328.54",
+            "Range": "27",
+            "SPA": "5.5",
+            "DPS": "3,514.28"
+        }
+    ]
+}

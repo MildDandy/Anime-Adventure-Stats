@@ -1,0 +1,121 @@
+{
+    "Name": "Lao",
+    "Tags": [
+        "Epic Units",
+        "One Piece Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 5": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "20",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "5"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "42",
+            "Range": "16",
+            "SPA": "4",
+            "DPS": "10.5"
+        },
+        {
+            "Upgrade 2": "800",
+            "Damage": "70",
+            "Range": "17",
+            "SPA": "4",
+            "DPS": "17.5"
+        },
+        {
+            "Upgrade 3": "1,300",
+            "Damage": "95",
+            "Range": "18",
+            "SPA": "3.5",
+            "DPS": "27.14"
+        },
+        {
+            "Upgrade 4": "2,100",
+            "Damage": "150",
+            "Range": "19",
+            "SPA": "3.5",
+            "DPS": "42.86"
+        },
+        {
+            "Upgrade 5": "2,750",
+            "Damage": "225",
+            "Range": "20",
+            "SPA": "3.5",
+            "DPS": "64.29"
+        },
+        {
+            "Upgrade 6": "3,500",
+            "Damage": "250",
+            "Range": "25",
+            "SPA": "3",
+            "DPS": "83.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "184.08",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "46.02"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "386.57",
+            "Range": "16",
+            "SPA": "4",
+            "DPS": "96.64"
+        },
+        {
+            "Upgrade 2": "800",
+            "Damage": "644.28",
+            "Range": "17",
+            "SPA": "4",
+            "DPS": "161.07"
+        },
+        {
+            "Upgrade 3": "1,300",
+            "Damage": "874.39",
+            "Range": "18",
+            "SPA": "3.5",
+            "DPS": "249.82"
+        },
+        {
+            "Upgrade 4": "2,100",
+            "Damage": "1,380.61",
+            "Range": "19",
+            "SPA": "3.5",
+            "DPS": "394.46"
+        },
+        {
+            "Upgrade 5": "2,750",
+            "Damage": "2,070.91",
+            "Range": "20",
+            "SPA": "3.5",
+            "DPS": "591.69"
+        },
+        {
+            "Upgrade 6": "3,500",
+            "Damage": "2,301.02",
+            "Range": "25",
+            "SPA": "3",
+            "DPS": "767.01"
+        }
+    ]
+}

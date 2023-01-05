@@ -1,0 +1,167 @@
+{
+    "Name": "Broke (Soul King)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "One Piece Units",
+        "Unobtainable Units",
+        "Damage Type Physical",
+        "Meta Units"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 45",
+        "Upgrade 4": "AoE (Circle) - radius: 9",
+        "Upgrade 7": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "900",
+            "Range": "11",
+            "SPA": "9.5",
+            "DPS": "94.74"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "1,350",
+            "Range": "12",
+            "SPA": "9",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 2": "2,600",
+            "Damage": "2,250",
+            "Range": "12",
+            "SPA": "8.5",
+            "DPS": "264.71"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "3,000",
+            "Range": "12.5",
+            "SPA": "8",
+            "DPS": "375"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "3,750",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "468.75"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "4,500",
+            "Range": "13",
+            "SPA": "7.5",
+            "DPS": "600"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "5,250",
+            "Range": "13.5",
+            "SPA": "7",
+            "DPS": "750"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "6,750",
+            "Range": "14",
+            "SPA": "14",
+            "DPS": "482.14"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "8,250",
+            "Range": "14.5",
+            "SPA": "13.5",
+            "DPS": "611.11"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "9,750",
+            "Range": "15",
+            "SPA": "13",
+            "DPS": "750"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "8,283.66",
+            "Range": "11",
+            "SPA": "9.5",
+            "DPS": "871.96"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "12,425.49",
+            "Range": "12",
+            "SPA": "9",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 2": "2,600",
+            "Damage": "20,709.15",
+            "Range": "12",
+            "SPA": "8.5",
+            "DPS": "2,436.37"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "27,612.2",
+            "Range": "12.5",
+            "SPA": "8",
+            "DPS": "3,451.52"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "34,515.24",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "4,314.41"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "41,418.29",
+            "Range": "13",
+            "SPA": "7.5",
+            "DPS": "5,522.44"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "48,321.34",
+            "Range": "13.5",
+            "SPA": "7",
+            "DPS": "6,903.05"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "62,127.44",
+            "Range": "14",
+            "SPA": "14",
+            "DPS": "4,437.67"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "75,933.54",
+            "Range": "14.5",
+            "SPA": "13.5",
+            "DPS": "5,624.71"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "89,739.63",
+            "Range": "15",
+            "SPA": "13",
+            "DPS": "6,903.05"
+        }
+    ]
+}

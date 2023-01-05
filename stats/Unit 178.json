@@ -1,0 +1,120 @@
+{
+    "Name": "Norro",
+    "Tags": [
+        "Tokyo Ghoul Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 4": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,000",
+            "Damage": "75",
+            "Range": "18",
+            "SPA": "9",
+            "DPS": "8.33"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "150",
+            "Range": "19",
+            "SPA": "9",
+            "DPS": "16.67"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "200",
+            "Range": "20",
+            "SPA": "9",
+            "DPS": "22.22"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "250",
+            "Range": "21",
+            "SPA": "8.5",
+            "DPS": "29.41"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "300",
+            "Range": "22",
+            "SPA": "8.5",
+            "DPS": "35.29"
+        },
+        {
+            "Upgrade 5": "4,500",
+            "Damage": "450",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "56.25"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "600",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,000",
+            "Damage": "690.3",
+            "Range": "18",
+            "SPA": "9",
+            "DPS": "76.7"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "1,380.61",
+            "Range": "19",
+            "SPA": "9",
+            "DPS": "153.4"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "1,840.81",
+            "Range": "20",
+            "SPA": "9",
+            "DPS": "204.53"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "2,301.02",
+            "Range": "21",
+            "SPA": "8.5",
+            "DPS": "270.71"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "2,761.22",
+            "Range": "22",
+            "SPA": "8.5",
+            "DPS": "324.85"
+        },
+        {
+            "Upgrade 5": "4,500",
+            "Damage": "4,141.83",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "517.73"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "5,522.44",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "690.3"
+        }
+    ]
+}

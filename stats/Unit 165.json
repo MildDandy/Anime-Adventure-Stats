@@ -1,0 +1,134 @@
+{
+    "Name": "Grim Jaw",
+    "Tags": [
+        "Bleach Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 8",
+        "Upgrade 5": "AoE (Line) - width: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "30",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "3.75"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "60",
+            "Range": "16.5",
+            "SPA": "7.5",
+            "DPS": "8"
+        },
+        {
+            "Upgrade 2": "1,600",
+            "Damage": "100",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "14.29"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "175",
+            "Range": "17.5",
+            "SPA": "7",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "250",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 5": "4,350",
+            "Damage": "275",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "42.31"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "325",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "500",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "83.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "276.12",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "34.52"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "552.24",
+            "Range": "16.5",
+            "SPA": "7.5",
+            "DPS": "73.63"
+        },
+        {
+            "Upgrade 2": "1,600",
+            "Damage": "920.41",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "131.49"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "1,610.71",
+            "Range": "17.5",
+            "SPA": "7",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "2,301.02",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 5": "4,350",
+            "Damage": "2,531.12",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "389.4"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "2,991.32",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "4,602.03",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "767.01"
+        }
+    ]
+}

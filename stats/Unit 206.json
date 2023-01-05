@@ -1,0 +1,93 @@
+{
+    "Name": "Aman",
+    "Tags": [
+        "Rare Units",
+        "Tokyo Ghoul Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "AoE (Circle) - radius: 6"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "350",
+            "Damage": "15",
+            "Range": "10",
+            "SPA": "4",
+            "DPS": "3.75"
+        },
+        {
+            "Upgrade 1": "500",
+            "Damage": "25",
+            "Range": "13",
+            "SPA": "4",
+            "DPS": "6.25"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "40",
+            "Range": "14",
+            "SPA": "3.5",
+            "DPS": "11.43"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "50",
+            "Range": "15",
+            "SPA": "3.5",
+            "DPS": "14.29"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "60",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "12"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "350",
+            "Damage": "138.06",
+            "Range": "10",
+            "SPA": "4",
+            "DPS": "34.52"
+        },
+        {
+            "Upgrade 1": "500",
+            "Damage": "230.1",
+            "Range": "13",
+            "SPA": "4",
+            "DPS": "57.53"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "368.16",
+            "Range": "14",
+            "SPA": "3.5",
+            "DPS": "105.19"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "460.2",
+            "Range": "15",
+            "SPA": "3.5",
+            "DPS": "131.49"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "552.24",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "110.45"
+        }
+    ]
+}

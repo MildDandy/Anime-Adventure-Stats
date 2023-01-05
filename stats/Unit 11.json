@@ -1,0 +1,170 @@
+{
+    "Name": "Aokijo (Blue Pheasant)",
+    "Tags": [
+        "Mythic Units",
+        "One Piece Units",
+        "Limited Units",
+        "Damage Type Ice",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 8",
+        "Upgrade 4": "AoE (Line) - width: 8",
+        "Upgrade 8": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "600",
+            "Range": "20",
+            "SPA": "15",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "1,350",
+            "Range": "21",
+            "SPA": "14",
+            "DPS": "96.43"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "2,250",
+            "Range": "22",
+            "SPA": "14",
+            "DPS": "160.71"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "3,000",
+            "Range": "23",
+            "SPA": "14",
+            "DPS": "214.29"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "3,750",
+            "Range": "23.5",
+            "SPA": "13",
+            "DPS": "288.46"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "5,250",
+            "Range": "24",
+            "SPA": "13",
+            "DPS": "403.85"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "6,000",
+            "Range": "24.5",
+            "SPA": "12",
+            "DPS": "500"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "7,500",
+            "Range": "25",
+            "SPA": "12",
+            "DPS": "625"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "8,250",
+            "Range": "26",
+            "SPA": "15",
+            "DPS": "550"
+        },
+        {
+            "Upgrade 9": "12,500",
+            "Damage": "9,750",
+            "Range": "27",
+            "SPA": "15",
+            "DPS": "650"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "5,522.44",
+            "Range": "20",
+            "SPA": "15",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "12,425.49",
+            "Range": "21",
+            "SPA": "14",
+            "DPS": "887.53"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "20,709.15",
+            "Range": "22",
+            "SPA": "14",
+            "DPS": "1,479.22"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "27,612.2",
+            "Range": "23",
+            "SPA": "14",
+            "DPS": "1,972.3"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "34,515.24",
+            "Range": "23.5",
+            "SPA": "13",
+            "DPS": "2,655.02"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "48,321.34",
+            "Range": "24",
+            "SPA": "13",
+            "DPS": "3,717.03"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "55,224.39",
+            "Range": "24.5",
+            "SPA": "12",
+            "DPS": "4,602.03"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "69,030.49",
+            "Range": "25",
+            "SPA": "12",
+            "DPS": "5,752.54"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "75,933.54",
+            "Range": "26",
+            "SPA": "15",
+            "DPS": "5,062.24"
+        },
+        {
+            "Upgrade 9": "12,500",
+            "Damage": "89,739.63",
+            "Range": "27",
+            "SPA": "15",
+            "DPS": "5,982.64"
+        }
+    ]
+}

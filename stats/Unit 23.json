@@ -1,0 +1,150 @@
+{
+    "Name": "Coyote",
+    "Tags": [
+        "Mythic Units",
+        "Bleach Units",
+        "Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 5",
+        "Upgrade 5": "AoE (Line) - width: 20"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "150",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "18.75"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "300",
+            "Range": "31",
+            "SPA": "7.5",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "500",
+            "Range": "32",
+            "SPA": "7",
+            "DPS": "71.43"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "800",
+            "Range": "33",
+            "SPA": "6.5",
+            "DPS": "123.08"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,000",
+            "Range": "35",
+            "SPA": "6",
+            "DPS": "166.67"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "1,200",
+            "Range": "45",
+            "SPA": "15",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "1,500",
+            "Range": "46",
+            "SPA": "15",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "2,000",
+            "Range": "47",
+            "SPA": "14.5",
+            "DPS": "137.93"
+        },
+        {
+            "Upgrade 8": "25,000",
+            "Damage": "2,750",
+            "Range": "48",
+            "SPA": "14",
+            "DPS": "196.43"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "1,380.61",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "172.58"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,761.22",
+            "Range": "31",
+            "SPA": "7.5",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "4,602.03",
+            "Range": "32",
+            "SPA": "7",
+            "DPS": "657.43"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "7,363.25",
+            "Range": "33",
+            "SPA": "6.5",
+            "DPS": "1,132.81"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "9,204.07",
+            "Range": "35",
+            "SPA": "6",
+            "DPS": "1,534.01"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "11,044.88",
+            "Range": "45",
+            "SPA": "15",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "13,806.1",
+            "Range": "46",
+            "SPA": "15",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "18,408.13",
+            "Range": "47",
+            "SPA": "14.5",
+            "DPS": "1,269.53"
+        },
+        {
+            "Upgrade 8": "25,000",
+            "Damage": "25,311.18",
+            "Range": "48",
+            "SPA": "14",
+            "DPS": "1,807.94"
+        }
+    ]
+}

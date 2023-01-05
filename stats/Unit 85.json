@@ -1,0 +1,170 @@
+{
+    "Name": "Megomu (Chimera Shadow)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Jujutsu Kaisen Units",
+        "Damage Type Dark",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Dark"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 4": "AoE (Circle) - radius: 9",
+        "Upgrade 8": "AoE (Circle) - radius: 11"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "204",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "25.5"
+        },
+        {
+            "Upgrade 1": "2,250",
+            "Damage": "420",
+            "Range": "16.5",
+            "SPA": "7.5",
+            "DPS": "56"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "660",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "88"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "900",
+            "Range": "17.5",
+            "SPA": "7",
+            "DPS": "128.57"
+        },
+        {
+            "Upgrade 4": "4,700",
+            "Damage": "1,200",
+            "Range": "18.5",
+            "SPA": "6.5",
+            "DPS": "184.62"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "1,440",
+            "Range": "19",
+            "SPA": "6.5",
+            "DPS": "221.54"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "2,040",
+            "Range": "19.5",
+            "SPA": "6",
+            "DPS": "340"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "2,400",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "400"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "3,600",
+            "Range": "22",
+            "SPA": "8.5",
+            "DPS": "423.53"
+        },
+        {
+            "Upgrade 9": "13,500",
+            "Damage": "4,200",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "525"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "1,877.63",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "234.7"
+        },
+        {
+            "Upgrade 1": "2,250",
+            "Damage": "3,865.71",
+            "Range": "16.5",
+            "SPA": "7.5",
+            "DPS": "515.43"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "6,074.68",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "809.96"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "8,283.66",
+            "Range": "17.5",
+            "SPA": "7",
+            "DPS": "1,183.38"
+        },
+        {
+            "Upgrade 4": "4,700",
+            "Damage": "11,044.88",
+            "Range": "18.5",
+            "SPA": "6.5",
+            "DPS": "1,699.21"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "13,253.85",
+            "Range": "19",
+            "SPA": "6.5",
+            "DPS": "2,039.05"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "18,776.29",
+            "Range": "19.5",
+            "SPA": "6",
+            "DPS": "3,129.38"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "22,089.76",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "3,681.63"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "33,134.63",
+            "Range": "22",
+            "SPA": "8.5",
+            "DPS": "3,898.19"
+        },
+        {
+            "Upgrade 9": "13,500",
+            "Damage": "38,657.07",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "4,832.13"
+        }
+    ]
+}

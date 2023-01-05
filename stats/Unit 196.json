@@ -1,0 +1,107 @@
+{
+    "Name": "Karyoin",
+    "Tags": [
+        "Epic Units",
+        "JoJo's Bizarre Adventure Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 3.5",
+        "Upgrade 5": "AoE (Circle) - radius: 6"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "9",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "1.8"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "20",
+            "Range": "16",
+            "SPA": "5",
+            "DPS": "4"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "35",
+            "Range": "17",
+            "SPA": "4.5",
+            "DPS": "7.78"
+        },
+        {
+            "Upgrade 3": "1,750",
+            "Damage": "55",
+            "Range": "18",
+            "SPA": "4.5",
+            "DPS": "12.22"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "75",
+            "Range": "19",
+            "SPA": "4",
+            "DPS": "18.75"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "80",
+            "Range": "20",
+            "SPA": "4",
+            "DPS": "20"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "82.84",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "16.57"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "184.08",
+            "Range": "16",
+            "SPA": "5",
+            "DPS": "36.82"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "322.14",
+            "Range": "17",
+            "SPA": "4.5",
+            "DPS": "71.59"
+        },
+        {
+            "Upgrade 3": "1,750",
+            "Damage": "506.22",
+            "Range": "18",
+            "SPA": "4.5",
+            "DPS": "112.49"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "690.3",
+            "Range": "19",
+            "SPA": "4",
+            "DPS": "172.58"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "736.33",
+            "Range": "20",
+            "SPA": "4",
+            "DPS": "184.08"
+        }
+    ]
+}

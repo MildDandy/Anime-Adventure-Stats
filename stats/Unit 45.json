@@ -1,0 +1,165 @@
+{
+    "Name": "Ging (Sacred Spear)",
+    "Tags": [
+        "Mythic Units",
+        "Limited Units",
+        "Bleach Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 7",
+        "Upgrade 4": "AoE (Line) - width: 9",
+        "Upgrade 8": "AoE (Line) - width: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "287.5",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "41.07"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "488.75",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "69.82"
+        },
+        {
+            "Upgrade 2": "1,800",
+            "Damage": "747.5",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "106.79"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "920",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "131.43"
+        },
+        {
+            "Upgrade 4": "3,400",
+            "Damage": "1,150",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "176.92"
+        },
+        {
+            "Upgrade 5": "4,750",
+            "Damage": "1,610",
+            "Range": "28",
+            "SPA": "6.5",
+            "DPS": "247.69"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "1,840",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "283.08"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "2,012.5",
+            "Range": "41",
+            "SPA": "6",
+            "DPS": "335.42"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "2,645",
+            "Range": "43",
+            "SPA": "6",
+            "DPS": "440.83"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "3,105",
+            "Range": "45",
+            "SPA": "5.5",
+            "DPS": "564.55"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "2,646.17",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "378.02"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "4,498.49",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "642.64"
+        },
+        {
+            "Upgrade 2": "1,800",
+            "Damage": "6,880.04",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "982.86"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "8,467.74",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "1,209.68"
+        },
+        {
+            "Upgrade 4": "3,400",
+            "Damage": "10,584.67",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "1,628.41"
+        },
+        {
+            "Upgrade 5": "4,750",
+            "Damage": "14,818.54",
+            "Range": "28",
+            "SPA": "6.5",
+            "DPS": "2,279.78"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "16,935.48",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "2,605.46"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "18,523.18",
+            "Range": "41",
+            "SPA": "6",
+            "DPS": "3,087.2"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "24,344.75",
+            "Range": "43",
+            "SPA": "6",
+            "DPS": "4,057.46"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "28,578.62",
+            "Range": "45",
+            "SPA": "5.5",
+            "DPS": "5,196.11"
+        }
+    ]
+}

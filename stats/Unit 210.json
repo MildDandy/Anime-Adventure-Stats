@@ -1,0 +1,93 @@
+{
+    "Name": "Ichi",
+    "Tags": [
+        "Rare Units",
+        "Bleach Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "350",
+            "Damage": "20",
+            "Range": "6",
+            "SPA": "3.5",
+            "DPS": "5.71"
+        },
+        {
+            "Upgrade 1": "450",
+            "Damage": "35",
+            "Range": "6",
+            "SPA": "3.5",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 2": "600",
+            "Damage": "50",
+            "Range": "6.5",
+            "SPA": "3",
+            "DPS": "16.67"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "70",
+            "Range": "6.5",
+            "SPA": "3",
+            "DPS": "23.33"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "100",
+            "Range": "7",
+            "SPA": "2.5",
+            "DPS": "40"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "350",
+            "Damage": "184.08",
+            "Range": "6",
+            "SPA": "3.5",
+            "DPS": "52.59"
+        },
+        {
+            "Upgrade 1": "450",
+            "Damage": "322.14",
+            "Range": "6",
+            "SPA": "3.5",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 2": "600",
+            "Damage": "460.2",
+            "Range": "6.5",
+            "SPA": "3",
+            "DPS": "153.4"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "644.28",
+            "Range": "6.5",
+            "SPA": "3",
+            "DPS": "214.76"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "920.41",
+            "Range": "7",
+            "SPA": "2.5",
+            "DPS": "368.16"
+        }
+    ]
+}

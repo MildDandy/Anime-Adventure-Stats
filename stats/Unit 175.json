@@ -1,0 +1,105 @@
+{
+    "Name": "Mivawk",
+    "Tags": [
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 3",
+        "Upgrade 4": "AoE (Line) - width: 5"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "825",
+            "Damage": "50",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "8.33"
+        },
+        {
+            "Upgrade 1": "600",
+            "Damage": "75",
+            "Range": "13",
+            "SPA": "6",
+            "DPS": "12.5"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "90",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "18"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "130",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "32.5"
+        },
+        {
+            "Upgrade 4": "7,000",
+            "Damage": "170",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "34"
+        },
+        {
+            "Upgrade 5": "8,000",
+            "Damage": "250",
+            "Range": "35",
+            "SPA": "5",
+            "DPS": "50"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "825",
+            "Damage": "460.2",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "76.7"
+        },
+        {
+            "Upgrade 1": "600",
+            "Damage": "690.3",
+            "Range": "13",
+            "SPA": "6",
+            "DPS": "115.05"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "828.37",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "165.67"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "1,196.53",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "299.13"
+        },
+        {
+            "Upgrade 4": "7,000",
+            "Damage": "1,564.69",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "312.94"
+        },
+        {
+            "Upgrade 5": "8,000",
+            "Damage": "2,301.02",
+            "Range": "35",
+            "SPA": "5",
+            "DPS": "460.2"
+        }
+    ]
+}

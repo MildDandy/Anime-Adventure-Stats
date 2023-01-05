@@ -1,0 +1,150 @@
+{
+    "Name": "Gone (Adult)",
+    "Tags": [
+        "Mythic Units",
+        "Hunter X Hunter Units",
+        "Evolved Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 3": "AoE (Circle) - radius: 14"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,750",
+            "Damage": "250",
+            "Range": "12",
+            "SPA": "10",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "550",
+            "Range": "13",
+            "SPA": "10",
+            "DPS": "55"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "800",
+            "Range": "15",
+            "SPA": "10",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "1,400",
+            "Range": "16",
+            "SPA": "15",
+            "DPS": "93.33"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "2,000",
+            "Range": "17",
+            "SPA": "15",
+            "DPS": "133.33"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "2,400",
+            "Range": "20",
+            "SPA": "15",
+            "DPS": "160"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "2,750",
+            "Range": "25",
+            "SPA": "15",
+            "DPS": "183.33"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "3,000",
+            "Range": "28",
+            "SPA": "15",
+            "DPS": "200"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "3,750",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "250"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,750",
+            "Damage": "2,301.02",
+            "Range": "12",
+            "SPA": "10",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "5,062.24",
+            "Range": "13",
+            "SPA": "10",
+            "DPS": "506.22"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "7,363.25",
+            "Range": "15",
+            "SPA": "10",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "12,885.69",
+            "Range": "16",
+            "SPA": "15",
+            "DPS": "859.05"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "18,408.13",
+            "Range": "17",
+            "SPA": "15",
+            "DPS": "1,227.21"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "22,089.76",
+            "Range": "20",
+            "SPA": "15",
+            "DPS": "1,472.65"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "25,311.18",
+            "Range": "25",
+            "SPA": "15",
+            "DPS": "1,687.41"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "27,612.2",
+            "Range": "28",
+            "SPA": "15",
+            "DPS": "1,840.81"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "34,515.24",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "2,301.02"
+        }
+    ]
+}

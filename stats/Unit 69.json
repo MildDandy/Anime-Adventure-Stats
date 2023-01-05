@@ -1,0 +1,151 @@
+{
+    "Name": "Kent",
+    "Tags": [
+        "Mythic Units",
+        "Unobtainable Units",
+        "Jujutsu Kaisen Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 7": "AoE (Circle) - radius: 9"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "120",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "17.14"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "250",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 2": "2,100",
+            "Damage": "390",
+            "Range": "19",
+            "SPA": "6.5",
+            "DPS": "60"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "600",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "92.31"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "850",
+            "Range": "21.5",
+            "SPA": "6.5",
+            "DPS": "130.77"
+        },
+        {
+            "Upgrade 5": "6,100",
+            "Damage": "1,250",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "192.31"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "1,500",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "250"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "1,800",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "300"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "2,200",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "366.67"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "1,104.49",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "157.78"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "2,301.02",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 2": "2,100",
+            "Damage": "3,589.59",
+            "Range": "19",
+            "SPA": "6.5",
+            "DPS": "552.24"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "5,522.44",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "849.61"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "7,823.46",
+            "Range": "21.5",
+            "SPA": "6.5",
+            "DPS": "1,203.61"
+        },
+        {
+            "Upgrade 5": "6,100",
+            "Damage": "11,505.08",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "1,770.01"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "13,806.1",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "2,301.02"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "16,567.32",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "2,761.22"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "20,248.94",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "3,374.82"
+        }
+    ]
+}

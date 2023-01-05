@@ -1,0 +1,140 @@
+{
+    "Name": "Ichi (Dusk)",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Dark",
+        "Bleach Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Dark"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 3": "AoE (Circle) - radius: 8.5",
+        "Upgrade 6": "AoE (Circle) - radius: 11"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "350",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "53.85"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "500",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "76.92"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "750",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "125"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "900",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "1,200",
+            "Range": "23",
+            "SPA": "5.5",
+            "DPS": "218.18"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "1,600",
+            "Range": "24",
+            "SPA": "5.5",
+            "DPS": "290.91"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "2,000",
+            "Range": "26",
+            "SPA": "5.5",
+            "DPS": "363.64"
+        },
+        {
+            "Upgrade 7": "11,000",
+            "Damage": "2,500",
+            "Range": "28",
+            "SPA": "5",
+            "DPS": "500"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "3,221.42",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "495.6"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "4,602.03",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "708.01"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "6,903.05",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "1,150.51"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "8,283.66",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "11,044.88",
+            "Range": "23",
+            "SPA": "5.5",
+            "DPS": "2,008.16"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "14,726.5",
+            "Range": "24",
+            "SPA": "5.5",
+            "DPS": "2,677.55"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "18,408.13",
+            "Range": "26",
+            "SPA": "5.5",
+            "DPS": "3,346.93"
+        },
+        {
+            "Upgrade 7": "11,000",
+            "Damage": "23,010.16",
+            "Range": "28",
+            "SPA": "5",
+            "DPS": "4,602.03"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "Name": "Itochi",
+    "Tags": [
+        "Damage Type Fire",
+        "Burn Units",
+        "Naruto Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "AoE (Circle) - radius: 5"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "900",
+            "Damage": "90",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "15"
+        },
+        {
+            "Upgrade 1": "800",
+            "Damage": "150",
+            "Range": "16",
+            "SPA": "6",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 2": "1,000",
+            "Damage": "175",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "29.17"
+        },
+        {
+            "Upgrade 3": "1,000",
+            "Damage": "200",
+            "Range": "18",
+            "SPA": "5.5",
+            "DPS": "36.36"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "200",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "300",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "60"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "400",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "88.89"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "900",
+            "Damage": "828.37",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "138.06"
+        },
+        {
+            "Upgrade 1": "800",
+            "Damage": "1,380.61",
+            "Range": "16",
+            "SPA": "6",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 2": "1,000",
+            "Damage": "1,610.71",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "268.45"
+        },
+        {
+            "Upgrade 3": "1,000",
+            "Damage": "1,840.81",
+            "Range": "18",
+            "SPA": "5.5",
+            "DPS": "334.69"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "1,840.81",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "2,761.22",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "552.24"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "3,681.63",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "818.14"
+        }
+    ]
+}

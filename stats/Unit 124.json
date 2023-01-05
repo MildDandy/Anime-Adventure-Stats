@@ -1,0 +1,154 @@
+{
+    "Name": "Weather",
+    "Tags": [
+        "Mythic Units",
+        "JoJo's Bizarre Adventure Units",
+        "Limited Units",
+        "Damage Type Lightning",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "HYBD"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 15"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "175",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "29.17"
+        },
+        {
+            "Upgrade 1": "1,600",
+            "Damage": "300",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "450",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "75"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "600",
+            "Range": "30",
+            "SPA": "7.5",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "750",
+            "Range": "31",
+            "SPA": "7.5",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,000",
+            "Range": "32",
+            "SPA": "7",
+            "DPS": "142.86"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "1,500",
+            "Range": "33",
+            "SPA": "6.5",
+            "DPS": "230.77"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "2,000",
+            "Range": "34",
+            "SPA": "6.5",
+            "DPS": "307.69"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "2,400",
+            "Range": "35",
+            "SPA": "6",
+            "DPS": "400"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "1,610.71",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "268.45"
+        },
+        {
+            "Upgrade 1": "1,600",
+            "Damage": "2,761.22",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "4,141.83",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "690.3"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "5,522.44",
+            "Range": "30",
+            "SPA": "7.5",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "6,903.05",
+            "Range": "31",
+            "SPA": "7.5",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "9,204.07",
+            "Range": "32",
+            "SPA": "7",
+            "DPS": "1,314.87"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "13,806.1",
+            "Range": "33",
+            "SPA": "6.5",
+            "DPS": "2,124.02"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "18,408.13",
+            "Range": "34",
+            "SPA": "6.5",
+            "DPS": "2,832.02"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "22,089.76",
+            "Range": "35",
+            "SPA": "6",
+            "DPS": "3,681.63"
+        }
+    ]
+}

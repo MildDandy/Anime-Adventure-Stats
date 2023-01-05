@@ -1,0 +1,180 @@
+{
+    "Name": "Puchi (Heaven)",
+    "Tags": [
+        "Mythic Units",
+        "JoJo's Bizarre Adventure Units",
+        "JoJo Units",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 3": "AoE (Circle) - radius: 7",
+        "Upgrade 6": "AoE (Circle) - radius: 15"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,753",
+            "Damage": "200",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 1": "2,129",
+            "Damage": "400",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 2": "2,531",
+            "Damage": "600",
+            "Range": "24",
+            "SPA": "5",
+            "DPS": "120"
+        },
+        {
+            "Upgrade 3": "3,457",
+            "Damage": "750",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "166.67"
+        },
+        {
+            "Upgrade 4": "5,101",
+            "Damage": "1,250",
+            "Range": "26",
+            "SPA": "4.5",
+            "DPS": "277.78"
+        },
+        {
+            "Upgrade 5": "6,521",
+            "Damage": "1,750",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "388.89"
+        },
+        {
+            "Upgrade 6": "7,919",
+            "Damage": "2,500",
+            "Range": "28",
+            "SPA": "4.5",
+            "DPS": "555.56"
+        },
+        {
+            "Upgrade 7": "10,267",
+            "Damage": "3,000",
+            "Range": "29",
+            "SPA": "4",
+            "DPS": "750"
+        },
+        {
+            "Upgrade 8": "12,569",
+            "Damage": "3,500",
+            "Range": "30",
+            "SPA": "4",
+            "DPS": "875"
+        },
+        {
+            "Upgrade 9": "17,207",
+            "Damage": "4,000",
+            "Range": "32",
+            "SPA": "3.5",
+            "DPS": "1,142.86"
+        },
+        {
+            "Upgrade 10": "25,367",
+            "Damage": "5,000",
+            "Range": "35",
+            "SPA": "3.5",
+            "DPS": "1,428.57"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,753",
+            "Damage": "1,840.81",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 1": "2,129",
+            "Damage": "3,681.63",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 2": "2,531",
+            "Damage": "5,522.44",
+            "Range": "24",
+            "SPA": "5",
+            "DPS": "1,104.49"
+        },
+        {
+            "Upgrade 3": "3,457",
+            "Damage": "6,903.05",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "1,534.01"
+        },
+        {
+            "Upgrade 4": "5,101",
+            "Damage": "11,505.08",
+            "Range": "26",
+            "SPA": "4.5",
+            "DPS": "2,556.68"
+        },
+        {
+            "Upgrade 5": "6,521",
+            "Damage": "16,107.11",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "3,579.36"
+        },
+        {
+            "Upgrade 6": "7,919",
+            "Damage": "23,010.16",
+            "Range": "28",
+            "SPA": "4.5",
+            "DPS": "5,113.37"
+        },
+        {
+            "Upgrade 7": "10,267",
+            "Damage": "27,612.2",
+            "Range": "29",
+            "SPA": "4",
+            "DPS": "6,903.05"
+        },
+        {
+            "Upgrade 8": "12,569",
+            "Damage": "32,214.23",
+            "Range": "30",
+            "SPA": "4",
+            "DPS": "8,053.56"
+        },
+        {
+            "Upgrade 9": "17,207",
+            "Damage": "36,816.26",
+            "Range": "32",
+            "SPA": "3.5",
+            "DPS": "10,518.93"
+        },
+        {
+            "Upgrade 10": "25,367",
+            "Damage": "46,020.33",
+            "Range": "35",
+            "SPA": "3.5",
+            "DPS": "13,148.66"
+        }
+    ]
+}

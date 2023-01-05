@@ -1,0 +1,151 @@
+{
+    "Name": "Levy Ackman",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Damage Type Physical",
+        "Attack on Titan Units",
+        "Bleed Units"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 5": "AoE (Circle) - radius: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "136",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "19.43"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "280",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "480",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "73.85"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "680",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "113.33"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "960",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "160"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,160",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "193.33"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "1,440",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "240"
+        },
+        {
+            "Upgrade 7": "7,000",
+            "Damage": "1,680",
+            "Range": "28",
+            "SPA": "5.5",
+            "DPS": "305.45"
+        },
+        {
+            "Upgrade 8": "8,500",
+            "Damage": "1,952",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "390.4"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "1,251.75",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "178.82"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,577.14",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "4,417.95",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "679.68"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "6,258.76",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "1,043.13"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "8,835.9",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "1,472.65"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "10,676.72",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "1,779.45"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "13,253.85",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "2,208.98"
+        },
+        {
+            "Upgrade 7": "7,000",
+            "Damage": "15,462.83",
+            "Range": "28",
+            "SPA": "5.5",
+            "DPS": "2,811.42"
+        },
+        {
+            "Upgrade 8": "8,500",
+            "Damage": "17,966.33",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "3,593.27"
+        }
+    ]
+}

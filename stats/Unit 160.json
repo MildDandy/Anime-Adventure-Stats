@@ -1,0 +1,134 @@
+{
+    "Name": "Erein",
+    "Tags": [
+        "Attack on Titan Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "2",
+    "Tower Type": [
+        "GRND",
+        "SUMN"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "20",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "25"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "20",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "56.25"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "19",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "87.5"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "18",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "137.5"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "17",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "200"
+        },
+        {
+            "Upgrade 5": "4,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "16",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "275"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "15",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "375"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "20",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "230.1"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "20",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "517.73"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "19",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "805.36"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "18",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "1,265.56"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "17",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "1,840.81"
+        },
+        {
+            "Upgrade 5": "4,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "16",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "2,531.12"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "15",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "3,451.52"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Name": "Ermo",
+    "Tags": [
+        "Mythic Units",
+        "JoJo's Bizarre Adventure Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 2": "AoE (Circle) - radius: 6"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "250",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 1": "1,750",
+            "Damage": "550",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "84.62"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "1,000",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "153.85"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "1,200",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "200"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,600",
+            "Range": "19.5",
+            "SPA": "6",
+            "DPS": "266.67"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,900",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "316.67"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "2,000",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "363.64"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "2,500",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "454.55"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "2,301.02",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 1": "1,750",
+            "Damage": "5,062.24",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "778.81"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "9,204.07",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "1,416.01"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "11,044.88",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "1,840.81"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "14,726.5",
+            "Range": "19.5",
+            "SPA": "6",
+            "DPS": "2,454.42"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "17,487.72",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "2,914.62"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "18,408.13",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "3,346.93"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "23,010.16",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "4,183.67"
+        }
+    ]
+}

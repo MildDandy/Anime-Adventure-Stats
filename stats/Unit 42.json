@@ -1,0 +1,142 @@
+{
+    "Name": "Ghacco",
+    "Tags": [
+        "Mythic Units",
+        "JoJo's Bizarre Adventure Units",
+        "Limited Units",
+        "Damage Type Physical",
+        "Damage Type Ice",
+        "Pages with script errors"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 7",
+        "Upgrade 3": "AoE (Cone) - angle: 45",
+        "Upgrade 5": "AoE (Cone) - angle: 45"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "250",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "31.25"
+        },
+        {
+            "Upgrade 1": "2,250",
+            "Damage": "500",
+            "Range": "20.5",
+            "SPA": "7.5",
+            "DPS": "66.67"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "900",
+            "Range": "22",
+            "SPA": "7.5",
+            "DPS": "120"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "1,500",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "214.29"
+        },
+        {
+            "Upgrade 4": "4,300",
+            "Damage": "1,750",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "250"
+        },
+        {
+            "Upgrade 5": "6,200",
+            "Damage": "2,250",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "346.15"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "2,750",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "458.33"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "3,150",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "525"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "2,301.02",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "287.63"
+        },
+        {
+            "Upgrade 1": "2,250",
+            "Damage": "4,602.03",
+            "Range": "20.5",
+            "SPA": "7.5",
+            "DPS": "613.6"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "8,283.66",
+            "Range": "22",
+            "SPA": "7.5",
+            "DPS": "1,104.49"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "13,806.1",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "1,972.3"
+        },
+        {
+            "Upgrade 4": "4,300",
+            "Damage": "16,107.11",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "2,301.02"
+        },
+        {
+            "Upgrade 5": "6,200",
+            "Damage": "20,709.15",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "3,186.02"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "25,311.18",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "4,218.53"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "28,992.8",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "4,832.13"
+        }
+    ]
+}

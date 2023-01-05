@@ -1,0 +1,93 @@
+{
+    "Name": "Zoru",
+    "Tags": [
+        "Rare Units",
+        "One Piece Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Full)",
+        "Upgrade 3": "AoE (Line) - width: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "3",
+            "Range": "6",
+            "SPA": "3",
+            "DPS": "1"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "8",
+            "Range": "6",
+            "SPA": "3",
+            "DPS": "2.67"
+        },
+        {
+            "Upgrade 2": "850",
+            "Damage": "10",
+            "Range": "6.5",
+            "SPA": "2.5",
+            "DPS": "4"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "20",
+            "Range": "10",
+            "SPA": "2.5",
+            "DPS": "8"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "25",
+            "Range": "12",
+            "SPA": "2",
+            "DPS": "12.5"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "27.61",
+            "Range": "6",
+            "SPA": "3",
+            "DPS": "9.2"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "73.63",
+            "Range": "6",
+            "SPA": "3",
+            "DPS": "24.54"
+        },
+        {
+            "Upgrade 2": "850",
+            "Damage": "92.04",
+            "Range": "6.5",
+            "SPA": "2.5",
+            "DPS": "36.82"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "184.08",
+            "Range": "10",
+            "SPA": "2.5",
+            "DPS": "73.63"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "230.1",
+            "Range": "12",
+            "SPA": "2",
+            "DPS": "115.05"
+        }
+    ]
+}

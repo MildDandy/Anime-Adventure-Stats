@@ -1,0 +1,135 @@
+{
+    "Name": "Diavoro",
+    "Tags": [
+        "Mythic Units",
+        "JoJo's Bizarre Adventure Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "100",
+            "Range": "10",
+            "SPA": "9",
+            "DPS": "11.11"
+        },
+        {
+            "Upgrade 1": "1,300",
+            "Damage": "250",
+            "Range": "11",
+            "SPA": "8.5",
+            "DPS": "29.41"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "300",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "37.5"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "500",
+            "Range": "13",
+            "SPA": "7.5",
+            "DPS": "66.67"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "700",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "93.33"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "900",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "128.57"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "1,000",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "142.86"
+        },
+        {
+            "Upgrade 7": "12,500",
+            "Damage": "1,500",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "250"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "920.41",
+            "Range": "10",
+            "SPA": "9",
+            "DPS": "102.27"
+        },
+        {
+            "Upgrade 1": "1,300",
+            "Damage": "2,301.02",
+            "Range": "11",
+            "SPA": "8.5",
+            "DPS": "270.71"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "2,761.22",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "345.15"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "4,602.03",
+            "Range": "13",
+            "SPA": "7.5",
+            "DPS": "613.6"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "6,442.85",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "859.05"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "8,283.66",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "1,183.38"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "9,204.07",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "1,314.87"
+        },
+        {
+            "Upgrade 7": "12,500",
+            "Damage": "13,806.1",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "2,301.02"
+        }
+    ]
+}

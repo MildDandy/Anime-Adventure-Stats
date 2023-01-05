@@ -1,0 +1,140 @@
+{
+    "Name": "Toshin",
+    "Tags": [
+        "Mythic Units",
+        "Limited Units",
+        "Damage Type Physical",
+        "Bleach Units",
+        "Damage Type Ice"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "HYBD"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "350",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "600",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "85.71"
+        },
+        {
+            "Upgrade 2": "1,800",
+            "Damage": "800",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "114.29"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "900",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "128.57"
+        },
+        {
+            "Upgrade 4": "3,400",
+            "Damage": "1,250",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "192.31"
+        },
+        {
+            "Upgrade 5": "4,750",
+            "Damage": "1,750",
+            "Range": "28",
+            "SPA": "6.5",
+            "DPS": "269.23"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "2,300",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "353.85"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "2,500",
+            "Range": "33",
+            "SPA": "6",
+            "DPS": "416.67"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "3,221.42",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "5,522.44",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "788.92"
+        },
+        {
+            "Upgrade 2": "1,800",
+            "Damage": "7,363.25",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "1,051.89"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "8,283.66",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "1,183.38"
+        },
+        {
+            "Upgrade 4": "3,400",
+            "Damage": "11,505.08",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "1,770.01"
+        },
+        {
+            "Upgrade 5": "4,750",
+            "Damage": "16,107.11",
+            "Range": "28",
+            "SPA": "6.5",
+            "DPS": "2,478.02"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "21,169.35",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "3,256.82"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "23,010.16",
+            "Range": "33",
+            "SPA": "6",
+            "DPS": "3,835.03"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "Name": "Nobaba",
+    "Tags": [
+        "Jujutsu Kaisen Units",
+        "Bleed Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 4": "AoE (Circle) - radius: 8",
+        "Upgrade 7": "AoE (Circle) - radius: 11"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "60",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "150",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "250",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "41.67"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "300",
+            "Range": "21.5",
+            "SPA": "6",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "350",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "63.64"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "450",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "90"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "500",
+            "Range": "27",
+            "SPA": "5",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "650",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "108.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "552.24",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "1,380.61",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "2,301.02",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "383.5"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "2,761.22",
+            "Range": "21.5",
+            "SPA": "6",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "3,221.42",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "585.71"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "4,141.83",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "828.37"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "4,602.03",
+            "Range": "27",
+            "SPA": "5",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "5,982.64",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "997.11"
+        }
+    ]
+}

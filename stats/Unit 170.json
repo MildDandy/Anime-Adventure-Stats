@@ -1,0 +1,153 @@
+{
+    "Name": "Juvy",
+    "Tags": [
+        "Damage Type Water",
+        "Fairy Tail Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Water"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 7": "AoE (Cone) - angle: 30"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "700",
+            "Damage": "50",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "8.33"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "100",
+            "Range": "16",
+            "SPA": "6",
+            "DPS": "16.67"
+        },
+        {
+            "Upgrade 2": "1,600",
+            "Damage": "150",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 3": "2,000",
+            "Damage": "175",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "35"
+        },
+        {
+            "Upgrade 4": "2,400",
+            "Damage": "250",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 5": "3,100",
+            "Damage": "300",
+            "Range": "22",
+            "SPA": "4.5",
+            "DPS": "66.67"
+        },
+        {
+            "Upgrade 6": "3,300",
+            "Damage": "400",
+            "Range": "24",
+            "SPA": "4.5",
+            "DPS": "88.89"
+        },
+        {
+            "Upgrade 7": "4,500",
+            "Damage": "700",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "140"
+        },
+        {
+            "Upgrade 8": "5,000",
+            "Damage": "800",
+            "Range": "27",
+            "SPA": "5",
+            "DPS": "160"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "700",
+            "Damage": "460.2",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "76.7"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "920.41",
+            "Range": "16",
+            "SPA": "6",
+            "DPS": "153.4"
+        },
+        {
+            "Upgrade 2": "1,600",
+            "Damage": "1,380.61",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 3": "2,000",
+            "Damage": "1,610.71",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "322.14"
+        },
+        {
+            "Upgrade 4": "2,400",
+            "Damage": "2,301.02",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 5": "3,100",
+            "Damage": "2,761.22",
+            "Range": "22",
+            "SPA": "4.5",
+            "DPS": "613.6"
+        },
+        {
+            "Upgrade 6": "3,300",
+            "Damage": "3,681.63",
+            "Range": "24",
+            "SPA": "4.5",
+            "DPS": "818.14"
+        },
+        {
+            "Upgrade 7": "4,500",
+            "Damage": "6,442.85",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "1,288.57"
+        },
+        {
+            "Upgrade 8": "5,000",
+            "Damage": "7,363.25",
+            "Range": "27",
+            "SPA": "5",
+            "DPS": "1,472.65"
+        }
+    ]
+}

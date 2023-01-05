@@ -1,0 +1,167 @@
+{
+    "Name": "Kisoko (Bankai)",
+    "Tags": [
+        "Evolved Units",
+        "Unobtainable Units",
+        "Damage Type Physical",
+        "Secret Units",
+        "Bleach Units",
+        "Meta Units"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Line) - width: 10",
+        "Upgrade 6": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "112",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "14"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "280",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "35"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "420",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "56"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "490",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "70"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "560",
+            "Range": "25.5",
+            "SPA": "7",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "840",
+            "Range": "26",
+            "SPA": "7",
+            "DPS": "120"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "1,120",
+            "Range": "27",
+            "SPA": "6.5",
+            "DPS": "172.31"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "1,680",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "280"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "1,960",
+            "Range": "29",
+            "SPA": "6",
+            "DPS": "326.67"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "2,520",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "420"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "1,030.86",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "128.86"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,577.14",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "322.14"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "3,865.71",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "515.43"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "4,509.99",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "644.28"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "5,154.28",
+            "Range": "25.5",
+            "SPA": "7",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "7,731.41",
+            "Range": "26",
+            "SPA": "7",
+            "DPS": "1,104.49"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "10,308.55",
+            "Range": "27",
+            "SPA": "6.5",
+            "DPS": "1,585.93"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "15,462.83",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "2,577.14"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "18,039.97",
+            "Range": "29",
+            "SPA": "6",
+            "DPS": "3,006.66"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "23,194.24",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "3,865.71"
+        }
+    ]
+}

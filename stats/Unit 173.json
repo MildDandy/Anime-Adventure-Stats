@@ -1,0 +1,153 @@
+{
+    "Name": "Magnu",
+    "Tags": [
+        "Damage Type Fire",
+        "Black Clover Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 3": "AoE (Cone) - angle: 40",
+        "Upgrade 7": "AoE (Circle) - radius: 9"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "90",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "12.86"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "150",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "21.43"
+        },
+        {
+            "Upgrade 2": "1,600",
+            "Damage": "250",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 3": "1,900",
+            "Damage": "300",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "46.15"
+        },
+        {
+            "Upgrade 4": "2,200",
+            "Damage": "350",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "53.85"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "450",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "69.23"
+        },
+        {
+            "Upgrade 6": "3,500",
+            "Damage": "550",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "84.62"
+        },
+        {
+            "Upgrade 7": "5,000",
+            "Damage": "700",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "116.67"
+        },
+        {
+            "Upgrade 8": "6,000",
+            "Damage": "900",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "150"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "828.37",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "118.34"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "1,380.61",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "197.23"
+        },
+        {
+            "Upgrade 2": "1,600",
+            "Damage": "2,301.02",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 3": "1,900",
+            "Damage": "2,761.22",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "424.8"
+        },
+        {
+            "Upgrade 4": "2,200",
+            "Damage": "3,221.42",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "495.6"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "4,141.83",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "637.2"
+        },
+        {
+            "Upgrade 6": "3,500",
+            "Damage": "5,062.24",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "778.81"
+        },
+        {
+            "Upgrade 7": "5,000",
+            "Damage": "6,442.85",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "1,073.81"
+        },
+        {
+            "Upgrade 8": "6,000",
+            "Damage": "8,283.66",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "1,380.61"
+        }
+    ]
+}

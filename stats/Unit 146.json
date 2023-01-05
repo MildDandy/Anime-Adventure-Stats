@@ -1,0 +1,94 @@
+{
+    "Name": "Kit (Precision)",
+    "Tags": [
+        "Hunter X Hunter Units",
+        "Evolved Units",
+        "Unobtainable Units",
+        "Damage Type Physical",
+        "Secret Units"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone)/AoE (Circle)/AoE (Very Large Circle)Crit chance: 40"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "4,000",
+            "Damage": "300",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "37.5"
+        },
+        {
+            "Upgrade 1": "8,000",
+            "Damage": "720",
+            "Range": "25",
+            "SPA": "8",
+            "DPS": "90"
+        },
+        {
+            "Upgrade 2": "12,000",
+            "Damage": "1,440",
+            "Range": "27",
+            "SPA": "8",
+            "DPS": "180"
+        },
+        {
+            "Upgrade 3": "15,000",
+            "Damage": "2,100",
+            "Range": "29",
+            "SPA": "8",
+            "DPS": "262.5"
+        },
+        {
+            "Upgrade 4": "20,000",
+            "Damage": "2,700",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "337.5"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "4,000",
+            "Damage": "2,761.22",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "345.15"
+        },
+        {
+            "Upgrade 1": "8,000",
+            "Damage": "6,626.93",
+            "Range": "25",
+            "SPA": "8",
+            "DPS": "828.37"
+        },
+        {
+            "Upgrade 2": "12,000",
+            "Damage": "13,253.85",
+            "Range": "27",
+            "SPA": "8",
+            "DPS": "1,656.73"
+        },
+        {
+            "Upgrade 3": "15,000",
+            "Damage": "19,328.54",
+            "Range": "29",
+            "SPA": "8",
+            "DPS": "2,416.07"
+        },
+        {
+            "Upgrade 4": "20,000",
+            "Damage": "24,850.98",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "3,106.37"
+        }
+    ]
+}

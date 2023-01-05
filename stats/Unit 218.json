@@ -1,0 +1,85 @@
+{
+    "Name": "Sakuro",
+    "Tags": [
+        "Rare Units",
+        "Naruto Units",
+        "Meta Units"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "HYBD",
+        "BUFF"
+    ],
+    "Damage Type": "None",
+    "Attack Type": {
+        "Deployment": "None"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "600",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "5",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        },
+        {
+            "Upgrade 1": "800",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "6",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        },
+        {
+            "Upgrade 2": "1,200",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "7",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        },
+        {
+            "Upgrade 3": "2,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "8",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "600",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "5",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        },
+        {
+            "Upgrade 1": "800",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "6",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        },
+        {
+            "Upgrade 2": "1,200",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "7",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        },
+        {
+            "Upgrade 3": "2,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "8",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data",
+            "Spawn": "Incomplete Wiki D"
+        }
+    ]
+}

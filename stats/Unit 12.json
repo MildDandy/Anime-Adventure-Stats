@@ -1,0 +1,149 @@
+{
+    "Name": "Ariva",
+    "Tags": [
+        "Mythic Units",
+        "Tokyo Ghoul Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 4": "AoE (Circle) - radius: 11"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "55",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "6.88"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "125",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "15.63"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "200",
+            "Range": "23.5",
+            "SPA": "7.5",
+            "DPS": "26.67"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "275",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "36.67"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "375",
+            "Range": "24.5",
+            "SPA": "7",
+            "DPS": "53.57"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "525",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "75"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "650",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "800",
+            "Range": "26.5",
+            "SPA": "6.5",
+            "DPS": "123.08"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "900",
+            "Range": "27.5",
+            "SPA": "6",
+            "DPS": "150"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "506.22",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "63.28"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "1,150.51",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "143.81"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "1,840.81",
+            "Range": "23.5",
+            "SPA": "7.5",
+            "DPS": "245.44"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "2,531.12",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "337.48"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "3,451.52",
+            "Range": "24.5",
+            "SPA": "7",
+            "DPS": "493.07"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "4,832.13",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "690.3"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "5,982.64",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "7,363.25",
+            "Range": "26.5",
+            "SPA": "6.5",
+            "DPS": "1,132.81"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "8,283.66",
+            "Range": "27.5",
+            "SPA": "6",
+            "DPS": "1,380.61"
+        }
+    ]
+}

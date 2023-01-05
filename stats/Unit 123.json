@@ -1,0 +1,168 @@
+{
+    "Name": "Uru (Antithesis)",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Light",
+        "Evolved Units",
+        "Damage Type Physical",
+        "Bleach Units"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Light"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 4": "AoE (Circle) - radius: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "97.5",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "16.25"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "162.5",
+            "Range": "20.5",
+            "SPA": "5.5",
+            "DPS": "29.55"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "243.75",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "44.32"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "325",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "65"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "406.25",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "81.25"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "568.75",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "126.39"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "731.25",
+            "Range": "30",
+            "SPA": "4.5",
+            "DPS": "162.5"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "893.75",
+            "Range": "35",
+            "SPA": "4",
+            "DPS": "223.44"
+        },
+        {
+            "Upgrade 8": "9,000",
+            "Damage": "975",
+            "Range": "40",
+            "SPA": "4",
+            "DPS": "243.75"
+        },
+        {
+            "Upgrade 9": "10,000",
+            "Damage": "1,137.5",
+            "Range": "45",
+            "SPA": "3.5",
+            "DPS": "325"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "897.4",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "149.57"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "1,495.66",
+            "Range": "20.5",
+            "SPA": "5.5",
+            "DPS": "271.94"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "2,243.49",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "407.91"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "2,991.32",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "598.26"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "3,739.15",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "747.83"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "5,234.81",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "1,163.29"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "6,730.47",
+            "Range": "30",
+            "SPA": "4.5",
+            "DPS": "1,495.66"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "8,226.13",
+            "Range": "35",
+            "SPA": "4",
+            "DPS": "2,056.53"
+        },
+        {
+            "Upgrade 8": "9,000",
+            "Damage": "8,973.96",
+            "Range": "40",
+            "SPA": "4",
+            "DPS": "2,243.49"
+        },
+        {
+            "Upgrade 9": "10,000",
+            "Damage": "10,469.62",
+            "Range": "45",
+            "SPA": "3.5",
+            "DPS": "2,991.32"
+        }
+    ]
+}

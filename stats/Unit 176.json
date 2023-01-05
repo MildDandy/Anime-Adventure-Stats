@@ -1,0 +1,136 @@
+{
+    "Name": "Nightmare Luffo",
+    "Tags": [
+        "One Piece Units",
+        "Limited Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 6": "AoE (Line) - width: 5"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "900",
+            "Damage": "120",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "17.14"
+        },
+        {
+            "Upgrade 1": "1,350",
+            "Damage": "250",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 2": "1,700",
+            "Damage": "400",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "61.54"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "500",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "76.92"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "600",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "700",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "116.67"
+        },
+        {
+            "Upgrade 6": "4,500",
+            "Damage": "800",
+            "Range": "24",
+            "SPA": "5.5",
+            "DPS": "145.45"
+        },
+        {
+            "Upgrade 7": "6,000",
+            "Damage": "1,000",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "200"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "900",
+            "Damage": "1,104.49",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "157.78"
+        },
+        {
+            "Upgrade 1": "1,350",
+            "Damage": "2,301.02",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 2": "1,700",
+            "Damage": "3,681.63",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "566.4"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "4,602.03",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "708.01"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "5,522.44",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "6,442.85",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "1,073.81"
+        },
+        {
+            "Upgrade 6": "4,500",
+            "Damage": "7,363.25",
+            "Range": "24",
+            "SPA": "5.5",
+            "DPS": "1,338.77"
+        },
+        {
+            "Upgrade 7": "6,000",
+            "Damage": "9,204.07",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "1,840.81"
+        }
+    ]
+}

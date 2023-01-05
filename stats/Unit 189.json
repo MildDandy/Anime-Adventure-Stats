@@ -1,0 +1,140 @@
+{
+    "Name": "Croc",
+    "Tags": [
+        "Damage Type Air",
+        "Epic Units",
+        "One Piece Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Air"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 5",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 6": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "10",
+            "Range": "19",
+            "SPA": "8",
+            "DPS": "1.25"
+        },
+        {
+            "Upgrade 1": "1,000",
+            "Damage": "25",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "3.13"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "37",
+            "Range": "21",
+            "SPA": "7.5",
+            "DPS": "4.93"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "55",
+            "Range": "21.5",
+            "SPA": "7",
+            "DPS": "7.86"
+        },
+        {
+            "Upgrade 4": "2,000",
+            "Damage": "75",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "11.54"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "90",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "15"
+        },
+        {
+            "Upgrade 6": "3,000",
+            "Damage": "150",
+            "Range": "22.5",
+            "SPA": "6.5",
+            "DPS": "23.08"
+        },
+        {
+            "Upgrade 7": "3,500",
+            "Damage": "200",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "33.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "92.04",
+            "Range": "19",
+            "SPA": "8",
+            "DPS": "11.51"
+        },
+        {
+            "Upgrade 1": "1,000",
+            "Damage": "230.1",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "28.76"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "340.55",
+            "Range": "21",
+            "SPA": "7.5",
+            "DPS": "45.41"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "506.22",
+            "Range": "21.5",
+            "SPA": "7",
+            "DPS": "72.32"
+        },
+        {
+            "Upgrade 4": "2,000",
+            "Damage": "690.3",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "106.2"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "828.37",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "138.06"
+        },
+        {
+            "Upgrade 6": "3,000",
+            "Damage": "1,380.61",
+            "Range": "22.5",
+            "SPA": "6.5",
+            "DPS": "212.4"
+        },
+        {
+            "Upgrade 7": "3,500",
+            "Damage": "1,840.81",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "306.8"
+        }
+    ]
+}

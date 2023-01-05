@@ -1,0 +1,154 @@
+{
+    "Name": "Renkoko",
+    "Tags": [
+        "Mythic Units",
+        "Demon Slayer Units",
+        "Damage Type Fire",
+        "Damage Type Physical",
+        "Burn Units"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 8",
+        "Upgrade 4": "AoE (Line) - width: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "50",
+            "Range": "15",
+            "SPA": "8",
+            "DPS": "6.25"
+        },
+        {
+            "Upgrade 1": "1,750",
+            "Damage": "100",
+            "Range": "15.5",
+            "SPA": "7.5",
+            "DPS": "13.33"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "200",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "26.67"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "250",
+            "Range": "16.5",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "350",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "450",
+            "Range": "21",
+            "SPA": "6.5",
+            "DPS": "69.23"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "600",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "92.31"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "700",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "116.67"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "850",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "141.67"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "460.2",
+            "Range": "15",
+            "SPA": "8",
+            "DPS": "57.53"
+        },
+        {
+            "Upgrade 1": "1,750",
+            "Damage": "920.41",
+            "Range": "15.5",
+            "SPA": "7.5",
+            "DPS": "122.72"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "1,840.81",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "245.44"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "2,301.02",
+            "Range": "16.5",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "3,221.42",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "4,141.83",
+            "Range": "21",
+            "SPA": "6.5",
+            "DPS": "637.2"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "5,522.44",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "849.61"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "6,442.85",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "1,073.81"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "7,823.46",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "1,303.91"
+        }
+    ]
+}

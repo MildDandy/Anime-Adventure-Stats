@@ -1,0 +1,107 @@
+{
+    "Name": "Inosoku",
+    "Tags": [
+        "Epic Units",
+        "Demon Slayer Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 50",
+        "Upgrade 4": "AoE (Cone) - angle: 50"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "17",
+            "Range": "8",
+            "SPA": "5",
+            "DPS": "3.4"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "40",
+            "Range": "8",
+            "SPA": "5",
+            "DPS": "8"
+        },
+        {
+            "Upgrade 2": "1,100",
+            "Damage": "55",
+            "Range": "9",
+            "SPA": "4.5",
+            "DPS": "12.22"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "75",
+            "Range": "10",
+            "SPA": "4.5",
+            "DPS": "16.67"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "90",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "22.5"
+        },
+        {
+            "Upgrade 5": "3,250",
+            "Damage": "105",
+            "Range": "13",
+            "SPA": "3.5",
+            "DPS": "30"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "156.47",
+            "Range": "8",
+            "SPA": "5",
+            "DPS": "31.29"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "368.16",
+            "Range": "8",
+            "SPA": "5",
+            "DPS": "73.63"
+        },
+        {
+            "Upgrade 2": "1,100",
+            "Damage": "506.22",
+            "Range": "9",
+            "SPA": "4.5",
+            "DPS": "112.49"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "690.3",
+            "Range": "10",
+            "SPA": "4.5",
+            "DPS": "153.4"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "828.37",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "207.09"
+        },
+        {
+            "Upgrade 5": "3,250",
+            "Damage": "966.43",
+            "Range": "13",
+            "SPA": "3.5",
+            "DPS": "276.12"
+        }
+    ]
+}

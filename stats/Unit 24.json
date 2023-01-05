@@ -1,0 +1,165 @@
+{
+    "Name": "Coyote (Primera)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Units",
+        "Bleach Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 5",
+        "Upgrade 5": "AoE (Line) - width: 20"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "225",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "28.13"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "450",
+            "Range": "31",
+            "SPA": "7.5",
+            "DPS": "60"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "750",
+            "Range": "32",
+            "SPA": "7",
+            "DPS": "107.14"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "1,200",
+            "Range": "33",
+            "SPA": "6.5",
+            "DPS": "184.62"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,500",
+            "Range": "35",
+            "SPA": "6",
+            "DPS": "250"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "1,800",
+            "Range": "45",
+            "SPA": "15",
+            "DPS": "120"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "2,250",
+            "Range": "46",
+            "SPA": "15",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "3,000",
+            "Range": "47",
+            "SPA": "14.5",
+            "DPS": "206.9"
+        },
+        {
+            "Upgrade 8": "25,000",
+            "Damage": "4,125",
+            "Range": "48",
+            "SPA": "14",
+            "DPS": "294.64"
+        },
+        {
+            "Upgrade 9": "30,000",
+            "Damage": "4,950",
+            "Range": "50",
+            "SPA": "13",
+            "DPS": "380.77"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "2,070.91",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "258.86"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "4,141.83",
+            "Range": "31",
+            "SPA": "7.5",
+            "DPS": "552.24"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "6,903.05",
+            "Range": "32",
+            "SPA": "7",
+            "DPS": "986.15"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "11,044.88",
+            "Range": "33",
+            "SPA": "6.5",
+            "DPS": "1,699.21"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "13,806.1",
+            "Range": "35",
+            "SPA": "6",
+            "DPS": "2,301.02"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "16,567.32",
+            "Range": "45",
+            "SPA": "15",
+            "DPS": "1,104.49"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "20,709.15",
+            "Range": "46",
+            "SPA": "15",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "27,612.2",
+            "Range": "47",
+            "SPA": "14.5",
+            "DPS": "1,904.29"
+        },
+        {
+            "Upgrade 8": "25,000",
+            "Damage": "37,966.77",
+            "Range": "48",
+            "SPA": "14",
+            "DPS": "2,711.91"
+        },
+        {
+            "Upgrade 9": "30,000",
+            "Damage": "45,560.12",
+            "Range": "50",
+            "SPA": "13",
+            "DPS": "3,504.62"
+        }
+    ]
+}

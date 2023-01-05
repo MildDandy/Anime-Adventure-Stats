@@ -1,0 +1,171 @@
+{
+    "Name": "Yamo (Captain)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Black Clover Units",
+        "Damage Type Physical",
+        "Damage Type True",
+        "Damage Type Dark"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Dark",
+        "True"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 2",
+        "Upgrade 3": "AoE (Line) - width: 3.5",
+        "Upgrade 7": "AoE (Line) - width: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "540",
+            "Range": "10",
+            "SPA": "5",
+            "DPS": "108"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "810",
+            "Range": "11",
+            "SPA": "4.5",
+            "DPS": "180"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "945",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "236.25"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "1,350",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "192.86"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "1,687.5",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "241.07"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "2,295",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "353.08"
+        },
+        {
+            "Upgrade 6": "6,250",
+            "Damage": "2,970",
+            "Range": "27",
+            "SPA": "6.5",
+            "DPS": "456.92"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "3,375",
+            "Range": "43",
+            "SPA": "6",
+            "DPS": "562.5"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "3,712.5",
+            "Range": "45",
+            "SPA": "6",
+            "DPS": "618.75"
+        },
+        {
+            "Upgrade 9": "17,000",
+            "Damage": "4,320",
+            "Range": "50",
+            "SPA": "6",
+            "DPS": "720"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "4,970.2",
+            "Range": "10",
+            "SPA": "5",
+            "DPS": "994.04"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "7,455.29",
+            "Range": "11",
+            "SPA": "4.5",
+            "DPS": "1,656.73"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "8,697.84",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "2,174.46"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "12,425.49",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "1,775.07"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "15,531.86",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "2,218.84"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "21,123.33",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "3,249.74"
+        },
+        {
+            "Upgrade 6": "6,250",
+            "Damage": "27,336.07",
+            "Range": "27",
+            "SPA": "6.5",
+            "DPS": "4,205.55"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "31,063.72",
+            "Range": "43",
+            "SPA": "6",
+            "DPS": "5,177.29"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "34,170.09",
+            "Range": "45",
+            "SPA": "6",
+            "DPS": "5,695.02"
+        },
+        {
+            "Upgrade 9": "17,000",
+            "Damage": "39,761.56",
+            "Range": "50",
+            "SPA": "6",
+            "DPS": "6,626.93"
+        }
+    ]
+}

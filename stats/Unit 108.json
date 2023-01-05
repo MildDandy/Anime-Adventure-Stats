@@ -1,0 +1,152 @@
+{
+    "Name": "Saicky",
+    "Tags": [
+        "Mythic Units",
+        "Unobtainable Units",
+        "The Disastrous Life of Saiki K. Units",
+        "Damage Type Physical",
+        "Leaderboard Units"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 3",
+        "Upgrade 3": "AoE (Circle) - radius: 5",
+        "Upgrade 7": "AoE (Circle) - radius: 9"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "150",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "21.43"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "250",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "300",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "46.15"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "450",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "69.23"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "550",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "91.67"
+        },
+        {
+            "Upgrade 5": "7,000",
+            "Damage": "650",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "108.33"
+        },
+        {
+            "Upgrade 6": "9,000",
+            "Damage": "800",
+            "Range": "26",
+            "SPA": "5.5",
+            "DPS": "145.45"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "1,000",
+            "Range": "28",
+            "SPA": "5.5",
+            "DPS": "181.82"
+        },
+        {
+            "Upgrade 8": "17,000",
+            "Damage": "1,200",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "240"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "1,380.61",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "197.23"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,301.02",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "2,761.22",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "424.8"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "4,141.83",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "637.2"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "5,062.24",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "843.71"
+        },
+        {
+            "Upgrade 5": "7,000",
+            "Damage": "5,982.64",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "997.11"
+        },
+        {
+            "Upgrade 6": "9,000",
+            "Damage": "7,363.25",
+            "Range": "26",
+            "SPA": "5.5",
+            "DPS": "1,338.77"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "9,204.07",
+            "Range": "28",
+            "SPA": "5.5",
+            "DPS": "1,673.47"
+        },
+        {
+            "Upgrade 8": "17,000",
+            "Damage": "11,044.88",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "2,208.98"
+        }
+    ]
+}

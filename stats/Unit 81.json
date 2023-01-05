@@ -1,0 +1,171 @@
+{
+    "Name": "Lucky (Thunder Fiend)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Unobtainable Units",
+        "Damage Type Lightning",
+        "Black Clover Units",
+        "Damage Type Physical",
+        "Meta Units"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 5",
+        "Upgrade 4": "AoE (Circle) - radius: 5",
+        "Upgrade 8": "AoE (Line) - width: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "195",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "26"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "390",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "52"
+        },
+        {
+            "Upgrade 2": "2,550",
+            "Damage": "585",
+            "Range": "25.5",
+            "SPA": "7",
+            "DPS": "83.57"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "910",
+            "Range": "26",
+            "SPA": "7",
+            "DPS": "130"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,690",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "241.43"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "2,275",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "325"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "2,600",
+            "Range": "29",
+            "SPA": "6.5",
+            "DPS": "400"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "3,250",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "500"
+        },
+        {
+            "Upgrade 8": "13,000",
+            "Damage": "3,575",
+            "Range": "36",
+            "SPA": "6.5",
+            "DPS": "550"
+        },
+        {
+            "Upgrade 9": "17,000",
+            "Damage": "4,550",
+            "Range": "40",
+            "SPA": "6",
+            "DPS": "758.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "1,794.79",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "239.31"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "3,589.59",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "478.61"
+        },
+        {
+            "Upgrade 2": "2,550",
+            "Damage": "5,384.38",
+            "Range": "25.5",
+            "SPA": "7",
+            "DPS": "769.2"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "8,375.7",
+            "Range": "26",
+            "SPA": "7",
+            "DPS": "1,196.53"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "15,554.87",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "2,222.12"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "20,939.25",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "2,991.32"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "23,930.57",
+            "Range": "29",
+            "SPA": "6.5",
+            "DPS": "3,681.63"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "29,913.21",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "4,602.03"
+        },
+        {
+            "Upgrade 8": "13,000",
+            "Damage": "32,904.53",
+            "Range": "36",
+            "SPA": "6.5",
+            "DPS": "5,062.24"
+        },
+        {
+            "Upgrade 9": "17,000",
+            "Damage": "41,878.5",
+            "Range": "40",
+            "SPA": "6",
+            "DPS": "6,979.75"
+        }
+    ]
+}

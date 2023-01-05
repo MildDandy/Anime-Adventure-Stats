@@ -1,0 +1,107 @@
+{
+    "Name": "Kazeki",
+    "Tags": [
+        "Rare Units",
+        "Tokyo Ghoul Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "AoE (Circle) - radius: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "30",
+            "Range": "6",
+            "SPA": "5",
+            "DPS": "6"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "50",
+            "Range": "6.5",
+            "SPA": "5",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "60",
+            "Range": "7",
+            "SPA": "4.5",
+            "DPS": "13.33"
+        },
+        {
+            "Upgrade 3": "800",
+            "Damage": "70",
+            "Range": "7.5",
+            "SPA": "4.5",
+            "DPS": "15.56"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "70",
+            "Range": "10",
+            "SPA": "4",
+            "DPS": "17.5"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "90",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "22.5"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "276.12",
+            "Range": "6",
+            "SPA": "5",
+            "DPS": "55.22"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "460.2",
+            "Range": "6.5",
+            "SPA": "5",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "552.24",
+            "Range": "7",
+            "SPA": "4.5",
+            "DPS": "122.72"
+        },
+        {
+            "Upgrade 3": "800",
+            "Damage": "644.28",
+            "Range": "7.5",
+            "SPA": "4.5",
+            "DPS": "143.17"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "644.28",
+            "Range": "10",
+            "SPA": "4",
+            "DPS": "161.07"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "828.37",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "207.09"
+        }
+    ]
+}

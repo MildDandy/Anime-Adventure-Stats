@@ -1,0 +1,150 @@
+{
+    "Name": "Marada",
+    "Tags": [
+        "Mythic Units",
+        "Naruto Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 70",
+        "Upgrade 3": "AoE (Cone) - angle: 90",
+        "Upgrade 8": "AoE (Cone) - angle: 110"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "375",
+            "Range": "11",
+            "SPA": "10",
+            "DPS": "37.5"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "625",
+            "Range": "13",
+            "SPA": "9",
+            "DPS": "69.44"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "750",
+            "Range": "15",
+            "SPA": "8",
+            "DPS": "93.75"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "1,125",
+            "Range": "20",
+            "SPA": "12",
+            "DPS": "93.75"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,500",
+            "Range": "22",
+            "SPA": "11",
+            "DPS": "136.36"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "1,875",
+            "Range": "23",
+            "SPA": "10",
+            "DPS": "187.5"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "2,500",
+            "Range": "24",
+            "SPA": "10",
+            "DPS": "250"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "3,000",
+            "Range": "25",
+            "SPA": "10",
+            "DPS": "300"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "4,375",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "291.67"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "3,451.52",
+            "Range": "11",
+            "SPA": "10",
+            "DPS": "345.15"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "5,752.54",
+            "Range": "13",
+            "SPA": "9",
+            "DPS": "639.17"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "6,903.05",
+            "Range": "15",
+            "SPA": "8",
+            "DPS": "862.88"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "10,354.57",
+            "Range": "20",
+            "SPA": "12",
+            "DPS": "862.88"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "13,806.1",
+            "Range": "22",
+            "SPA": "11",
+            "DPS": "1,255.1"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "17,257.62",
+            "Range": "23",
+            "SPA": "10",
+            "DPS": "1,725.76"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "23,010.16",
+            "Range": "24",
+            "SPA": "10",
+            "DPS": "2,301.02"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "27,612.2",
+            "Range": "25",
+            "SPA": "10",
+            "DPS": "2,761.22"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "40,267.78",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "2,684.52"
+        }
+    ]
+}

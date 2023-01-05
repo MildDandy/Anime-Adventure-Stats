@@ -1,0 +1,169 @@
+{
+    "Name": "Soi Fan (Hornet)",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Physical",
+        "Bleach Units",
+        "Meta Units",
+        "Damage Type Air"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Air"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 4": "AoE (Circle) - radius: 9",
+        "Upgrade 8": "AoE (Circle) - radius: 11"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "260",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "37.14"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "520",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 2": "2,100",
+            "Damage": "975",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "1,170",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "195"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,560",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "260"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "1,950",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "325"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "2,340",
+            "Range": "32",
+            "SPA": "5.5",
+            "DPS": "425.45"
+        },
+        {
+            "Upgrade 7": "7,750",
+            "Damage": "2,860",
+            "Range": "34",
+            "SPA": "5.5",
+            "DPS": "520"
+        },
+        {
+            "Upgrade 8": "8,000",
+            "Damage": "3,575",
+            "Range": "37.5",
+            "SPA": "6.5",
+            "DPS": "550"
+        },
+        {
+            "Upgrade 9": "10,000",
+            "Damage": "3,900",
+            "Range": "40",
+            "SPA": "6",
+            "DPS": "650"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "2,393.06",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "341.87"
+        },
+        {
+            "Upgrade 1": "1,550",
+            "Damage": "4,786.11",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 2": "2,100",
+            "Damage": "8,973.96",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "10,768.76",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "1,794.79"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "14,358.34",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "2,393.06"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "17,947.93",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "2,991.32"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "21,537.51",
+            "Range": "32",
+            "SPA": "5.5",
+            "DPS": "3,915.91"
+        },
+        {
+            "Upgrade 7": "7,750",
+            "Damage": "26,323.63",
+            "Range": "34",
+            "SPA": "5.5",
+            "DPS": "4,786.11"
+        },
+        {
+            "Upgrade 8": "8,000",
+            "Damage": "32,904.53",
+            "Range": "37.5",
+            "SPA": "6.5",
+            "DPS": "5,062.24"
+        },
+        {
+            "Upgrade 9": "10,000",
+            "Damage": "35,895.85",
+            "Range": "40",
+            "SPA": "6",
+            "DPS": "5,982.64"
+        }
+    ]
+}

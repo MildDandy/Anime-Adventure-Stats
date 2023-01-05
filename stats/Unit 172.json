@@ -1,0 +1,110 @@
+{
+    "Name": "Kazoru",
+    "Tags": [
+        "One Piece Units",
+        "Damage Type Light",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Light"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 4": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "750",
+            "Damage": "25",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "4.17"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "50",
+            "Range": "13",
+            "SPA": "6",
+            "DPS": "8.33"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "100",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "20"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "200",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "250",
+            "Range": "20",
+            "SPA": "4.5",
+            "DPS": "55.56"
+        },
+        {
+            "Upgrade 5": "7,500",
+            "Damage": "300",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "750",
+            "Damage": "230.1",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "38.35"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "460.2",
+            "Range": "13",
+            "SPA": "6",
+            "DPS": "76.7"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "920.41",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "184.08"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "1,840.81",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "2,301.02",
+            "Range": "20",
+            "SPA": "4.5",
+            "DPS": "511.34"
+        },
+        {
+            "Upgrade 5": "7,500",
+            "Damage": "2,761.22",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "690.3"
+        }
+    ]
+}

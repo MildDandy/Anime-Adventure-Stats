@@ -1,0 +1,120 @@
+{
+    "Name": "Geno",
+    "Tags": [
+        "Epic Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 2.5",
+        "Upgrade 5": "AoE (Circle) - radius: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "11",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "2.75"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "20",
+            "Range": "16",
+            "SPA": "3.5",
+            "DPS": "5.71"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "25",
+            "Range": "17",
+            "SPA": "3",
+            "DPS": "8.33"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "30",
+            "Range": "18",
+            "SPA": "2.5",
+            "DPS": "12"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "40",
+            "Range": "19",
+            "SPA": "2.5",
+            "DPS": "16"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "50",
+            "Range": "22",
+            "SPA": "2.5",
+            "DPS": "20"
+        },
+        {
+            "Upgrade 6": "4,000",
+            "Damage": "60",
+            "Range": "25",
+            "SPA": "2",
+            "DPS": "30"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "101.24",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "25.31"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "184.08",
+            "Range": "16",
+            "SPA": "3.5",
+            "DPS": "52.59"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "230.1",
+            "Range": "17",
+            "SPA": "3",
+            "DPS": "76.7"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "276.12",
+            "Range": "18",
+            "SPA": "2.5",
+            "DPS": "110.45"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "368.16",
+            "Range": "19",
+            "SPA": "2.5",
+            "DPS": "147.27"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "460.2",
+            "Range": "22",
+            "SPA": "2.5",
+            "DPS": "184.08"
+        },
+        {
+            "Upgrade 6": "4,000",
+            "Damage": "552.24",
+            "Range": "25",
+            "SPA": "2",
+            "DPS": "276.12"
+        }
+    ]
+}

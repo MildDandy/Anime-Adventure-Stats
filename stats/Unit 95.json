@@ -1,0 +1,170 @@
+{
+    "Name": "Noel (Valkyrie Armor)",
+    "Tags": [
+        "Damage Type Water",
+        "Mythic Units",
+        "Evolved Units",
+        "Black Clover Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Water"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 2": "AoE (Circle) - radius: 8",
+        "Upgrade 5": "AoE (Circle) - radius: 10",
+        "Upgrade 8": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "260",
+            "Range": "22",
+            "SPA": "7.5",
+            "DPS": "34.67"
+        },
+        {
+            "Upgrade 1": "1,600",
+            "Damage": "520",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "69.33"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "650",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "92.86"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "910",
+            "Range": "25.5",
+            "SPA": "6.5",
+            "DPS": "140"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,430",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "220"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,950",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "300"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "2,210",
+            "Range": "26.5",
+            "SPA": "6",
+            "DPS": "368.33"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "2,990",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "498.33"
+        },
+        {
+            "Upgrade 8": "8,000",
+            "Damage": "3,900",
+            "Range": "28",
+            "SPA": "8",
+            "DPS": "487.5"
+        },
+        {
+            "Upgrade 9": "11,000",
+            "Damage": "4,550",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "568.75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "2,393.06",
+            "Range": "22",
+            "SPA": "7.5",
+            "DPS": "319.07"
+        },
+        {
+            "Upgrade 1": "1,600",
+            "Damage": "4,786.11",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "638.15"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "5,982.64",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "854.66"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "8,375.7",
+            "Range": "25.5",
+            "SPA": "6.5",
+            "DPS": "1,288.57"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "13,161.81",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "2,024.89"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "17,947.93",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "2,761.22"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "20,340.98",
+            "Range": "26.5",
+            "SPA": "6",
+            "DPS": "3,390.16"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "27,520.15",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "4,586.69"
+        },
+        {
+            "Upgrade 8": "8,000",
+            "Damage": "35,895.85",
+            "Range": "28",
+            "SPA": "8",
+            "DPS": "4,486.98"
+        },
+        {
+            "Upgrade 9": "11,000",
+            "Damage": "41,878.5",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "5,234.81"
+        }
+    ]
+}

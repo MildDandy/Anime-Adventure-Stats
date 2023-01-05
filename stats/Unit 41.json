@@ -1,0 +1,152 @@
+{
+    "Name": "Future Guhon",
+    "Tags": [
+        "Mythic Units",
+        "Unobtainable Units",
+        "Leaderboard Units",
+        "Dragon Ball Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 7": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "100",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "12.5"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "200",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "26.67"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "300",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "42.86"
+        },
+        {
+            "Upgrade 3": "3,750",
+            "Damage": "400",
+            "Range": "19",
+            "SPA": "7.5",
+            "DPS": "53.33"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "550",
+            "Range": "19.5",
+            "SPA": "7",
+            "DPS": "78.57"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "750",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "107.14"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "850",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "130.77"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "1,000",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "153.85"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "1,200",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "200"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "920.41",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "115.05"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "1,840.81",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "245.44"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "2,761.22",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "394.46"
+        },
+        {
+            "Upgrade 3": "3,750",
+            "Damage": "3,681.63",
+            "Range": "19",
+            "SPA": "7.5",
+            "DPS": "490.88"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "5,062.24",
+            "Range": "19.5",
+            "SPA": "7",
+            "DPS": "723.18"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "6,903.05",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "986.15"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "7,823.46",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "1,203.61"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "9,204.07",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "1,416.01"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "11,044.88",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "1,840.81"
+        }
+    ]
+}

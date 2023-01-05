@@ -1,0 +1,135 @@
+{
+    "Name": "Hisova",
+    "Tags": [
+        "Hunter X Hunter Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 7",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 6": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "40",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "5.71"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "80",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "11.43"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "120",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "17.14"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "200",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "30.77"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "350",
+            "Range": "21",
+            "SPA": "6.5",
+            "DPS": "53.85"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "450",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "69.23"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "500",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "83.33"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "600",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "100"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "368.16",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "52.59"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "736.33",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "105.19"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "1,104.49",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "157.78"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "1,840.81",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "283.2"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "3,221.42",
+            "Range": "21",
+            "SPA": "6.5",
+            "DPS": "495.6"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "4,141.83",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "637.2"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "4,602.03",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "767.01"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "5,522.44",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "920.41"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "Name": "Brulo",
+    "Tags": [
+        "Mythic Units",
+        "Dragon Ball Units",
+        "Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 4": "AoE (Line) - width: 6",
+        "Upgrade 7": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "126.5",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "15.81"
+        },
+        {
+            "Upgrade 1": "1,400",
+            "Damage": "230",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "28.75"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "345",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "46"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "575",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "82.14"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "575",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "82.14"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "632.5",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "105.42"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "805",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "134.17"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "977.5",
+            "Range": "25",
+            "SPA": "15",
+            "DPS": "65.17"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "1,150",
+            "Range": "27",
+            "SPA": "12",
+            "DPS": "95.83"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "1,164.31",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "145.54"
+        },
+        {
+            "Upgrade 1": "1,400",
+            "Damage": "2,116.93",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "264.62"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "3,175.4",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "423.39"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "5,292.34",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "756.05"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "5,292.34",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "756.05"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "5,821.57",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "970.26"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "7,409.27",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "1,234.88"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "8,996.97",
+            "Range": "25",
+            "SPA": "15",
+            "DPS": "599.8"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "10,584.67",
+            "Range": "27",
+            "SPA": "12",
+            "DPS": "882.06"
+        }
+    ]
+}

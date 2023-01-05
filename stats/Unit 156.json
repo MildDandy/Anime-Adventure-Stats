@@ -1,0 +1,76 @@
+{
+    "Name": "Bulmy",
+    "Tags": [
+        "Meta Units",
+        "Dragon Ball Units"
+    ],
+    "Placement Count": "1",
+    "Tower Type": [
+        "GRND",
+        "FARM"
+    ],
+    "Damage Type": "None",
+    "Attack Type": {
+        "Deployment": "None"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "800",
+            "Income": "250"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Income": "750"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Income": "1,500"
+        },
+        {
+            "Upgrade 3": "4,500",
+            "Income": "3,000"
+        },
+        {
+            "Upgrade 4": "7,500",
+            "Income": "5,000"
+        },
+        {
+            "Upgrade 5": "10,000",
+            "Income": "8,000"
+        },
+        {
+            "Upgrade 6": "12,500",
+            "Income": "10,000"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "800",
+            "Income": "250"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Income": "750"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Income": "1,500"
+        },
+        {
+            "Upgrade 3": "4,500",
+            "Income": "3,000"
+        },
+        {
+            "Upgrade 4": "7,500",
+            "Income": "5,000"
+        },
+        {
+            "Upgrade 5": "10,000",
+            "Income": "8,000"
+        },
+        {
+            "Upgrade 6": "12,500",
+            "Income": "10,000"
+        }
+    ]
+}

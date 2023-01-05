@@ -1,0 +1,97 @@
+{
+    "Name": "Krillo",
+    "Tags": [
+        "Rare Units",
+        "Damage Type Light",
+        "Dragon Ball Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Light"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 3",
+        "Upgrade 3": "AoE (Circle) - radius: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "4",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "1"
+        },
+        {
+            "Upgrade 1": "600",
+            "Damage": "9",
+            "Range": "16",
+            "SPA": "4",
+            "DPS": "2.25"
+        },
+        {
+            "Upgrade 2": "1,200",
+            "Damage": "17",
+            "Range": "17",
+            "SPA": "3.5",
+            "DPS": "4.86"
+        },
+        {
+            "Upgrade 3": "1,700",
+            "Damage": "20",
+            "Range": "18",
+            "SPA": "3",
+            "DPS": "6.67"
+        },
+        {
+            "Upgrade 4": "2,000",
+            "Damage": "27",
+            "Range": "20",
+            "SPA": "3",
+            "DPS": "9"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "36.82",
+            "Range": "15",
+            "SPA": "4",
+            "DPS": "9.2"
+        },
+        {
+            "Upgrade 1": "600",
+            "Damage": "82.84",
+            "Range": "16",
+            "SPA": "4",
+            "DPS": "20.71"
+        },
+        {
+            "Upgrade 2": "1,200",
+            "Damage": "156.47",
+            "Range": "17",
+            "SPA": "3.5",
+            "DPS": "44.71"
+        },
+        {
+            "Upgrade 3": "1,700",
+            "Damage": "184.08",
+            "Range": "18",
+            "SPA": "3",
+            "DPS": "61.36"
+        },
+        {
+            "Upgrade 4": "2,000",
+            "Damage": "248.51",
+            "Range": "20",
+            "SPA": "3",
+            "DPS": "82.84"
+        }
+    ]
+}

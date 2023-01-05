@@ -1,0 +1,107 @@
+{
+    "Name": "Ichi (Masked)",
+    "Tags": [
+        "Epic Units",
+        "Bleach Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 7",
+        "Upgrade 4": "AoE (Line) - width: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "575",
+            "Damage": "5",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "1"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "8",
+            "Range": "21",
+            "SPA": "4.5",
+            "DPS": "1.78"
+        },
+        {
+            "Upgrade 2": "1,150",
+            "Damage": "14",
+            "Range": "22",
+            "SPA": "4.5",
+            "DPS": "3.11"
+        },
+        {
+            "Upgrade 3": "1,450",
+            "Damage": "20",
+            "Range": "23",
+            "SPA": "4",
+            "DPS": "5"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "25",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "6.25"
+        },
+        {
+            "Upgrade 5": "4,000",
+            "Damage": "30",
+            "Range": "30",
+            "SPA": "3",
+            "DPS": "10"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "575",
+            "Damage": "46.02",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "9.2"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "73.63",
+            "Range": "21",
+            "SPA": "4.5",
+            "DPS": "16.36"
+        },
+        {
+            "Upgrade 2": "1,150",
+            "Damage": "128.86",
+            "Range": "22",
+            "SPA": "4.5",
+            "DPS": "28.63"
+        },
+        {
+            "Upgrade 3": "1,450",
+            "Damage": "184.08",
+            "Range": "23",
+            "SPA": "4",
+            "DPS": "46.02"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "230.1",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "57.53"
+        },
+        {
+            "Upgrade 5": "4,000",
+            "Damage": "276.12",
+            "Range": "30",
+            "SPA": "3",
+            "DPS": "92.04"
+        }
+    ]
+}

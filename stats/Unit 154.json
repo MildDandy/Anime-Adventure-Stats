@@ -1,0 +1,149 @@
+{
+    "Name": "Akoku",
+    "Tags": [
+        "Demon Slayer Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 3",
+        "Upgrade 3": "AoE (Circle) - radius: 6",
+        "Upgrade 5": "AoE (Circle) - radius: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "60",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "8"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "80",
+            "Range": "15.5",
+            "SPA": "7",
+            "DPS": "11.43"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "100",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "14.29"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "150",
+            "Range": "16.5",
+            "SPA": "6.5",
+            "DPS": "23.08"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "250",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "38.46"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "300",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "46.15"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "350",
+            "Range": "18.5",
+            "SPA": "6",
+            "DPS": "58.33"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "550",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "91.67"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "750",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "125"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "552.24",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "73.63"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "736.33",
+            "Range": "15.5",
+            "SPA": "7",
+            "DPS": "105.19"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "920.41",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "131.49"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "1,380.61",
+            "Range": "16.5",
+            "SPA": "6.5",
+            "DPS": "212.4"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "2,301.02",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "354"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "2,761.22",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "424.8"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "3,221.42",
+            "Range": "18.5",
+            "SPA": "6",
+            "DPS": "536.9"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "5,062.24",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "843.71"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "6,903.05",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "1,150.51"
+        }
+    ]
+}

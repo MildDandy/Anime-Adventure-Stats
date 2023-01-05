@@ -1,0 +1,154 @@
+{
+    "Name": "Mochi",
+    "Tags": [
+        "Damage Type Fire",
+        "Mythic Units",
+        "One Piece Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 6",
+        "Upgrade 7": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "120",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "17.14"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "360",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "51.43"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "600",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "92.31"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "900",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "138.46"
+        },
+        {
+            "Upgrade 4": "4,750",
+            "Damage": "1,050",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "175"
+        },
+        {
+            "Upgrade 5": "5,250",
+            "Damage": "1,200",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "200"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "1,350",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "225"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "1,650",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "235.71"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "1,800",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "276.92"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "1,104.49",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "157.78"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "3,313.46",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "473.35"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "5,522.44",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "849.61"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "8,283.66",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "1,274.41"
+        },
+        {
+            "Upgrade 4": "4,750",
+            "Damage": "9,664.27",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "1,610.71"
+        },
+        {
+            "Upgrade 5": "5,250",
+            "Damage": "11,044.88",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "1,840.81"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "12,425.49",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "2,070.91"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "15,186.71",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "2,169.53"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "16,567.32",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "2,548.82"
+        }
+    ]
+}

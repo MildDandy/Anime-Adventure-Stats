@@ -1,0 +1,135 @@
+{
+    "Name": "Gajule",
+    "Tags": [
+        "Fairy Tail Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 6": "AoE (Cone) - angle: 60"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "900",
+            "Damage": "70",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 1": "1,350",
+            "Damage": "150",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "21.43"
+        },
+        {
+            "Upgrade 2": "1,700",
+            "Damage": "200",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "30.77"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "250",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "38.46"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "300",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "400",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "66.67"
+        },
+        {
+            "Upgrade 6": "4,500",
+            "Damage": "600",
+            "Range": "24",
+            "SPA": "5.5",
+            "DPS": "109.09"
+        },
+        {
+            "Upgrade 7": "6,000",
+            "Damage": "800",
+            "Range": "25",
+            "SPA": "5.5",
+            "DPS": "145.45"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "900",
+            "Damage": "644.28",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 1": "1,350",
+            "Damage": "1,380.61",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "197.23"
+        },
+        {
+            "Upgrade 2": "1,700",
+            "Damage": "1,840.81",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "283.2"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "2,301.02",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "354"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "2,761.22",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "3,681.63",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "613.6"
+        },
+        {
+            "Upgrade 6": "4,500",
+            "Damage": "5,522.44",
+            "Range": "24",
+            "SPA": "5.5",
+            "DPS": "1,004.08"
+        },
+        {
+            "Upgrade 7": "6,000",
+            "Damage": "7,363.25",
+            "Range": "25",
+            "SPA": "5.5",
+            "DPS": "1,338.77"
+        }
+    ]
+}

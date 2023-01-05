@@ -1,0 +1,168 @@
+{
+    "Name": "Jolyna (Determination)",
+    "Tags": [
+        "Mythic Units",
+        "JoJo's Bizarre Adventure Units",
+        "Evolved Units",
+        "Damage Type Physical",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 2": "AoE (Circle) - radius: 6",
+        "Upgrade 5": "AoE (Circle) - radius: 8",
+        "Upgrade 8": "AoE (Circle) - radius: 9"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "373.75",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "46.72"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "897",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "112.13"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "1,345.5",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "168.19"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "2,093",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "261.63"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "2,691",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "358.8"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "3,438.5",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "458.47"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "4,036.5",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "538.2"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "5,232.5",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "747.5"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "8,625",
+            "Range": "28",
+            "SPA": "10",
+            "DPS": "862.5"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "10,350",
+            "Range": "29",
+            "SPA": "10",
+            "DPS": "1,035"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "3,440.02",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "430"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "8,256.05",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "1,032.01"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "12,384.07",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "1,548.01"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "19,264.11",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "2,408.01"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "24,768.14",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "3,302.42"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "31,648.18",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "4,219.76"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "37,152.21",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "4,953.63"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "48,160.27",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "6,880.04"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "79,385.06",
+            "Range": "28",
+            "SPA": "10",
+            "DPS": "7,938.51"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "95,262.07",
+            "Range": "29",
+            "SPA": "10",
+            "DPS": "9,526.21"
+        }
+    ]
+}

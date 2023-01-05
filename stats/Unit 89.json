@@ -1,0 +1,141 @@
+{
+    "Name": "Moriu",
+    "Tags": [
+        "Mythic Units",
+        "One Piece Units",
+        "Unobtainable Units",
+        "Damage Type Dark",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Dark"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 50",
+        "Upgrade 2": "AoE (Circle) - radius: 7",
+        "Upgrade 5": "AoE (Circle) - radius: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "225",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "28.13"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "500",
+            "Range": "12.5",
+            "SPA": "7.5",
+            "DPS": "66.67"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "700",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "93.33"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "950",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "126.67"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,250",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "178.57"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,500",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "214.29"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "2,000",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "285.71"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "2,500",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "384.62"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "2,070.91",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "258.86"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "4,602.03",
+            "Range": "12.5",
+            "SPA": "7.5",
+            "DPS": "613.6"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "6,442.85",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "859.05"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "8,743.86",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "1,165.85"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "11,505.08",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "1,643.58"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "13,806.1",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "1,972.3"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "18,408.13",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "2,629.73"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "23,010.16",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "3,540.03"
+        }
+    ]
+}

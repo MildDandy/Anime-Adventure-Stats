@@ -1,0 +1,155 @@
+{
+    "Name": "Akano",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Fire",
+        "One Piece Units",
+        "Burn Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 3": "AoE (Circle) - radius: 6",
+        "Upgrade 7": "AoE (Circle) - radius: 20"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "100",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "12.5"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "250",
+            "Range": "20.5",
+            "SPA": "8",
+            "DPS": "31.25"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "350",
+            "Range": "21",
+            "SPA": "7.5",
+            "DPS": "46.67"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "400",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "57.14"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "500",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "71.43"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "600",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "800",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "133.33"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "1,250",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "83.33"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "1,500",
+            "Range": "40",
+            "SPA": "15",
+            "DPS": "100"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "920.41",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "115.05"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "2,301.02",
+            "Range": "20.5",
+            "SPA": "8",
+            "DPS": "287.63"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "3,221.42",
+            "Range": "21",
+            "SPA": "7.5",
+            "DPS": "429.52"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "3,681.63",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "525.95"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "4,602.03",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "657.43"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "5,522.44",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "7,363.25",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "1,227.21"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "11,505.08",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "767.01"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "13,806.1",
+            "Range": "40",
+            "SPA": "15",
+            "DPS": "920.41"
+        }
+    ]
+}

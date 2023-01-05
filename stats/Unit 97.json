@@ -1,0 +1,138 @@
+{
+    "Name": "Peruna",
+    "Tags": [
+        "Mythic Units",
+        "One Piece Units",
+        "Unobtainable Units",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 3": "AoE (Circle) - radius: 7",
+        "Upgrade 7": "AoE (Circle) - radius: 9"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "350",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "46.67"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "550",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "73.33"
+        },
+        {
+            "Upgrade 2": "2,600",
+            "Damage": "650",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "92.86"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "650",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "92.86"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "900",
+            "Range": "22.5",
+            "SPA": "7",
+            "DPS": "128.57"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "1,100",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "169.23"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "1,500",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "230.77"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "1,750",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "269.23"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "3,221.42",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "429.52"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "5,062.24",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "674.96"
+        },
+        {
+            "Upgrade 2": "2,600",
+            "Damage": "5,982.64",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "854.66"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "5,982.64",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "854.66"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "8,283.66",
+            "Range": "22.5",
+            "SPA": "7",
+            "DPS": "1,183.38"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "10,124.47",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "1,557.61"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "13,806.1",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "2,124.02"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "16,107.11",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "2,478.02"
+        }
+    ]
+}

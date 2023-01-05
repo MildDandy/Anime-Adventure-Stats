@@ -1,0 +1,135 @@
+{
+    "Name": "Kazeki (Centipede)",
+    "Tags": [
+        "Tokyo Ghoul Units",
+        "Bleed Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 60",
+        "Upgrade 5": "AoE (Cone) - angle: 60"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "50",
+            "Range": "10",
+            "SPA": "5",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "85",
+            "Range": "11",
+            "SPA": "6",
+            "DPS": "14.17"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "150",
+            "Range": "12",
+            "SPA": "5",
+            "DPS": "30"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "200",
+            "Range": "13",
+            "SPA": "5",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "250",
+            "Range": "14",
+            "SPA": "4.5",
+            "DPS": "55.56"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "350",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "400",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "61.54"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "500",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "83.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "460.2",
+            "Range": "10",
+            "SPA": "5",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "782.35",
+            "Range": "11",
+            "SPA": "6",
+            "DPS": "130.39"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "1,380.61",
+            "Range": "12",
+            "SPA": "5",
+            "DPS": "276.12"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "1,840.81",
+            "Range": "13",
+            "SPA": "5",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "2,301.02",
+            "Range": "14",
+            "SPA": "4.5",
+            "DPS": "511.34"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "3,221.42",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "3,681.63",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "566.4"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "4,602.03",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "767.01"
+        }
+    ]
+}

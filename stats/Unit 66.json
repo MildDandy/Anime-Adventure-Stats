@@ -1,0 +1,165 @@
+{
+    "Name": "Juozu (Joker)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Damage Type Physical",
+        "Tokyo Ghoul Units",
+        "Bleed Units"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 5": "AoE (Cone) - angle: 60"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "48.75",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "6.96"
+        },
+        {
+            "Upgrade 1": "1,750",
+            "Damage": "97.5",
+            "Range": "15.5",
+            "SPA": "6.5",
+            "DPS": "15"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "195",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "30"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "243.75",
+            "Range": "16.5",
+            "SPA": "6",
+            "DPS": "40.63"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "341.25",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "56.88"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "487.5",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "65"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "633.75",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "84.5"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "780",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "111.43"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "975",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "195"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "1,462.5",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "292.5"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "448.7",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "64.1"
+        },
+        {
+            "Upgrade 1": "1,750",
+            "Damage": "897.4",
+            "Range": "15.5",
+            "SPA": "6.5",
+            "DPS": "138.06"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "1,794.79",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "276.12"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "2,243.49",
+            "Range": "16.5",
+            "SPA": "6",
+            "DPS": "373.92"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "3,140.89",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "523.48"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "4,486.98",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "598.26"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "5,833.08",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "777.74"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "7,179.17",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "1,025.6"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "8,973.96",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "1,794.79"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "13,460.95",
+            "Range": "30",
+            "SPA": "5",
+            "DPS": "2,692.19"
+        }
+    ]
+}

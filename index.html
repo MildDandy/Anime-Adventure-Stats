@@ -1,0 +1,121 @@
+<html>
+    <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Source+Sans+Pro:wght@200&family=Staatliches&family=Ubuntu&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.18/dist/css/bootstrap-select.min.css">
+
+
+    <title>Tippy</title>
+    </head>
+    <body class="container">
+    <button id="myButton" class="game-font">Ichigo</button>
+    <div id="why" class="game-font" style="font-size: 16px;">Why do I have different stats?</div>
+    <div id="description" class="game-font">
+    <span id="name">Ichi (Full Dusk)</span>
+    <img id="type" src="img/assets/sprites/types/type_ground.png"></img>
+    <img id="damage" src="img/assets/sprites/damage/damage_physical.png"></img>
+    <img id="damage" src="img/assets/sprites/damage/damage_dark.png"></img>
+    <img id="unit" src="img/assets/sprites/unit/ichigo_final_dusk.png"></img>
+
+    </div>
+
+          <script src="https://unpkg.com/@popperjs/core@2"></script>
+          <script src="https://unpkg.com/tippy.js@6"></script>
+          <script>
+            // With the above scripts loaded, you can call `tippy()` with a CSS
+            // selector and a `content` prop:
+            tippy("#myButton", {
+                //content: 'Bolded <span style="color: aqua;">content</span>',
+                content: `<img id="icons" src="img/assets/sprites/icons/icon_damage.png">48301</img><br>
+                <img id="icons" src="img/assets/sprites/icons/icon_spa.png">5.4s</img><br>
+                <img id="icons" src="img/assets/sprites/icons/icon_range.png">48.3</img><br>
+                <div style="font-size: 16px">Units in this game use a randomized system, where stats like damage are randomly rolled with about a 10% variance (like Dungeon Quest items). When you evolve a unit they also reroll their stats, but it will always be strictly better than the pre-evolved version.</div>`
+                ,
+                allowHTML: true,
+                followCursor:true,
+                arrow:false,
+                theme:"tomato",
+                maxWidth:"400px",
+            });
+
+            tippy("#why", {
+                //content: 'Bolded <span style="color: aqua;">content</span>',
+                content: `
+                <div style="font-size: 14px">Units in this game use a randomized system, where stats like damage are randomly rolled with about a 10% variance (like Dungeon Quest items). When you evolve a unit they also reroll their stats, but it will always be strictly better than the pre-evolved version.</div>`
+                ,
+                allowHTML: true,
+                followCursor:true,
+                arrow:false,
+                theme:"tomato",
+                maxWidth:"500px",
+                placement:"right-end",
+            });
+          </script>
+          <style>
+          #type{
+            width:40px;
+            position:relative; 
+            bottom:160px;
+          }
+          #damage{
+            width:30px;
+            position:relative; 
+            bottom:160px;           
+          }
+          #name{
+            position:relative; 
+            bottom:160px;
+            color:silver;
+            font-size: 25px;
+          }
+          #description{
+            background-color: black;
+            border: 4px solid black;    
+            border-radius: 5px;
+            max-width: 500px; 
+            max-height: 1000px;
+            padding: 8px;       
+          }
+          #unit{
+            margin-left: 10px;
+            border: 4px solid black;
+            border-radius: 10px;
+            color: silver;
+            background-color: white;
+          }
+          #icons{
+            max-width: 30px;
+            max-height: 30px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
+          }  
+          .game-font{
+            font-family: 'Fredoka One', cursive;
+          }
+          .tippy-box[data-theme~='tammy'] {
+            background-color: tomato;
+            color: yellow;
+          }
+          .tippy-box[data-theme~='tomato'] {
+            display: block;
+            /*padding: 8px 12px;*/
+            background: linear-gradient(135deg, #181818, #070707);
+            border-radius: 8px;
+            color: #e6e6e6;
+            width: max-content;
+            height: fit-content;
+            line-height: 1.2;
+            font-size: 28px;
+
+            font-family: 'Fredoka One', cursive;
+            text-align: left;
+          }                    
+          </style>
+        </body>
+      </html>
+      

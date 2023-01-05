@@ -1,0 +1,166 @@
+{
+    "Name": "Jokujo (The World)",
+    "Tags": [
+        "Mythic Units",
+        "JoJo's Bizarre Adventure Units",
+        "Evolved Units",
+        "Damage Type Physical",
+        "Meta Units"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 7",
+        "Upgrade 7": "AoE (Circle) - radius: 13"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "375",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "75"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "825",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "165"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "1,050",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "210"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "1,875",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "250"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "2,625",
+            "Range": "21",
+            "SPA": "7.5",
+            "DPS": "350"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "3,000",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "428.57"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "3,750",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "535.71"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "11,250",
+            "Range": "22",
+            "SPA": "15",
+            "DPS": "750"
+        },
+        {
+            "Upgrade 8": "13,000",
+            "Damage": "15,000",
+            "Range": "22",
+            "SPA": "15",
+            "DPS": "1,000"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "21,000",
+            "Range": "23",
+            "SPA": "15",
+            "DPS": "1,400"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "3,451.52",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "690.3"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "7,593.35",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "1,518.67"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "9,664.27",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "1,932.85"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "17,257.62",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "2,301.02"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "24,160.67",
+            "Range": "21",
+            "SPA": "7.5",
+            "DPS": "3,221.42"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "27,612.2",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "3,944.6"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "34,515.24",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "4,930.75"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "103,545.73",
+            "Range": "22",
+            "SPA": "15",
+            "DPS": "6,903.05"
+        },
+        {
+            "Upgrade 8": "13,000",
+            "Damage": "138,060.98",
+            "Range": "22",
+            "SPA": "15",
+            "DPS": "9,204.07"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "193,285.37",
+            "Range": "23",
+            "SPA": "15",
+            "DPS": "12,885.69"
+        }
+    ]
+}

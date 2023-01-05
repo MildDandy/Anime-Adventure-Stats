@@ -1,0 +1,140 @@
+{
+    "Name": "Ulquiro",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Dark",
+        "Bleach Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Dark"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 7.25",
+        "Upgrade 6": "AoE (Line) - width: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "125",
+            "Range": "19",
+            "SPA": "8",
+            "DPS": "15.63"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "359",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "44.88"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "624",
+            "Range": "21",
+            "SPA": "8",
+            "DPS": "78"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "780",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "104"
+        },
+        {
+            "Upgrade 4": "5,750",
+            "Damage": "1,092",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "145.6"
+        },
+        {
+            "Upgrade 5": "7,000",
+            "Damage": "1,326",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "189.43"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "1,482",
+            "Range": "26.5",
+            "SPA": "7",
+            "DPS": "211.71"
+        },
+        {
+            "Upgrade 7": "11,000",
+            "Damage": "1,638",
+            "Range": "27",
+            "SPA": "6.5",
+            "DPS": "252"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "1,150.51",
+            "Range": "19",
+            "SPA": "8",
+            "DPS": "143.81"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "3,304.26",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "413.03"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "5,743.34",
+            "Range": "21",
+            "SPA": "8",
+            "DPS": "717.92"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "7,179.17",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "957.22"
+        },
+        {
+            "Upgrade 4": "5,750",
+            "Damage": "10,050.84",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "1,340.11"
+        },
+        {
+            "Upgrade 5": "7,000",
+            "Damage": "12,204.59",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "1,743.51"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "13,640.42",
+            "Range": "26.5",
+            "SPA": "7",
+            "DPS": "1,948.63"
+        },
+        {
+            "Upgrade 7": "11,000",
+            "Damage": "15,076.26",
+            "Range": "27",
+            "SPA": "6.5",
+            "DPS": "2,319.42"
+        }
+    ]
+}

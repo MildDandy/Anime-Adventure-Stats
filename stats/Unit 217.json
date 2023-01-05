@@ -1,0 +1,107 @@
+{
+    "Name": "Noruto",
+    "Tags": [
+        "Rare Units",
+        "Naruto Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 5": "AoE (Circle) - radius: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "250",
+            "Damage": "6",
+            "Range": "10",
+            "SPA": "2.5",
+            "DPS": "2.4"
+        },
+        {
+            "Upgrade 1": "300",
+            "Damage": "12",
+            "Range": "11",
+            "SPA": "2.5",
+            "DPS": "4.8"
+        },
+        {
+            "Upgrade 2": "450",
+            "Damage": "16",
+            "Range": "12",
+            "SPA": "2",
+            "DPS": "8"
+        },
+        {
+            "Upgrade 3": "600",
+            "Damage": "17.5",
+            "Range": "13",
+            "SPA": "1.5",
+            "DPS": "11.67"
+        },
+        {
+            "Upgrade 4": "800",
+            "Damage": "17.5",
+            "Range": "14",
+            "SPA": "1",
+            "DPS": "17.5"
+        },
+        {
+            "Upgrade 5": "1,500",
+            "Damage": "25.5",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "8.5"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "250",
+            "Damage": "55.22",
+            "Range": "10",
+            "SPA": "2.5",
+            "DPS": "22.09"
+        },
+        {
+            "Upgrade 1": "300",
+            "Damage": "110.45",
+            "Range": "11",
+            "SPA": "2.5",
+            "DPS": "44.18"
+        },
+        {
+            "Upgrade 2": "450",
+            "Damage": "147.27",
+            "Range": "12",
+            "SPA": "2",
+            "DPS": "73.63"
+        },
+        {
+            "Upgrade 3": "600",
+            "Damage": "161.07",
+            "Range": "13",
+            "SPA": "1.5",
+            "DPS": "107.38"
+        },
+        {
+            "Upgrade 4": "800",
+            "Damage": "161.07",
+            "Range": "14",
+            "SPA": "1",
+            "DPS": "161.07"
+        },
+        {
+            "Upgrade 5": "1,500",
+            "Damage": "234.7",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "78.23"
+        }
+    ]
+}

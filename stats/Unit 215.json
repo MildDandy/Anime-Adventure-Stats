@@ -1,0 +1,107 @@
+{
+    "Name": "Luffo",
+    "Tags": [
+        "Rare Units",
+        "One Piece Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "300",
+            "Damage": "20",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "5"
+        },
+        {
+            "Upgrade 1": "400",
+            "Damage": "40",
+            "Range": "6.5",
+            "SPA": "4",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 2": "500",
+            "Damage": "55",
+            "Range": "7",
+            "SPA": "3.5",
+            "DPS": "15.71"
+        },
+        {
+            "Upgrade 3": "650",
+            "Damage": "65",
+            "Range": "7.5",
+            "SPA": "3.5",
+            "DPS": "18.57"
+        },
+        {
+            "Upgrade 4": "1,250",
+            "Damage": "70",
+            "Range": "14",
+            "SPA": "3",
+            "DPS": "23.33"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "110",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "36.67"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "300",
+            "Damage": "184.08",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "46.02"
+        },
+        {
+            "Upgrade 1": "400",
+            "Damage": "368.16",
+            "Range": "6.5",
+            "SPA": "4",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 2": "500",
+            "Damage": "506.22",
+            "Range": "7",
+            "SPA": "3.5",
+            "DPS": "144.64"
+        },
+        {
+            "Upgrade 3": "650",
+            "Damage": "598.26",
+            "Range": "7.5",
+            "SPA": "3.5",
+            "DPS": "170.93"
+        },
+        {
+            "Upgrade 4": "1,250",
+            "Damage": "644.28",
+            "Range": "14",
+            "SPA": "3",
+            "DPS": "214.76"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "1,012.45",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "337.48"
+        }
+    ]
+}

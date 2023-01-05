@@ -1,0 +1,107 @@
+{
+    "Name": "Josuka",
+    "Tags": [
+        "Rare Units",
+        "JoJo's Bizarre Adventure Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "6",
+            "Range": "10",
+            "SPA": "4.5",
+            "DPS": "1.33"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "14",
+            "Range": "11",
+            "SPA": "4.5",
+            "DPS": "3.11"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "25",
+            "Range": "12",
+            "SPA": "4.5",
+            "DPS": "5.56"
+        },
+        {
+            "Upgrade 3": "800",
+            "Damage": "35",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "8.75"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "35",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "7"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "50",
+            "Range": "15",
+            "SPA": "4.5",
+            "DPS": "11.11"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "55.22",
+            "Range": "10",
+            "SPA": "4.5",
+            "DPS": "12.27"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "128.86",
+            "Range": "11",
+            "SPA": "4.5",
+            "DPS": "28.63"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "230.1",
+            "Range": "12",
+            "SPA": "4.5",
+            "DPS": "51.13"
+        },
+        {
+            "Upgrade 3": "800",
+            "Damage": "322.14",
+            "Range": "12",
+            "SPA": "4",
+            "DPS": "80.54"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "322.14",
+            "Range": "14",
+            "SPA": "5",
+            "DPS": "64.43"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "460.2",
+            "Range": "15",
+            "SPA": "4.5",
+            "DPS": "102.27"
+        }
+    ]
+}

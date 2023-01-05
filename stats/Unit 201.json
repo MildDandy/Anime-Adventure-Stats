@@ -1,0 +1,107 @@
+{
+    "Name": "Piccoru",
+    "Tags": [
+        "Epic Units",
+        "Dragon Ball Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 4",
+        "Upgrade 4": "AoE (Line) - width: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "500",
+            "Damage": "8",
+            "Range": "30",
+            "SPA": "10",
+            "DPS": "0.8"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "20",
+            "Range": "30",
+            "SPA": "10",
+            "DPS": "2"
+        },
+        {
+            "Upgrade 2": "1,100",
+            "Damage": "25",
+            "Range": "35",
+            "SPA": "8",
+            "DPS": "3.13"
+        },
+        {
+            "Upgrade 3": "1,300",
+            "Damage": "35",
+            "Range": "35",
+            "SPA": "8",
+            "DPS": "4.38"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "45",
+            "Range": "40",
+            "SPA": "7",
+            "DPS": "6.43"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "60",
+            "Range": "45",
+            "SPA": "6",
+            "DPS": "10"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "500",
+            "Damage": "73.63",
+            "Range": "30",
+            "SPA": "10",
+            "DPS": "7.36"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "184.08",
+            "Range": "30",
+            "SPA": "10",
+            "DPS": "18.41"
+        },
+        {
+            "Upgrade 2": "1,100",
+            "Damage": "230.1",
+            "Range": "35",
+            "SPA": "8",
+            "DPS": "28.76"
+        },
+        {
+            "Upgrade 3": "1,300",
+            "Damage": "322.14",
+            "Range": "35",
+            "SPA": "8",
+            "DPS": "40.27"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "414.18",
+            "Range": "40",
+            "SPA": "7",
+            "DPS": "59.17"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "552.24",
+            "Range": "45",
+            "SPA": "6",
+            "DPS": "92.04"
+        }
+    ]
+}

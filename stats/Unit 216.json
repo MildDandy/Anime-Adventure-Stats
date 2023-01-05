@@ -1,0 +1,108 @@
+{
+    "Name": "Nezuka",
+    "Tags": [
+        "Rare Units",
+        "Demon Slayer Units",
+        "Bleed Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "AoE (Circle) - radius: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "15",
+            "Range": "12",
+            "SPA": "5",
+            "DPS": "3"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "25",
+            "Range": "13",
+            "SPA": "4.5",
+            "DPS": "5.56"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "30",
+            "Range": "13",
+            "SPA": "4",
+            "DPS": "7.5"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "35",
+            "Range": "14",
+            "SPA": "3.5",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "35",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "5.83"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "50",
+            "Range": "15",
+            "SPA": "5.5",
+            "DPS": "9.09"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "138.06",
+            "Range": "12",
+            "SPA": "5",
+            "DPS": "27.61"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "230.1",
+            "Range": "13",
+            "SPA": "4.5",
+            "DPS": "51.13"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "276.12",
+            "Range": "13",
+            "SPA": "4",
+            "DPS": "69.03"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "322.14",
+            "Range": "14",
+            "SPA": "3.5",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "322.14",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "53.69"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "460.2",
+            "Range": "15",
+            "SPA": "5.5",
+            "DPS": "83.67"
+        }
+    ]
+}

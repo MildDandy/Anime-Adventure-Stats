@@ -1,0 +1,92 @@
+{
+    "Name": "Goko",
+    "Tags": [
+        "Rare Units",
+        "Dragon Ball Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "300",
+            "Damage": "6",
+            "Range": "20",
+            "SPA": "4",
+            "DPS": "1.5"
+        },
+        {
+            "Upgrade 1": "400",
+            "Damage": "12",
+            "Range": "21",
+            "SPA": "4",
+            "DPS": "3"
+        },
+        {
+            "Upgrade 2": "550",
+            "Damage": "17",
+            "Range": "22",
+            "SPA": "3.5",
+            "DPS": "4.86"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "30",
+            "Range": "23",
+            "SPA": "3",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "65",
+            "Range": "25",
+            "SPA": "3",
+            "DPS": "21.67"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "300",
+            "Damage": "55.22",
+            "Range": "20",
+            "SPA": "4",
+            "DPS": "13.81"
+        },
+        {
+            "Upgrade 1": "400",
+            "Damage": "110.45",
+            "Range": "21",
+            "SPA": "4",
+            "DPS": "27.61"
+        },
+        {
+            "Upgrade 2": "550",
+            "Damage": "156.47",
+            "Range": "22",
+            "SPA": "3.5",
+            "DPS": "44.71"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "276.12",
+            "Range": "23",
+            "SPA": "3",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "598.26",
+            "Range": "25",
+            "SPA": "3",
+            "DPS": "199.42"
+        }
+    ]
+}

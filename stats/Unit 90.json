@@ -1,0 +1,171 @@
+{
+    "Name": "Moriu (Shadow Lord)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "One Piece Units",
+        "Unobtainable Units",
+        "Damage Type Dark",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Dark"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 50",
+        "Upgrade 2": "AoE (Circle) - radius: 7",
+        "Upgrade 5": "AoE (Circle) - radius: 8",
+        "Upgrade 8": "AoE (Circle) - radius: 9.5"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "270",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "33.75"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "600",
+            "Range": "12.5",
+            "SPA": "7.5",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "840",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "112"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "1,140",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "152"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,500",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "214.29"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,800",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "257.14"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "2,400",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "342.86"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "3,000",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "461.54"
+        },
+        {
+            "Upgrade 8": "13,500",
+            "Damage": "3,600",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "553.85"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "4,200",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "700"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "2,485.1",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "310.64"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "5,522.44",
+            "Range": "12.5",
+            "SPA": "7.5",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "7,731.41",
+            "Range": "16",
+            "SPA": "7.5",
+            "DPS": "1,030.86"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "10,492.63",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "1,399.02"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "13,806.1",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "1,972.3"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "16,567.32",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "2,366.76"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "22,089.76",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "3,155.68"
+        },
+        {
+            "Upgrade 7": "9,500",
+            "Damage": "27,612.2",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "4,248.03"
+        },
+        {
+            "Upgrade 8": "13,500",
+            "Damage": "33,134.63",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "5,097.64"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "38,657.07",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "6,442.85"
+        }
+    ]
+}

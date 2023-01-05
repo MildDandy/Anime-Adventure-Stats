@@ -1,0 +1,134 @@
+{
+    "Name": "Goko Black",
+    "Tags": [
+        "Dragon Ball Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 5": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "17",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "2.83"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "40",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "6.67"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "55",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "11"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "80",
+            "Range": "21.5",
+            "SPA": "5",
+            "DPS": "16"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "150",
+            "Range": "22",
+            "SPA": "4.5",
+            "DPS": "33.33"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "175",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "38.89"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "200",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "44.44"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "300",
+            "Range": "30",
+            "SPA": "4",
+            "DPS": "75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "156.47",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "26.08"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "368.16",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "61.36"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "506.22",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "101.24"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "736.33",
+            "Range": "21.5",
+            "SPA": "5",
+            "DPS": "147.27"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "1,380.61",
+            "Range": "22",
+            "SPA": "4.5",
+            "DPS": "306.8"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "1,610.71",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "357.94"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "1,840.81",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "409.07"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "2,761.22",
+            "Range": "30",
+            "SPA": "4",
+            "DPS": "690.3"
+        }
+    ]
+}

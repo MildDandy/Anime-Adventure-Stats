@@ -1,0 +1,169 @@
+{
+    "Name": "Kizzua (Godspeed)",
+    "Tags": [
+        "Mythic Units",
+        "Hunter X Hunter Units",
+        "Evolved Units",
+        "Damage Type Lightning",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 9",
+        "Upgrade 7": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "180",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "25.71"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "300",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "42.86"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "375",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "57.69"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "525",
+            "Range": "19",
+            "SPA": "6.5",
+            "DPS": "80.77"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "600",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "750",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "136.36"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "900",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "163.64"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "1,200",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "240"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "1,500",
+            "Range": "24",
+            "SPA": "4.5",
+            "DPS": "333.33"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "1,875",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "468.75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "1,656.73",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "236.68"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,761.22",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "394.46"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "3,451.52",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "531"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "4,832.13",
+            "Range": "19",
+            "SPA": "6.5",
+            "DPS": "743.41"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "5,522.44",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "6,903.05",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "1,255.1"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "8,283.66",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "1,506.12"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "11,044.88",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "2,208.98"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "13,806.1",
+            "Range": "24",
+            "SPA": "4.5",
+            "DPS": "3,068.02"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "17,257.62",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "4,314.41"
+        }
+    ]
+}

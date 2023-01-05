@@ -1,0 +1,149 @@
+{
+    "Name": "Meruam",
+    "Tags": [
+        "Mythic Units",
+        "Hunter X Hunter Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 5": "AoE (Cone) - angle: 50"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "150",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "21.43"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "250",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "35.71"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "350",
+            "Range": "13",
+            "SPA": "6.5",
+            "DPS": "53.85"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "500",
+            "Range": "13",
+            "SPA": "6.5",
+            "DPS": "76.92"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "600",
+            "Range": "14",
+            "SPA": "6",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "1,000",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "166.67"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "1,200",
+            "Range": "17",
+            "SPA": "5.5",
+            "DPS": "218.18"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "1,500",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "272.73"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "1,800",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "360"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "1,380.61",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "197.23"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,301.02",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "328.72"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "3,221.42",
+            "Range": "13",
+            "SPA": "6.5",
+            "DPS": "495.6"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "4,602.03",
+            "Range": "13",
+            "SPA": "6.5",
+            "DPS": "708.01"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "5,522.44",
+            "Range": "14",
+            "SPA": "6",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "9,204.07",
+            "Range": "15",
+            "SPA": "6",
+            "DPS": "1,534.01"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "11,044.88",
+            "Range": "17",
+            "SPA": "5.5",
+            "DPS": "2,008.16"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "13,806.1",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "2,510.2"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "16,567.32",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "3,313.46"
+        }
+    ]
+}

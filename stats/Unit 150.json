@@ -1,0 +1,154 @@
+{
+    "Name": "Renzi",
+    "Tags": [
+        "Unobtainable Units",
+        "Damage Type Lightning",
+        "Tokyo Ghoul Units",
+        "Secret Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 5": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "55",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "7.33"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "100",
+            "Range": "15.5",
+            "SPA": "7",
+            "DPS": "14.29"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "200",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "28.57"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "300",
+            "Range": "16.5",
+            "SPA": "6.5",
+            "DPS": "46.15"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "400",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "61.54"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "450",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "69.23"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "500",
+            "Range": "18.5",
+            "SPA": "6",
+            "DPS": "83.33"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "600",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "700",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "127.27"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "506.22",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "67.5"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "920.41",
+            "Range": "15.5",
+            "SPA": "7",
+            "DPS": "131.49"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "1,840.81",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "262.97"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "2,761.22",
+            "Range": "16.5",
+            "SPA": "6.5",
+            "DPS": "424.8"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "3,681.63",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "566.4"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "4,141.83",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "637.2"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "4,602.03",
+            "Range": "18.5",
+            "SPA": "6",
+            "DPS": "767.01"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "5,522.44",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "6,442.85",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "1,171.43"
+        }
+    ]
+}

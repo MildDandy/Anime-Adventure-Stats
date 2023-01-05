@@ -1,0 +1,135 @@
+{
+    "Name": "Eta",
+    "Tags": [
+        "Mythic Units",
+        "Tokyo Ghoul Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 8",
+        "Upgrade 4": "AoE (Cone) - angle: 60"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "2,500",
+            "Damage": "130",
+            "Range": "21",
+            "SPA": "8",
+            "DPS": "16.25"
+        },
+        {
+            "Upgrade 1": "3,500",
+            "Damage": "293",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "36.63"
+        },
+        {
+            "Upgrade 2": "4,500",
+            "Damage": "455",
+            "Range": "23.5",
+            "SPA": "8",
+            "DPS": "56.88"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "650",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "81.25"
+        },
+        {
+            "Upgrade 4": "6,000",
+            "Damage": "975",
+            "Range": "25",
+            "SPA": "8",
+            "DPS": "121.88"
+        },
+        {
+            "Upgrade 5": "7,500",
+            "Damage": "1,170",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "156"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "1,300",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "185.71"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "2,275",
+            "Range": "30",
+            "SPA": "7",
+            "DPS": "325"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "2,500",
+            "Damage": "1,196.53",
+            "Range": "21",
+            "SPA": "8",
+            "DPS": "149.57"
+        },
+        {
+            "Upgrade 1": "3,500",
+            "Damage": "2,696.79",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "337.1"
+        },
+        {
+            "Upgrade 2": "4,500",
+            "Damage": "4,187.85",
+            "Range": "23.5",
+            "SPA": "8",
+            "DPS": "523.48"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "5,982.64",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "747.83"
+        },
+        {
+            "Upgrade 4": "6,000",
+            "Damage": "8,973.96",
+            "Range": "25",
+            "SPA": "8",
+            "DPS": "1,121.75"
+        },
+        {
+            "Upgrade 5": "7,500",
+            "Damage": "10,768.76",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "1,435.83"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "11,965.28",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "1,709.33"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "20,939.25",
+            "Range": "30",
+            "SPA": "7",
+            "DPS": "2,991.32"
+        }
+    ]
+}

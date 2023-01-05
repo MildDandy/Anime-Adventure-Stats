@@ -1,0 +1,208 @@
+{
+    "Name": "Aizo (Final)",
+    "Tags": [
+        "Mythic Units",
+        "Meta Units",
+        "Bleach Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 3": "AoE (Circle) - radius: 12",
+        "Upgrade 6": "AoE (Full)",
+        "Upgrade 9": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "450",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "56.25"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "1,000",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "125"
+        },
+        {
+            "Upgrade 2": "2,800",
+            "Damage": "1,500",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "187.5"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "2,200",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "293.33"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "2,600",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "371.43"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "3,300",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "471.43"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "5,000",
+            "Range": "25",
+            "SPA": "13",
+            "DPS": "384.62"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "6,500",
+            "Range": "25.5",
+            "SPA": "12",
+            "DPS": "541.67"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "7,500",
+            "Range": "26",
+            "SPA": "11",
+            "DPS": "681.82"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "15,000",
+            "Range": "27",
+            "SPA": "16.5",
+            "DPS": "909.09"
+        },
+        {
+            "Upgrade 10": "20,000",
+            "Damage": "17,500",
+            "Range": "28",
+            "SPA": "16",
+            "DPS": "1,093.75"
+        },
+        {
+            "Upgrade 11": "25,000",
+            "Damage": "20,000",
+            "Range": "29",
+            "SPA": "15.5",
+            "DPS": "1,290.32"
+        },
+        {
+            "Upgrade 12": "30,000",
+            "Damage": "24,000",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "1,600"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "4,141.83",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "517.73"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "9,204.07",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "1,150.51"
+        },
+        {
+            "Upgrade 2": "2,800",
+            "Damage": "13,806.1",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "1,725.76"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "20,248.94",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "2,699.86"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "23,930.57",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "3,418.65"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "30,373.41",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "4,339.06"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "46,020.33",
+            "Range": "25",
+            "SPA": "13",
+            "DPS": "3,540.03"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "59,826.42",
+            "Range": "25.5",
+            "SPA": "12",
+            "DPS": "4,985.54"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "69,030.49",
+            "Range": "26",
+            "SPA": "11",
+            "DPS": "6,275.5"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "138,060.98",
+            "Range": "27",
+            "SPA": "16.5",
+            "DPS": "8,367.33"
+        },
+        {
+            "Upgrade 10": "20,000",
+            "Damage": "161,071.14",
+            "Range": "28",
+            "SPA": "16",
+            "DPS": "10,066.95"
+        },
+        {
+            "Upgrade 11": "25,000",
+            "Damage": "184,081.3",
+            "Range": "29",
+            "SPA": "15.5",
+            "DPS": "11,876.21"
+        },
+        {
+            "Upgrade 12": "30,000",
+            "Damage": "220,897.56",
+            "Range": "30",
+            "SPA": "15",
+            "DPS": "14,726.5"
+        }
+    ]
+}

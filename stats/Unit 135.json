@@ -1,0 +1,141 @@
+{
+    "Name": "Ice Queen",
+    "Tags": [
+        "Limited Units",
+        "Damage Type Physical",
+        "Akame ga Kill! Units",
+        "Secret Units",
+        "Damage Type Ice"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 2": "AoE (Line) - radius: 7",
+        "Upgrade 5": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "400",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "800",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "114.29"
+        },
+        {
+            "Upgrade 2": "2,700",
+            "Damage": "1,000",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "142.86"
+        },
+        {
+            "Upgrade 3": "4,000",
+            "Damage": "1,200",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "184.62"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "1,600",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "246.15"
+        },
+        {
+            "Upgrade 5": "6,100",
+            "Damage": "2,500",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "384.62"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "3,000",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "500"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "4,500",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "750"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "3,681.63",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "7,363.25",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "1,051.89"
+        },
+        {
+            "Upgrade 2": "2,700",
+            "Damage": "9,204.07",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "1,314.87"
+        },
+        {
+            "Upgrade 3": "4,000",
+            "Damage": "11,044.88",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "1,699.21"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "14,726.5",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "2,265.62"
+        },
+        {
+            "Upgrade 5": "6,100",
+            "Damage": "23,010.16",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "3,540.03"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "27,612.2",
+            "Range": "25",
+            "SPA": "6",
+            "DPS": "4,602.03"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "41,418.29",
+            "Range": "26",
+            "SPA": "6",
+            "DPS": "6,903.05"
+        }
+    ]
+}

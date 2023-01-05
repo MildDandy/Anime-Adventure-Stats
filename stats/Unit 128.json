@@ -1,0 +1,139 @@
+{
+    "Name": "Yono",
+    "Tags": [
+        "Damage Type Air",
+        "Black Clover Units",
+        "Mythic Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Air"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 4": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "200",
+            "Range": "22",
+            "SPA": "8.5",
+            "DPS": "23.53"
+        },
+        {
+            "Upgrade 1": "1,950",
+            "Damage": "400",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "600",
+            "Range": "24.5",
+            "SPA": "8",
+            "DPS": "75"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "900",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "120"
+        },
+        {
+            "Upgrade 4": "4,750",
+            "Damage": "1,200",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "160"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,700",
+            "Range": "26.5",
+            "SPA": "7.5",
+            "DPS": "226.67"
+        },
+        {
+            "Upgrade 6": "6,250",
+            "Damage": "2,000",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "285.71"
+        },
+        {
+            "Upgrade 7": "7,000",
+            "Damage": "2,250",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "321.43"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "1,840.81",
+            "Range": "22",
+            "SPA": "8.5",
+            "DPS": "216.57"
+        },
+        {
+            "Upgrade 1": "1,950",
+            "Damage": "3,681.63",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "5,522.44",
+            "Range": "24.5",
+            "SPA": "8",
+            "DPS": "690.3"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "8,283.66",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "1,104.49"
+        },
+        {
+            "Upgrade 4": "4,750",
+            "Damage": "11,044.88",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "1,472.65"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "15,646.91",
+            "Range": "26.5",
+            "SPA": "7.5",
+            "DPS": "2,086.25"
+        },
+        {
+            "Upgrade 6": "6,250",
+            "Damage": "18,408.13",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "2,629.73"
+        },
+        {
+            "Upgrade 7": "7,000",
+            "Damage": "20,709.15",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "2,958.45"
+        }
+    ]
+}

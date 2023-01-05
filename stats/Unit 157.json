@@ -1,0 +1,135 @@
+{
+    "Name": "Cel (Semi-Perfect)",
+    "Tags": [
+        "Evolved Units",
+        "Dragon Ball Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 5": "AoE (Circle) - radius: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "50",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "7.14"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "150",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "21.43"
+        },
+        {
+            "Upgrade 2": "1,700",
+            "Damage": "200",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "28.57"
+        },
+        {
+            "Upgrade 3": "2,200",
+            "Damage": "300",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "400",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "66.67"
+        },
+        {
+            "Upgrade 5": "4,000",
+            "Damage": "500",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "83.33"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "700",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "116.67"
+        },
+        {
+            "Upgrade 7": "12,500",
+            "Damage": "1,100",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "183.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "460.2",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "65.74"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "1,380.61",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "197.23"
+        },
+        {
+            "Upgrade 2": "1,700",
+            "Damage": "1,840.81",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "262.97"
+        },
+        {
+            "Upgrade 3": "2,200",
+            "Damage": "2,761.22",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "3,681.63",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "613.6"
+        },
+        {
+            "Upgrade 5": "4,000",
+            "Damage": "4,602.03",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "767.01"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "6,442.85",
+            "Range": "23",
+            "SPA": "6",
+            "DPS": "1,073.81"
+        },
+        {
+            "Upgrade 7": "12,500",
+            "Damage": "10,124.47",
+            "Range": "24",
+            "SPA": "6",
+            "DPS": "1,687.41"
+        }
+    ]
+}

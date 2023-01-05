@@ -1,0 +1,111 @@
+{
+    "Name": "Zennu",
+    "Tags": [
+        "Epic Units",
+        "Demon Slayer Units",
+        "Damage Type Lightning",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "AoE (Line) - width: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "15",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "5"
+        },
+        {
+            "Upgrade 1": "400",
+            "Damage": "25",
+            "Range": "16",
+            "SPA": "3",
+            "DPS": "8.33"
+        },
+        {
+            "Upgrade 2": "500",
+            "Damage": "30",
+            "Range": "17",
+            "SPA": "2.5",
+            "DPS": "12"
+        },
+        {
+            "Upgrade 3": "600",
+            "Damage": "40",
+            "Range": "18",
+            "SPA": "2.5",
+            "DPS": "16"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "55",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "9.17"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "75",
+            "Range": "22",
+            "SPA": "4",
+            "DPS": "18.75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "138.06",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "46.02"
+        },
+        {
+            "Upgrade 1": "400",
+            "Damage": "230.1",
+            "Range": "16",
+            "SPA": "3",
+            "DPS": "76.7"
+        },
+        {
+            "Upgrade 2": "500",
+            "Damage": "276.12",
+            "Range": "17",
+            "SPA": "2.5",
+            "DPS": "110.45"
+        },
+        {
+            "Upgrade 3": "600",
+            "Damage": "368.16",
+            "Range": "18",
+            "SPA": "2.5",
+            "DPS": "147.27"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "506.22",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "84.37"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "690.3",
+            "Range": "22",
+            "SPA": "4",
+            "DPS": "172.58"
+        }
+    ]
+}

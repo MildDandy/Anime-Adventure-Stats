@@ -1,0 +1,170 @@
+{
+    "Name": "Gray (Devil Slayer)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Fairy Tail Units",
+        "Damage Type Ice",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 3": "AoE (Circle) - radius: 9",
+        "Upgrade 6": "AoE (Circle) - radius: 11",
+        "Upgrade 9": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "225",
+            "Range": "18",
+            "SPA": "12",
+            "DPS": "18.75"
+        },
+        {
+            "Upgrade 1": "1,650",
+            "Damage": "450",
+            "Range": "18.5",
+            "SPA": "12",
+            "DPS": "37.5"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "600",
+            "Range": "19",
+            "SPA": "12",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 3": "3,300",
+            "Damage": "825",
+            "Range": "20",
+            "SPA": "11",
+            "DPS": "75"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,125",
+            "Range": "22",
+            "SPA": "11",
+            "DPS": "102.27"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,500",
+            "Range": "23",
+            "SPA": "11",
+            "DPS": "136.36"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "1,950",
+            "Range": "25",
+            "SPA": "11",
+            "DPS": "177.27"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "2,625",
+            "Range": "26",
+            "SPA": "12",
+            "DPS": "218.75"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "3,300",
+            "Range": "27",
+            "SPA": "12",
+            "DPS": "275"
+        },
+        {
+            "Upgrade 9": "14,500",
+            "Damage": "4,125",
+            "Range": "35",
+            "SPA": "12",
+            "DPS": "343.75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "2,070.91",
+            "Range": "18",
+            "SPA": "12",
+            "DPS": "172.58"
+        },
+        {
+            "Upgrade 1": "1,650",
+            "Damage": "4,141.83",
+            "Range": "18.5",
+            "SPA": "12",
+            "DPS": "345.15"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "5,522.44",
+            "Range": "19",
+            "SPA": "12",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 3": "3,300",
+            "Damage": "7,593.35",
+            "Range": "20",
+            "SPA": "11",
+            "DPS": "690.3"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "10,354.57",
+            "Range": "22",
+            "SPA": "11",
+            "DPS": "941.32"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "13,806.1",
+            "Range": "23",
+            "SPA": "11",
+            "DPS": "1,255.1"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "17,947.93",
+            "Range": "25",
+            "SPA": "11",
+            "DPS": "1,631.63"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "24,160.67",
+            "Range": "26",
+            "SPA": "12",
+            "DPS": "2,013.39"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "30,373.41",
+            "Range": "27",
+            "SPA": "12",
+            "DPS": "2,531.12"
+        },
+        {
+            "Upgrade 9": "14,500",
+            "Damage": "37,966.77",
+            "Range": "35",
+            "SPA": "12",
+            "DPS": "3,163.9"
+        }
+    ]
+}

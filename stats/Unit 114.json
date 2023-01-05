@@ -1,0 +1,154 @@
+{
+    "Name": "Tarata",
+    "Tags": [
+        "Damage Type Fire",
+        "Tokyo Ghoul Units",
+        "Mythic Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 45",
+        "Upgrade 3": "AoE (Cone) - angle: 45",
+        "Upgrade 6": "AoE (Cone) - angle: 45"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "60",
+            "Range": "8",
+            "SPA": "4",
+            "DPS": "15"
+        },
+        {
+            "Upgrade 1": "1,650",
+            "Damage": "100",
+            "Range": "9",
+            "SPA": "3.5",
+            "DPS": "28.57"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "150",
+            "Range": "10",
+            "SPA": "3",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "325",
+            "Range": "22.5",
+            "SPA": "7.5",
+            "DPS": "43.33"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "425",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "60.71"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "550",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "78.57"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "700",
+            "Range": "24.5",
+            "SPA": "7",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "800",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "123.08"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "900",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "150"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "552.24",
+            "Range": "8",
+            "SPA": "4",
+            "DPS": "138.06"
+        },
+        {
+            "Upgrade 1": "1,650",
+            "Damage": "920.41",
+            "Range": "9",
+            "SPA": "3.5",
+            "DPS": "262.97"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "1,380.61",
+            "Range": "10",
+            "SPA": "3",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 3": "3,250",
+            "Damage": "2,991.32",
+            "Range": "22.5",
+            "SPA": "7.5",
+            "DPS": "398.84"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "3,911.73",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "558.82"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "5,062.24",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "723.18"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "6,442.85",
+            "Range": "24.5",
+            "SPA": "7",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "7,363.25",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "1,132.81"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "8,283.66",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "1,380.61"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "Name": "All Force",
+    "Tags": [
+        "Mythic Units",
+        "My Hero Academia Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 4": "AoE (Circle) - radius: 13",
+        "Upgrade 7": "AoE (Circle) - radius: 15"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "88",
+            "Range": "12",
+            "SPA": "9",
+            "DPS": "9.78"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "228",
+            "Range": "13",
+            "SPA": "8.5",
+            "DPS": "26.82"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "350",
+            "Range": "14",
+            "SPA": "8",
+            "DPS": "43.75"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "525",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "70"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "613",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "81.73"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "700",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "1,050",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "1,750",
+            "Range": "23",
+            "SPA": "10",
+            "DPS": "175"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "809.96",
+            "Range": "12",
+            "SPA": "9",
+            "DPS": "90"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,098.53",
+            "Range": "13",
+            "SPA": "8.5",
+            "DPS": "246.89"
+        },
+        {
+            "Upgrade 2": "2,750",
+            "Damage": "3,221.42",
+            "Range": "14",
+            "SPA": "8",
+            "DPS": "402.68"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "4,832.13",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "644.28"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "5,642.09",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "752.28"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "6,442.85",
+            "Range": "18",
+            "SPA": "7",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 6": "8,500",
+            "Damage": "9,664.27",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "16,107.11",
+            "Range": "23",
+            "SPA": "10",
+            "DPS": "1,610.71"
+        }
+    ]
+}

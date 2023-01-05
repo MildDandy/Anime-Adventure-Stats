@@ -1,0 +1,134 @@
+{
+    "Name": "Agony",
+    "Tags": [
+        "Naruto Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 5": "AoE (Circle) - radius: 15"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "825",
+            "Damage": "35",
+            "Range": "10",
+            "SPA": "10",
+            "DPS": "3.5"
+        },
+        {
+            "Upgrade 1": "1,150",
+            "Damage": "70",
+            "Range": "11",
+            "SPA": "9",
+            "DPS": "7.78"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "100",
+            "Range": "12",
+            "SPA": "8.5",
+            "DPS": "11.76"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "125",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "15.63"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "150",
+            "Range": "14",
+            "SPA": "7",
+            "DPS": "21.43"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "200",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "30.77"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "225",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "37.5"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "300",
+            "Range": "18.5",
+            "SPA": "6",
+            "DPS": "50"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "825",
+            "Damage": "322.14",
+            "Range": "10",
+            "SPA": "10",
+            "DPS": "32.21"
+        },
+        {
+            "Upgrade 1": "1,150",
+            "Damage": "644.28",
+            "Range": "11",
+            "SPA": "9",
+            "DPS": "71.59"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "920.41",
+            "Range": "12",
+            "SPA": "8.5",
+            "DPS": "108.28"
+        },
+        {
+            "Upgrade 3": "1,500",
+            "Damage": "1,150.51",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "143.81"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "1,380.61",
+            "Range": "14",
+            "SPA": "7",
+            "DPS": "197.23"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "1,840.81",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "283.2"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "2,070.91",
+            "Range": "17",
+            "SPA": "6",
+            "DPS": "345.15"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "2,761.22",
+            "Range": "18.5",
+            "SPA": "6",
+            "DPS": "460.2"
+        }
+    ]
+}

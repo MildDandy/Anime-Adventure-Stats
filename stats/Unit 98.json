@@ -1,0 +1,167 @@
+{
+    "Name": "Peruna (Ghost Princess)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "One Piece Units",
+        "Unobtainable Units",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 3": "AoE (Circle) - radius: 7",
+        "Upgrade 7": "AoE (Circle) - radius: 9"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "437.5",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "58.33"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "687.5",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "91.67"
+        },
+        {
+            "Upgrade 2": "2,600",
+            "Damage": "812.5",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "116.07"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "812.5",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "116.07"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,125",
+            "Range": "22.5",
+            "SPA": "7",
+            "DPS": "160.71"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "1,375",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "211.54"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "1,875",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "288.46"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "2,187.5",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "336.54"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "2,625",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "437.5"
+        },
+        {
+            "Upgrade 9": "17,500",
+            "Damage": "3,000",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "500"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "4,026.78",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "536.9"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "6,327.79",
+            "Range": "20",
+            "SPA": "7.5",
+            "DPS": "843.71"
+        },
+        {
+            "Upgrade 2": "2,600",
+            "Damage": "7,478.3",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "1,068.33"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "7,478.3",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "1,068.33"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "10,354.57",
+            "Range": "22.5",
+            "SPA": "7",
+            "DPS": "1,479.22"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "12,655.59",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "1,947.01"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "17,257.62",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "2,655.02"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "20,133.89",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "3,097.52"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "24,160.67",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "4,026.78"
+        },
+        {
+            "Upgrade 9": "17,500",
+            "Damage": "27,612.2",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "4,602.03"
+        }
+    ]
+}

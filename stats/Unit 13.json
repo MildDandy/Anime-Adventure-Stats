@@ -1,0 +1,165 @@
+{
+    "Name": "Ariva (Reaper)",
+    "Tags": [
+        "Mythic Units",
+        "Tokyo Ghoul Units",
+        "Evolved Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 4": "AoE (Circle) - radius: 11",
+        "Upgrade 8": "AoE (Cone) - angle: 60"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "74.25",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "9.28"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "168.75",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "21.09"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "270",
+            "Range": "23.5",
+            "SPA": "7.5",
+            "DPS": "36"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "371.25",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "49.5"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "506.25",
+            "Range": "24.5",
+            "SPA": "7",
+            "DPS": "72.32"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "708.75",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "101.25"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "877.5",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "135"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "1,080",
+            "Range": "26.5",
+            "SPA": "6.5",
+            "DPS": "166.15"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "1,890",
+            "Range": "35",
+            "SPA": "6.5",
+            "DPS": "290.77"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "2,295",
+            "Range": "40",
+            "SPA": "6",
+            "DPS": "382.5"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "683.4",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "85.43"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "1,553.19",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "194.15"
+        },
+        {
+            "Upgrade 2": "2,200",
+            "Damage": "2,485.1",
+            "Range": "23.5",
+            "SPA": "7.5",
+            "DPS": "331.35"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "3,417.01",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "455.6"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "4,659.56",
+            "Range": "24.5",
+            "SPA": "7",
+            "DPS": "665.65"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "6,523.38",
+            "Range": "25",
+            "SPA": "7",
+            "DPS": "931.91"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "8,076.57",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "1,242.55"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "9,940.39",
+            "Range": "26.5",
+            "SPA": "6.5",
+            "DPS": "1,529.29"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "17,395.68",
+            "Range": "35",
+            "SPA": "6.5",
+            "DPS": "2,676.26"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "21,123.33",
+            "Range": "40",
+            "SPA": "6",
+            "DPS": "3,520.55"
+        }
+    ]
+}

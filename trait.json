@@ -1,0 +1,84 @@
+{
+    "Superior": [
+        {
+        "Description": "This unit deals more damage!",
+        "Superior I": 0.10,
+        "Superior II": 0.125,
+        "Superior III": 0.15
+        }],
+    "Nimble": {
+        "Description": "This unit attacks faster!",
+        "Nimble I": 0.05,
+        "Nimble II": 0.075,
+        "Nimble III": 0.125
+    },
+    "Range": {
+        "Description": "This unit has increased range!",
+        "Range I": 0.10,
+        "Range II": 0.125,
+        "Range III": 0.15
+    },
+    "Adept":[{
+        "Description": "This unit levels up much faster!",
+        "Effect":{
+            "EXP": 0.50
+        }
+    }],
+    "Culling":[{
+        "Description": "This unit deals more damage to low health enemies!",
+        "Effect":{
+            "< 30% HP": 0.20
+        }
+    }],
+    "Sniper":[{
+        "Description": "This unit has insane range!",
+        "Effect":{
+            "Range": 0.25
+        }
+    }],
+    "Godspeed":[{
+        "Description": "This unit has unrivaled speed!",
+        "Effect":{
+            "SPA": 0.20
+        }
+    }],
+    "Reaper":[{
+        "Description": "This unit does much more damage, especially to bosses!",
+        "Effect":{
+            "Damage": 0.125,
+            "Boss": 0.25
+        }
+    }],
+    "Celestial":[{
+        "Description": "This unit defies the rules of this world...",
+        "Effect:"{
+            "Damage": 0.10,
+            "Range": 0.10,
+            "True": 0.20
+        }
+    }],
+    "Divine":[{
+        "Description": "This unit is blessed with divine power! 😳",
+        "Effect":{
+            "Damage": 0.20,
+            "Range": 0.20,
+            "SPA": 0.10
+        }
+    }],
+    "Golden":[{
+        "Description": "This unit gives much more money!",
+        "Effect":{
+            "Damage": 0.30,
+            "Farm": 0.20
+        }
+    }],
+    "Unique":[{
+        "Description": "There can only be one...",
+        "Effect":{
+            "Damage": 3.0,
+            "Range": 0.1,
+            "SPA": 0.1,
+            "Placement": 1
+        }
+    }]   
+}  

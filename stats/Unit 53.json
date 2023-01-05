@@ -1,0 +1,170 @@
+{
+    "Name": "Haka (Reflection)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Limited Units",
+        "Damage Type Physical",
+        "Naruto Units",
+        "Damage Type Ice"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 4": "AoE (Circle) - radius: 9.5",
+        "Upgrade 7": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "270",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "38.57"
+        },
+        {
+            "Upgrade 1": "2,250",
+            "Damage": "675",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "96.43"
+        },
+        {
+            "Upgrade 2": "3,250",
+            "Damage": "1,080",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "166.15"
+        },
+        {
+            "Upgrade 3": "3,700",
+            "Damage": "1,552.5",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "238.85"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,890",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "290.77"
+        },
+        {
+            "Upgrade 5": "6,200",
+            "Damage": "2,295",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "382.5"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "2,970",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "495"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "4,050",
+            "Range": "29",
+            "SPA": "7.5",
+            "DPS": "540"
+        },
+        {
+            "Upgrade 8": "10,500",
+            "Damage": "5,062.5",
+            "Range": "30",
+            "SPA": "7.5",
+            "DPS": "675"
+        },
+        {
+            "Upgrade 9": "13,000",
+            "Damage": "5,872.5",
+            "Range": "31",
+            "SPA": "7",
+            "DPS": "838.93"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "2,485.1",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "355.01"
+        },
+        {
+            "Upgrade 1": "2,250",
+            "Damage": "6,212.74",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "887.53"
+        },
+        {
+            "Upgrade 2": "3,250",
+            "Damage": "9,940.39",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "1,529.29"
+        },
+        {
+            "Upgrade 3": "3,700",
+            "Damage": "14,289.31",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "2,198.36"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "17,395.68",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "2,676.26"
+        },
+        {
+            "Upgrade 5": "6,200",
+            "Damage": "21,123.33",
+            "Range": "27",
+            "SPA": "6",
+            "DPS": "3,520.55"
+        },
+        {
+            "Upgrade 6": "7,250",
+            "Damage": "27,336.07",
+            "Range": "28",
+            "SPA": "6",
+            "DPS": "4,556.01"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "37,276.46",
+            "Range": "29",
+            "SPA": "7.5",
+            "DPS": "4,970.2"
+        },
+        {
+            "Upgrade 8": "10,500",
+            "Damage": "46,595.58",
+            "Range": "30",
+            "SPA": "7.5",
+            "DPS": "6,212.74"
+        },
+        {
+            "Upgrade 9": "13,000",
+            "Damage": "54,050.87",
+            "Range": "31",
+            "SPA": "7",
+            "DPS": "7,721.55"
+        }
+    ]
+}

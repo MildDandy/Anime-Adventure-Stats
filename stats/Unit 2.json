@@ -1,0 +1,165 @@
+{
+    "Name": "Aizo (Betrayal)",
+    "Tags": [
+        "Mythic Units",
+        "Bleach Units",
+        "Evolved Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 60",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 7": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "156",
+            "Range": "17",
+            "SPA": "8",
+            "DPS": "19.5"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "260",
+            "Range": "17.5",
+            "SPA": "8",
+            "DPS": "32.5"
+        },
+        {
+            "Upgrade 2": "2,800",
+            "Damage": "422.5",
+            "Range": "18",
+            "SPA": "8",
+            "DPS": "52.81"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "585",
+            "Range": "18.5",
+            "SPA": "7.5",
+            "DPS": "78"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "715",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "102.14"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "910",
+            "Range": "19.5",
+            "SPA": "7",
+            "DPS": "130"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "1,040",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "160"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "1,560",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "240"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "2,080",
+            "Range": "20.5",
+            "SPA": "6.5",
+            "DPS": "320"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "2,600",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "400"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "1,435.83",
+            "Range": "17",
+            "SPA": "8",
+            "DPS": "179.48"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "2,393.06",
+            "Range": "17.5",
+            "SPA": "8",
+            "DPS": "299.13"
+        },
+        {
+            "Upgrade 2": "2,800",
+            "Damage": "3,888.72",
+            "Range": "18",
+            "SPA": "8",
+            "DPS": "486.09"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "5,384.38",
+            "Range": "18.5",
+            "SPA": "7.5",
+            "DPS": "717.92"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "6,580.91",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "940.13"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "8,375.7",
+            "Range": "19.5",
+            "SPA": "7",
+            "DPS": "1,196.53"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "9,572.23",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "1,472.65"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "14,358.34",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "2,208.98"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "19,144.46",
+            "Range": "20.5",
+            "SPA": "6.5",
+            "DPS": "2,945.3"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "23,930.57",
+            "Range": "22",
+            "SPA": "6.5",
+            "DPS": "3,681.63"
+        }
+    ]
+}

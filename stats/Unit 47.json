@@ -1,0 +1,179 @@
+{
+    "Name": "Goju (Six Eyes)",
+    "Tags": [
+        "Mythic Units",
+        "Jujutsu Kaisen Units",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Full)",
+        "Upgrade 6": "AoE (Line) - width: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 9 and costs 1,40": "pgrade 9 and costs 1,400",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 8": "12,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 9": "14,000",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 9 and costs 1,40": "pgrade 9 and costs 1,400",
+            "Damage": "Incomplete Wiki Data",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        }
+    ]
+}

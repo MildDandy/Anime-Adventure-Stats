@@ -1,0 +1,151 @@
+{
+    "Name": "Kumo",
+    "Tags": [
+        "Mythic Units",
+        "Unobtainable Units",
+        "One Piece Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 4": "AoE (Circle) - radius: 7",
+        "Upgrade 7": "AoE (Circle) - radius: 14"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "200",
+            "Range": "15",
+            "SPA": "8",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "350",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "43.75"
+        },
+        {
+            "Upgrade 2": "2,300",
+            "Damage": "550",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "73.33"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "900",
+            "Range": "18",
+            "SPA": "7.5",
+            "DPS": "120"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,000",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "142.86"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "1,200",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "171.43"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "1,600",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "228.57"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "2,200",
+            "Range": "27",
+            "SPA": "11",
+            "DPS": "200"
+        },
+        {
+            "Upgrade 8": "9,000",
+            "Damage": "2,500",
+            "Range": "28",
+            "SPA": "10",
+            "DPS": "250"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "1,840.81",
+            "Range": "15",
+            "SPA": "8",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "3,221.42",
+            "Range": "16",
+            "SPA": "8",
+            "DPS": "402.68"
+        },
+        {
+            "Upgrade 2": "2,300",
+            "Damage": "5,062.24",
+            "Range": "17",
+            "SPA": "7.5",
+            "DPS": "674.96"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "8,283.66",
+            "Range": "18",
+            "SPA": "7.5",
+            "DPS": "1,104.49"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "9,204.07",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "1,314.87"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "11,044.88",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "1,577.84"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "14,726.5",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "2,103.79"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "20,248.94",
+            "Range": "27",
+            "SPA": "11",
+            "DPS": "1,840.81"
+        },
+        {
+            "Upgrade 8": "9,000",
+            "Damage": "23,010.16",
+            "Range": "28",
+            "SPA": "10",
+            "DPS": "2,301.02"
+        }
+    ]
+}

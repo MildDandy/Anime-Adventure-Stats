@@ -1,0 +1,150 @@
+{
+    "Name": "Jolyna",
+    "Tags": [
+        "Mythic Units",
+        "JoJo Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 2": "AoE (Circle) - radius: 6",
+        "Upgrade 5": "AoE (Circle) - radius: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "325",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "40.63"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "780",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "97.5"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "1,170",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "146.25"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "1,820",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "227.5"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "2,340",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "312"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "2,990",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "398.67"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "3,510",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "468"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "4,550",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "650"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "5,200",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "742.86"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "2,991.32",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "373.92"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "7,179.17",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "897.4"
+        },
+        {
+            "Upgrade 2": "2,400",
+            "Damage": "10,768.76",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "1,346.09"
+        },
+        {
+            "Upgrade 3": "3,400",
+            "Damage": "16,751.4",
+            "Range": "24",
+            "SPA": "8",
+            "DPS": "2,093.92"
+        },
+        {
+            "Upgrade 4": "4,400",
+            "Damage": "21,537.51",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "2,871.67"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "27,520.15",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "3,669.35"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "32,306.27",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "4,307.5"
+        },
+        {
+            "Upgrade 7": "12,000",
+            "Damage": "41,878.5",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "5,982.64"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "47,861.14",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "6,837.31"
+        }
+    ]
+}

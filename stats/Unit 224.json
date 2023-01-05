@@ -1,0 +1,107 @@
+{
+    "Name": "Vegita",
+    "Tags": [
+        "Rare Units",
+        "Dragon Ball Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 4": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "6",
+            "Range": "10",
+            "SPA": "5",
+            "DPS": "1.2"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "12",
+            "Range": "11",
+            "SPA": "5",
+            "DPS": "2.4"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "18",
+            "Range": "11",
+            "SPA": "4.5",
+            "DPS": "4"
+        },
+        {
+            "Upgrade 3": "750",
+            "Damage": "24",
+            "Range": "12",
+            "SPA": "4.5",
+            "DPS": "5.33"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "28",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "4"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "50",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "8.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "55.22",
+            "Range": "10",
+            "SPA": "5",
+            "DPS": "11.04"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "110.45",
+            "Range": "11",
+            "SPA": "5",
+            "DPS": "22.09"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "165.67",
+            "Range": "11",
+            "SPA": "4.5",
+            "DPS": "36.82"
+        },
+        {
+            "Upgrade 3": "750",
+            "Damage": "220.9",
+            "Range": "12",
+            "SPA": "4.5",
+            "DPS": "49.09"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "257.71",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "36.82"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "460.2",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "76.7"
+        }
+    ]
+}

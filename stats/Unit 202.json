@@ -1,0 +1,64 @@
+{
+    "Name": "Speedcart",
+    "Tags": [
+        "Epic Units",
+        "Meta Units",
+        "JoJo's Bizarre Adventure Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND",
+        "FARM"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "None"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "550",
+            "Income": "200"
+        },
+        {
+            "Upgrade 1": "1,000",
+            "Income": "500"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Income": "1,000"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Income": "1,750"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Income": "2,500"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "550",
+            "Income": "200"
+        },
+        {
+            "Upgrade 1": "1,000",
+            "Income": "500"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Income": "1,000"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Income": "1,750"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Income": "2,500"
+        }
+    ]
+}

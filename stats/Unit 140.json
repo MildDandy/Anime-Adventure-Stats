@@ -1,0 +1,115 @@
+{
+    "Name": "JIO (Over Heaven)",
+    "Tags": [
+        "Damage Type Light",
+        "JoJo's Bizarre Adventure Units",
+        "Evolved Units",
+        "Limited Units",
+        "Secret Units",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "1",
+    "Tower Type": [
+        "HYBD"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Light"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 8",
+        "Upgrade 1": "AoE (Circle) - radius: 12",
+        "Upgrade 3": "AoE (Circle) - radius: 15"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "10,000",
+            "Damage": "2,500",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "384.62"
+        },
+        {
+            "Upgrade 1": "5,500",
+            "Damage": "3,750",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "500"
+        },
+        {
+            "Upgrade 2": "10,000",
+            "Damage": "6,000",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "857.14"
+        },
+        {
+            "Upgrade 3": "15,000",
+            "Damage": "9,000",
+            "Range": "29",
+            "SPA": "7",
+            "DPS": "1,285.71"
+        },
+        {
+            "Upgrade 4": "35,000",
+            "Damage": "15,000",
+            "Range": "32",
+            "SPA": "6.5",
+            "DPS": "2,307.69"
+        },
+        {
+            "Upgrade 5": "50,000",
+            "Damage": "23,000",
+            "Range": "35",
+            "SPA": "6.5",
+            "DPS": "3,538.46"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "10,000",
+            "Damage": "23,010.16",
+            "Range": "23",
+            "SPA": "6.5",
+            "DPS": "3,540.03"
+        },
+        {
+            "Upgrade 1": "5,500",
+            "Damage": "34,515.24",
+            "Range": "26",
+            "SPA": "7.5",
+            "DPS": "4,602.03"
+        },
+        {
+            "Upgrade 2": "10,000",
+            "Damage": "55,224.39",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "7,889.2"
+        },
+        {
+            "Upgrade 3": "15,000",
+            "Damage": "82,836.59",
+            "Range": "29",
+            "SPA": "7",
+            "DPS": "11,833.8"
+        },
+        {
+            "Upgrade 4": "35,000",
+            "Damage": "138,060.98",
+            "Range": "32",
+            "SPA": "6.5",
+            "DPS": "21,240.15"
+        },
+        {
+            "Upgrade 5": "50,000",
+            "Damage": "211,693.5",
+            "Range": "35",
+            "SPA": "6.5",
+            "DPS": "32,568.23"
+        }
+    ]
+}

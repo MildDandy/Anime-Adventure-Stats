@@ -1,0 +1,169 @@
+{
+    "Name": "Ulquiro (Resurrecci\u00f3n)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "Bleach Units",
+        "Damage Type Dark",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Dark"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 10",
+        "Upgrade 3": "AoE (Line) - width: 10",
+        "Upgrade 7": "AoE (Circle) - radius: 13.5"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "218.4",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "27.3"
+        },
+        {
+            "Upgrade 1": "2,650",
+            "Damage": "436.8",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "58.24"
+        },
+        {
+            "Upgrade 2": "3,250",
+            "Damage": "764.4",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "101.92"
+        },
+        {
+            "Upgrade 3": "5,250",
+            "Damage": "1,092",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "156"
+        },
+        {
+            "Upgrade 4": "5,500",
+            "Damage": "1,528.8",
+            "Range": "29",
+            "SPA": "7",
+            "DPS": "218.4"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "1,747.2",
+            "Range": "29.5",
+            "SPA": "7",
+            "DPS": "249.6"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "1,965.6",
+            "Range": "30",
+            "SPA": "7",
+            "DPS": "280.8"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "2,620.8",
+            "Range": "37",
+            "SPA": "7.5",
+            "DPS": "349.44"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "3,494.4",
+            "Range": "38",
+            "SPA": "7.5",
+            "DPS": "465.92"
+        },
+        {
+            "Upgrade 9": "12,500",
+            "Damage": "4,368",
+            "Range": "40",
+            "SPA": "7",
+            "DPS": "624"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "2,010.17",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "251.27"
+        },
+        {
+            "Upgrade 1": "2,650",
+            "Damage": "4,020.34",
+            "Range": "23",
+            "SPA": "7.5",
+            "DPS": "536.04"
+        },
+        {
+            "Upgrade 2": "3,250",
+            "Damage": "7,035.59",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "938.08"
+        },
+        {
+            "Upgrade 3": "5,250",
+            "Damage": "10,050.84",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "1,435.83"
+        },
+        {
+            "Upgrade 4": "5,500",
+            "Damage": "14,071.17",
+            "Range": "29",
+            "SPA": "7",
+            "DPS": "2,010.17"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "16,081.34",
+            "Range": "29.5",
+            "SPA": "7",
+            "DPS": "2,297.33"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "18,091.51",
+            "Range": "30",
+            "SPA": "7",
+            "DPS": "2,584.5"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "24,122.01",
+            "Range": "37",
+            "SPA": "7.5",
+            "DPS": "3,216.27"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "32,162.68",
+            "Range": "38",
+            "SPA": "7.5",
+            "DPS": "4,288.36"
+        },
+        {
+            "Upgrade 9": "12,500",
+            "Damage": "40,203.36",
+            "Range": "40",
+            "SPA": "7",
+            "DPS": "5,743.34"
+        }
+    ]
+}

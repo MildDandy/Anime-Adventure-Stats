@@ -1,0 +1,170 @@
+{
+    "Name": "Chairman Neteru",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Light",
+        "Hunter X Hunter Units",
+        "Evolved Units",
+        "Old Man Netero",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Light"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 80",
+        "Upgrade 4": "AoE (Circle) - radius: 13.5",
+        "Upgrade 8": "AoE (Circle) - radius: 16"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "135",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "16.88"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "270",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "33.75"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "405",
+            "Range": "23.5",
+            "SPA": "7",
+            "DPS": "57.86"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "675",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "96.43"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "2,025",
+            "Range": "25",
+            "SPA": "11",
+            "DPS": "184.09"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "2,700",
+            "Range": "27",
+            "SPA": "11",
+            "DPS": "245.45"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "3,712.5",
+            "Range": "28",
+            "SPA": "11",
+            "DPS": "337.5"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "4,050",
+            "Range": "30",
+            "SPA": "11",
+            "DPS": "368.18"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "4,590",
+            "Range": "33",
+            "SPA": "10",
+            "DPS": "459"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "5,130",
+            "Range": "35",
+            "SPA": "10",
+            "DPS": "513"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "1,242.55",
+            "Range": "22",
+            "SPA": "8",
+            "DPS": "155.32"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,485.1",
+            "Range": "23",
+            "SPA": "8",
+            "DPS": "310.64"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "3,727.65",
+            "Range": "23.5",
+            "SPA": "7",
+            "DPS": "532.52"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "6,212.74",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "887.53"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "18,638.23",
+            "Range": "25",
+            "SPA": "11",
+            "DPS": "1,694.38"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "24,850.98",
+            "Range": "27",
+            "SPA": "11",
+            "DPS": "2,259.18"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "34,170.09",
+            "Range": "28",
+            "SPA": "11",
+            "DPS": "3,106.37"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "37,276.46",
+            "Range": "30",
+            "SPA": "11",
+            "DPS": "3,388.77"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "42,246.66",
+            "Range": "33",
+            "SPA": "10",
+            "DPS": "4,224.67"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "47,216.85",
+            "Range": "35",
+            "SPA": "10",
+            "DPS": "4,721.69"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "Name": "Yamomoto (Hellfire)",
+    "Tags": [
+        "Damage Type Fire",
+        "Limited Units",
+        "Secret Units",
+        "Bleach Units",
+        "Pages with script errors",
+        "Meta Units"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "physical"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 7",
+        "Upgrade 3": "AoE (Full)",
+        "Upgrade 6": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,750",
+            "Damage": "375",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "53.57"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "600",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "900",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "163.64"
+        },
+        {
+            "Upgrade 3": "4,000",
+            "Damage": "1,950",
+            "Range": "23",
+            "SPA": "15",
+            "DPS": "130"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "2,700",
+            "Range": "24",
+            "SPA": "14",
+            "DPS": "192.86"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "3,450",
+            "Range": "25",
+            "SPA": "14",
+            "DPS": "246.43"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "3,750",
+            "Range": "30",
+            "SPA": "14",
+            "DPS": "267.86"
+        },
+        {
+            "Upgrade 7": "12,500",
+            "Damage": "4,875",
+            "Range": "32",
+            "SPA": "14",
+            "DPS": "348.21"
+        },
+        {
+            "Upgrade 8": "17,500",
+            "Damage": "5,250",
+            "Range": "33",
+            "SPA": "13.5",
+            "DPS": "388.89"
+        },
+        {
+            "Upgrade 9": "25,000",
+            "Damage": "7,200",
+            "Range": "34",
+            "SPA": "13.5",
+            "DPS": "533.33"
+        },
+        {
+            "Upgrade 10": "42,000",
+            "Damage": "10,500",
+            "Range": "35",
+            "SPA": "13",
+            "DPS": "807.69"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,750",
+            "Damage": "3,451.52",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "493.07"
+        },
+        {
+            "Upgrade 1": "2,200",
+            "Damage": "5,522.44",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "8,283.66",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "1,506.12"
+        },
+        {
+            "Upgrade 3": "4,000",
+            "Damage": "17,947.93",
+            "Range": "23",
+            "SPA": "15",
+            "DPS": "1,196.53"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "24,850.98",
+            "Range": "24",
+            "SPA": "14",
+            "DPS": "1,775.07"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "31,754.02",
+            "Range": "25",
+            "SPA": "14",
+            "DPS": "2,268.14"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "34,515.24",
+            "Range": "30",
+            "SPA": "14",
+            "DPS": "2,465.37"
+        },
+        {
+            "Upgrade 7": "12,500",
+            "Damage": "44,869.82",
+            "Range": "32",
+            "SPA": "14",
+            "DPS": "3,204.99"
+        },
+        {
+            "Upgrade 8": "17,500",
+            "Damage": "48,321.34",
+            "Range": "33",
+            "SPA": "13.5",
+            "DPS": "3,579.36"
+        },
+        {
+            "Upgrade 9": "25,000",
+            "Damage": "66,269.27",
+            "Range": "34",
+            "SPA": "13.5",
+            "DPS": "4,908.83"
+        },
+        {
+            "Upgrade 10": "42,000",
+            "Damage": "96,642.68",
+            "Range": "35",
+            "SPA": "13",
+            "DPS": "7,434.05"
+        }
+    ]
+}

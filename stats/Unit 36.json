@@ -1,0 +1,151 @@
+{
+    "Name": "Ezra",
+    "Tags": [
+        "Mythic Units",
+        "Unobtainable Units",
+        "Fairy Tail Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 4": "AoE (Circle) - radius: 6.5",
+        "Upgrade 7": "AoE (Line) - width: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "90",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "12.86"
+        },
+        {
+            "Upgrade 1": "1,300",
+            "Damage": "170",
+            "Range": "16.5",
+            "SPA": "7",
+            "DPS": "24.29"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "300",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "42.86"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "450",
+            "Range": "17.5",
+            "SPA": "6.5",
+            "DPS": "69.23"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "550",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "84.62"
+        },
+        {
+            "Upgrade 5": "5,200",
+            "Damage": "700",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "116.67"
+        },
+        {
+            "Upgrade 6": "6,350",
+            "Damage": "800",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "133.33"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "900",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 8": "10,500",
+            "Damage": "1,000",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "181.82"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,100",
+            "Damage": "828.37",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "118.34"
+        },
+        {
+            "Upgrade 1": "1,300",
+            "Damage": "1,564.69",
+            "Range": "16.5",
+            "SPA": "7",
+            "DPS": "223.53"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "2,761.22",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "394.46"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "4,141.83",
+            "Range": "17.5",
+            "SPA": "6.5",
+            "DPS": "637.2"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "5,062.24",
+            "Range": "18",
+            "SPA": "6.5",
+            "DPS": "778.81"
+        },
+        {
+            "Upgrade 5": "5,200",
+            "Damage": "6,442.85",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "1,073.81"
+        },
+        {
+            "Upgrade 6": "6,350",
+            "Damage": "7,363.25",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "1,227.21"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "8,283.66",
+            "Range": "21",
+            "SPA": "6",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 8": "10,500",
+            "Damage": "9,204.07",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "1,673.47"
+        }
+    ]
+}

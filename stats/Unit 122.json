@@ -1,0 +1,153 @@
+{
+    "Name": "Uru",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Light",
+        "Bleach Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Light"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 4": "AoE (Circle) - radius: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "78",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "13"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "130",
+            "Range": "20.5",
+            "SPA": "5.5",
+            "DPS": "23.64"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "195",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "35.45"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "260",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "52"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "325",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "65"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "455",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "101.11"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "585",
+            "Range": "30",
+            "SPA": "4.5",
+            "DPS": "130"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "715",
+            "Range": "35",
+            "SPA": "4",
+            "DPS": "178.75"
+        },
+        {
+            "Upgrade 8": "9,000",
+            "Damage": "780",
+            "Range": "40",
+            "SPA": "4",
+            "DPS": "195"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,250",
+            "Damage": "717.92",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "119.65"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "1,196.53",
+            "Range": "20.5",
+            "SPA": "5.5",
+            "DPS": "217.55"
+        },
+        {
+            "Upgrade 2": "2,000",
+            "Damage": "1,794.79",
+            "Range": "21",
+            "SPA": "5.5",
+            "DPS": "326.33"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "2,393.06",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "478.61"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "2,991.32",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "598.26"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "4,187.85",
+            "Range": "27",
+            "SPA": "4.5",
+            "DPS": "930.63"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "5,384.38",
+            "Range": "30",
+            "SPA": "4.5",
+            "DPS": "1,196.53"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "6,580.91",
+            "Range": "35",
+            "SPA": "4",
+            "DPS": "1,645.23"
+        },
+        {
+            "Upgrade 8": "9,000",
+            "Damage": "7,179.17",
+            "Range": "40",
+            "SPA": "4",
+            "DPS": "1,794.79"
+        }
+    ]
+}

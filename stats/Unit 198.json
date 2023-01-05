@@ -1,0 +1,125 @@
+{
+    "Name": "Kizzua",
+    "Tags": [
+        "Epic Units",
+        "Damage Type Lightning",
+        "Hunter X Hunter Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 10",
+        "Upgrade 5": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "8",
+            "Range": "10",
+            "SPA": "4",
+            "DPS": "2"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "15",
+            "Range": "11",
+            "SPA": "4",
+            "DPS": "3.75"
+        },
+        {
+            "Upgrade 2": "1,100",
+            "Damage": "25",
+            "Range": "12",
+            "SPA": "3.5",
+            "DPS": "7.14"
+        },
+        {
+            "Upgrade 3": "1,450",
+            "Damage": "40",
+            "Range": "13",
+            "SPA": "3.5",
+            "DPS": "11.43"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "50",
+            "Range": "14",
+            "SPA": "3",
+            "DPS": "16.67"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "70",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "14"
+        },
+        {
+            "Upgrade 6": "3,500",
+            "Damage": "85",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "18.89"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "73.63",
+            "Range": "10",
+            "SPA": "4",
+            "DPS": "18.41"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "138.06",
+            "Range": "11",
+            "SPA": "4",
+            "DPS": "34.52"
+        },
+        {
+            "Upgrade 2": "1,100",
+            "Damage": "230.1",
+            "Range": "12",
+            "SPA": "3.5",
+            "DPS": "65.74"
+        },
+        {
+            "Upgrade 3": "1,450",
+            "Damage": "368.16",
+            "Range": "13",
+            "SPA": "3.5",
+            "DPS": "105.19"
+        },
+        {
+            "Upgrade 4": "1,750",
+            "Damage": "460.2",
+            "Range": "14",
+            "SPA": "3",
+            "DPS": "153.4"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "644.28",
+            "Range": "20",
+            "SPA": "5",
+            "DPS": "128.86"
+        },
+        {
+            "Upgrade 6": "3,500",
+            "Damage": "782.35",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "173.85"
+        }
+    ]
+}

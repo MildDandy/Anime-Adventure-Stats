@@ -1,0 +1,155 @@
+{
+    "Name": "Emili",
+    "Tags": [
+        "Mythic Units",
+        "Unobtainable Units",
+        "Damage Type Ice",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 5",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 7": "AoE (Circle) - radius: 12"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "175",
+            "Range": "18",
+            "SPA": "7.5",
+            "DPS": "23.33"
+        },
+        {
+            "Upgrade 1": "2,300",
+            "Damage": "350",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "50"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "600",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "85.71"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "1,000",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "142.86"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "1,250",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "178.57"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "1,750",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "269.23"
+        },
+        {
+            "Upgrade 6": "9,000",
+            "Damage": "2,200",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "338.46"
+        },
+        {
+            "Upgrade 7": "11,000",
+            "Damage": "2,400",
+            "Range": "28",
+            "SPA": "6.5",
+            "DPS": "369.23"
+        },
+        {
+            "Upgrade 8": "17,500",
+            "Damage": "2,600",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "433.33"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "1,610.71",
+            "Range": "18",
+            "SPA": "7.5",
+            "DPS": "214.76"
+        },
+        {
+            "Upgrade 1": "2,300",
+            "Damage": "3,221.42",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "460.2"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "5,522.44",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "788.92"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "9,204.07",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "1,314.87"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "11,505.08",
+            "Range": "23",
+            "SPA": "7",
+            "DPS": "1,643.58"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "16,107.11",
+            "Range": "24",
+            "SPA": "6.5",
+            "DPS": "2,478.02"
+        },
+        {
+            "Upgrade 6": "9,000",
+            "Damage": "20,248.94",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "3,115.22"
+        },
+        {
+            "Upgrade 7": "11,000",
+            "Damage": "22,089.76",
+            "Range": "28",
+            "SPA": "6.5",
+            "DPS": "3,398.42"
+        },
+        {
+            "Upgrade 8": "17,500",
+            "Damage": "23,930.57",
+            "Range": "30",
+            "SPA": "6",
+            "DPS": "3,988.43"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "Name": "Jokujo",
+    "Tags": [
+        "Damage Type Phyiscal",
+        "JoJo's Bizarre Adventure Units",
+        "Epic Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "575",
+            "Damage": "22",
+            "Range": "12",
+            "SPA": "3",
+            "DPS": "7.33"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "45",
+            "Range": "12",
+            "SPA": "3",
+            "DPS": "15"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "70",
+            "Range": "13",
+            "SPA": "3",
+            "DPS": "23.33"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "95",
+            "Range": "13",
+            "SPA": "2.5",
+            "DPS": "38"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "150",
+            "Range": "15",
+            "SPA": "2.5",
+            "DPS": "60"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "180",
+            "Range": "20",
+            "SPA": "2.5",
+            "DPS": "72"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "575",
+            "Damage": "202.49",
+            "Range": "12",
+            "SPA": "3",
+            "DPS": "67.5"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "414.18",
+            "Range": "12",
+            "SPA": "3",
+            "DPS": "138.06"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "644.28",
+            "Range": "13",
+            "SPA": "3",
+            "DPS": "214.76"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "874.39",
+            "Range": "13",
+            "SPA": "2.5",
+            "DPS": "349.75"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "1,380.61",
+            "Range": "15",
+            "SPA": "2.5",
+            "DPS": "552.24"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "1,656.73",
+            "Range": "20",
+            "SPA": "2.5",
+            "DPS": "662.69"
+        }
+    ]
+}

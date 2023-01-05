@@ -1,0 +1,136 @@
+{
+    "Name": "Ichi (Full Hollow)",
+    "Tags": [
+        "Unobtainable Units",
+        "Secret Units",
+        "Bleach Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 3",
+        "Upgrade 3": "AoE (Line) - width: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "50",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "8.33"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "80",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "13.33"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "100",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "20"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "150",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "30"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "200",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "300",
+            "Range": "24",
+            "SPA": "5",
+            "DPS": "60"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "400",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "80"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "600",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "120"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "460.2",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "76.7"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "736.33",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "122.72"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "920.41",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "184.08"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "1,380.61",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "276.12"
+        },
+        {
+            "Upgrade 4": "2,750",
+            "Damage": "1,840.81",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "2,761.22",
+            "Range": "24",
+            "SPA": "5",
+            "DPS": "552.24"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "3,681.63",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "736.33"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "5,522.44",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "1,104.49"
+        }
+    ]
+}

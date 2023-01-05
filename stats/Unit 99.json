@@ -1,0 +1,150 @@
+{
+    "Name": "Pito",
+    "Tags": [
+        "Mythic Units",
+        "Hunter X Hunter Units",
+        "Bleed Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 4": "AoE (Circle) - radius: 7"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "180",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "25.71"
+        },
+        {
+            "Upgrade 1": "1,400",
+            "Damage": "300",
+            "Range": "13",
+            "SPA": "7",
+            "DPS": "42.86"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "480",
+            "Range": "15",
+            "SPA": "6.5",
+            "DPS": "73.85"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "720",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "110.77"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "840",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "140"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "1,080",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "180"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "1,560",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "260"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "1,800",
+            "Range": "25",
+            "SPA": "5.5",
+            "DPS": "327.27"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "1,920",
+            "Range": "27",
+            "SPA": "5.5",
+            "DPS": "349.09"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,350",
+            "Damage": "1,656.73",
+            "Range": "12",
+            "SPA": "7",
+            "DPS": "236.68"
+        },
+        {
+            "Upgrade 1": "1,400",
+            "Damage": "2,761.22",
+            "Range": "13",
+            "SPA": "7",
+            "DPS": "394.46"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "4,417.95",
+            "Range": "15",
+            "SPA": "6.5",
+            "DPS": "679.68"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "6,626.93",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "1,019.53"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "7,731.41",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "1,288.57"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "9,940.39",
+            "Range": "19",
+            "SPA": "6",
+            "DPS": "1,656.73"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "14,358.34",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "2,393.06"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "16,567.32",
+            "Range": "25",
+            "SPA": "5.5",
+            "DPS": "3,012.24"
+        },
+        {
+            "Upgrade 8": "10,000",
+            "Damage": "17,671.8",
+            "Range": "27",
+            "SPA": "5.5",
+            "DPS": "3,213.06"
+        }
+    ]
+}

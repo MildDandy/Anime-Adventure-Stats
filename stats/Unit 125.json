@@ -1,0 +1,149 @@
+{
+    "Name": "Whitehair",
+    "Tags": [
+        "Mythic Units",
+        "One Piece Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 90",
+        "Upgrade 5": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,750",
+            "Damage": "225",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "28.13"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "450",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "56.25"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "675",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "90"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "825",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "117.86"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "1,125",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "160.71"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "1,275",
+            "Range": "20",
+            "SPA": "11",
+            "DPS": "115.91"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "1,650",
+            "Range": "22",
+            "SPA": "11",
+            "DPS": "150"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "1,950",
+            "Range": "23",
+            "SPA": "11",
+            "DPS": "177.27"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "2,100",
+            "Range": "24",
+            "SPA": "10.5",
+            "DPS": "200"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,750",
+            "Damage": "2,070.91",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "258.86"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "4,141.83",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "517.73"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "6,212.74",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "828.37"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "7,593.35",
+            "Range": "16",
+            "SPA": "7",
+            "DPS": "1,084.76"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "10,354.57",
+            "Range": "17",
+            "SPA": "7",
+            "DPS": "1,479.22"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "11,735.18",
+            "Range": "20",
+            "SPA": "11",
+            "DPS": "1,066.83"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "15,186.71",
+            "Range": "22",
+            "SPA": "11",
+            "DPS": "1,380.61"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "17,947.93",
+            "Range": "23",
+            "SPA": "11",
+            "DPS": "1,631.63"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "19,328.54",
+            "Range": "24",
+            "SPA": "10.5",
+            "DPS": "1,840.81"
+        }
+    ]
+}

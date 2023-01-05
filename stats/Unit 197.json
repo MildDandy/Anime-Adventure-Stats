@@ -1,0 +1,111 @@
+{
+    "Name": "Kazashu",
+    "Tags": [
+        "Epic Units",
+        "Damage Type Lightning",
+        "Naruto Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 4": "AoE (Line) - width: 6"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "7",
+            "Range": "12",
+            "SPA": "5",
+            "DPS": "1.4"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "16",
+            "Range": "13",
+            "SPA": "5",
+            "DPS": "3.2"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "27",
+            "Range": "14",
+            "SPA": "4.5",
+            "DPS": "6"
+        },
+        {
+            "Upgrade 3": "2,000",
+            "Damage": "45",
+            "Range": "15",
+            "SPA": "4.5",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "45",
+            "Range": "20",
+            "SPA": "4",
+            "DPS": "11.25"
+        },
+        {
+            "Upgrade 5": "4,500",
+            "Damage": "55",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "13.75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "64.43",
+            "Range": "12",
+            "SPA": "5",
+            "DPS": "12.89"
+        },
+        {
+            "Upgrade 1": "750",
+            "Damage": "147.27",
+            "Range": "13",
+            "SPA": "5",
+            "DPS": "29.45"
+        },
+        {
+            "Upgrade 2": "1,250",
+            "Damage": "248.51",
+            "Range": "14",
+            "SPA": "4.5",
+            "DPS": "55.22"
+        },
+        {
+            "Upgrade 3": "2,000",
+            "Damage": "414.18",
+            "Range": "15",
+            "SPA": "4.5",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "414.18",
+            "Range": "20",
+            "SPA": "4",
+            "DPS": "103.55"
+        },
+        {
+            "Upgrade 5": "4,500",
+            "Damage": "506.22",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "126.56"
+        }
+    ]
+}

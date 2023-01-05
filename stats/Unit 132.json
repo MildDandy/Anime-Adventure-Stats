@@ -1,0 +1,156 @@
+{
+    "Name": "Fire Fist",
+    "Tags": [
+        "Damage Type Fire",
+        "Unobtainable Units",
+        "One Piece Units",
+        "Burn Units",
+        "Secret Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Circle) - radius: 8",
+        "Upgrade 7": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "55",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "7.86"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "100",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "15.38"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "150",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "23.08"
+        },
+        {
+            "Upgrade 3": "2,750",
+            "Damage": "195",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "32.5"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "225",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "37.5"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "300",
+            "Range": "23",
+            "SPA": "5.5",
+            "DPS": "54.55"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "400",
+            "Range": "23.5",
+            "SPA": "5.5",
+            "DPS": "72.73"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "500",
+            "Range": "24",
+            "SPA": "5",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "600",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "120"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,200",
+            "Damage": "506.22",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "72.32"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "920.41",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "141.6"
+        },
+        {
+            "Upgrade 2": "2,250",
+            "Damage": "1,380.61",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "212.4"
+        },
+        {
+            "Upgrade 3": "2,750",
+            "Damage": "1,794.79",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "299.13"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "2,070.91",
+            "Range": "22",
+            "SPA": "6",
+            "DPS": "345.15"
+        },
+        {
+            "Upgrade 5": "5,500",
+            "Damage": "2,761.22",
+            "Range": "23",
+            "SPA": "5.5",
+            "DPS": "502.04"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "3,681.63",
+            "Range": "23.5",
+            "SPA": "5.5",
+            "DPS": "669.39"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "4,602.03",
+            "Range": "24",
+            "SPA": "5",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "5,522.44",
+            "Range": "25",
+            "SPA": "5",
+            "DPS": "1,104.49"
+        }
+    ]
+}

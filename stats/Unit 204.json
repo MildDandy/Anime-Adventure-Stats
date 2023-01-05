@@ -1,0 +1,121 @@
+{
+    "Name": "Underhaul",
+    "Tags": [
+        "Epic Units",
+        "My Hero Academia Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 5": "AoE (Circle) - radius: 6"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "15",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "5"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "30",
+            "Range": "16",
+            "SPA": "3",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "37",
+            "Range": "17",
+            "SPA": "2.5",
+            "DPS": "14.8"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "60",
+            "Range": "18",
+            "SPA": "2.5",
+            "DPS": "24"
+        },
+        {
+            "Upgrade 4": "1,550",
+            "Damage": "70",
+            "Range": "19",
+            "SPA": "2",
+            "DPS": "35"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "70",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "14"
+        },
+        {
+            "Upgrade 6": "3,000",
+            "Damage": "80",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "17.78"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "138.06",
+            "Range": "15",
+            "SPA": "3",
+            "DPS": "46.02"
+        },
+        {
+            "Upgrade 1": "550",
+            "Damage": "276.12",
+            "Range": "16",
+            "SPA": "3",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 2": "650",
+            "Damage": "340.55",
+            "Range": "17",
+            "SPA": "2.5",
+            "DPS": "136.22"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "552.24",
+            "Range": "18",
+            "SPA": "2.5",
+            "DPS": "220.9"
+        },
+        {
+            "Upgrade 4": "1,550",
+            "Damage": "644.28",
+            "Range": "19",
+            "SPA": "2",
+            "DPS": "322.14"
+        },
+        {
+            "Upgrade 5": "3,500",
+            "Damage": "644.28",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "128.86"
+        },
+        {
+            "Upgrade 6": "3,000",
+            "Damage": "736.33",
+            "Range": "25",
+            "SPA": "4.5",
+            "DPS": "163.63"
+        }
+    ]
+}

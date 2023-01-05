@@ -1,0 +1,107 @@
+{
+    "Name": "Armein",
+    "Tags": [
+        "Mythic Units",
+        "Pages with non-numeric formatnum arguments",
+        "Attack on Titan Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "None"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "5,000",
+            "Damage": "4,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 1": "6,500",
+            "Damage": "6,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 2": "8,000",
+            "Damage": "8,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 3": "10,000",
+            "Damage": "11,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 4": "12,500",
+            "Damage": "14,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 5": "15,000",
+            "Damage": "17,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "5,000",
+            "Damage": "36,816.26",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 1": "6,500",
+            "Damage": "55,224.39",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 2": "8,000",
+            "Damage": "73,632.52",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 3": "10,000",
+            "Damage": "101,244.72",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 4": "12,500",
+            "Damage": "128,856.91",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        },
+        {
+            "Upgrade 5": "15,000",
+            "Damage": "156,469.11",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "Incomplete Wiki Data",
+            "DPS": "Incomplete Wiki Data"
+        }
+    ]
+}

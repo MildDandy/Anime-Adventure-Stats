@@ -1,0 +1,108 @@
+{
+    "Name": "Bakujo",
+    "Tags": [
+        "Rare Units",
+        "My Hero Academia Units",
+        "Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 2.5",
+        "Upgrade 4": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "4.5",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "0.75"
+        },
+        {
+            "Upgrade 1": "600",
+            "Damage": "12",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "2"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "15",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "2.73"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "20",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "3.64"
+        },
+        {
+            "Upgrade 4": "2,000",
+            "Damage": "22",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "4.4"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "35",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "7"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "41.42",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "6.9"
+        },
+        {
+            "Upgrade 1": "600",
+            "Damage": "110.45",
+            "Range": "20",
+            "SPA": "6",
+            "DPS": "18.41"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "138.06",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "25.1"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "184.08",
+            "Range": "22",
+            "SPA": "5.5",
+            "DPS": "33.47"
+        },
+        {
+            "Upgrade 4": "2,000",
+            "Damage": "202.49",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "40.5"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "322.14",
+            "Range": "23",
+            "SPA": "5",
+            "DPS": "64.43"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "Name": "Sanjay",
+    "Tags": [
+        "Damage Type Fire",
+        "One Piece Units",
+        "Rare Units",
+        "Damage Type Physical",
+        "Burn Units"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 2": "Single",
+        "Upgrade 4": "AoE (Circle) - radius: 4"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "250",
+            "Damage": "15",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "3.75"
+        },
+        {
+            "Upgrade 1": "300",
+            "Damage": "30",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "7.5"
+        },
+        {
+            "Upgrade 2": "450",
+            "Damage": "40",
+            "Range": "7",
+            "SPA": "4",
+            "DPS": "10"
+        },
+        {
+            "Upgrade 3": "600",
+            "Damage": "50",
+            "Range": "7",
+            "SPA": "4",
+            "DPS": "12.5"
+        },
+        {
+            "Upgrade 4": "1,250",
+            "Damage": "50",
+            "Range": "8",
+            "SPA": "4",
+            "DPS": "12.5"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "90",
+            "Range": "8",
+            "SPA": "4",
+            "DPS": "22.5"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "250",
+            "Damage": "138.06",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "34.52"
+        },
+        {
+            "Upgrade 1": "300",
+            "Damage": "276.12",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "69.03"
+        },
+        {
+            "Upgrade 2": "450",
+            "Damage": "368.16",
+            "Range": "7",
+            "SPA": "4",
+            "DPS": "92.04"
+        },
+        {
+            "Upgrade 3": "600",
+            "Damage": "460.2",
+            "Range": "7",
+            "SPA": "4",
+            "DPS": "115.05"
+        },
+        {
+            "Upgrade 4": "1,250",
+            "Damage": "460.2",
+            "Range": "8",
+            "SPA": "4",
+            "DPS": "115.05"
+        },
+        {
+            "Upgrade 5": "2,500",
+            "Damage": "828.37",
+            "Range": "8",
+            "SPA": "4",
+            "DPS": "207.09"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "Name": "Lucky",
+    "Tags": [
+        "Mythic Units",
+        "Unobtainable Units",
+        "Damage Type Lightning",
+        "Limited Units",
+        "Black Clover Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 5",
+        "Upgrade 4": "AoE (Circle) - radius: 5"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "150",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "20"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "300",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "40"
+        },
+        {
+            "Upgrade 2": "2,550",
+            "Damage": "450",
+            "Range": "25.5",
+            "SPA": "7",
+            "DPS": "64.29"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "700",
+            "Range": "26",
+            "SPA": "7",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "1,300",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "185.71"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "1,750",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "250"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "2,000",
+            "Range": "29",
+            "SPA": "6.5",
+            "DPS": "307.69"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "2,500",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "384.62"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "1,380.61",
+            "Range": "24",
+            "SPA": "7.5",
+            "DPS": "184.08"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,761.22",
+            "Range": "25",
+            "SPA": "7.5",
+            "DPS": "368.16"
+        },
+        {
+            "Upgrade 2": "2,550",
+            "Damage": "4,141.83",
+            "Range": "25.5",
+            "SPA": "7",
+            "DPS": "591.69"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "6,442.85",
+            "Range": "26",
+            "SPA": "7",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "11,965.28",
+            "Range": "27",
+            "SPA": "7",
+            "DPS": "1,709.33"
+        },
+        {
+            "Upgrade 5": "5,750",
+            "Damage": "16,107.11",
+            "Range": "28",
+            "SPA": "7",
+            "DPS": "2,301.02"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "18,408.13",
+            "Range": "29",
+            "SPA": "6.5",
+            "DPS": "2,832.02"
+        },
+        {
+            "Upgrade 7": "7,500",
+            "Damage": "23,010.16",
+            "Range": "30",
+            "SPA": "6.5",
+            "DPS": "3,540.03"
+        }
+    ]
+}

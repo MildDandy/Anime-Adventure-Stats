@@ -1,0 +1,124 @@
+{
+    "Name": "Wenda",
+    "Tags": [
+        "Damage Type Air",
+        "Fairy Tail Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "HYBD"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Air"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 4": "AoE (Line) - width: 6"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "200",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "15",
+            "DPS": "13.33"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "400",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "14",
+            "DPS": "28.57"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "400",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "14",
+            "DPS": "28.57"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "400",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "13",
+            "DPS": "30.77"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "400",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "12",
+            "DPS": "33.33"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "400",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "11",
+            "DPS": "36.36"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "400",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "40"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "800",
+            "Damage": "1,840.81",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "15",
+            "DPS": "122.72"
+        },
+        {
+            "Upgrade 1": "1,200",
+            "Damage": "3,681.63",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "14",
+            "DPS": "262.97"
+        },
+        {
+            "Upgrade 2": "1,750",
+            "Damage": "3,681.63",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "14",
+            "DPS": "262.97"
+        },
+        {
+            "Upgrade 3": "2,500",
+            "Damage": "3,681.63",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "13",
+            "DPS": "283.2"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "3,681.63",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "12",
+            "DPS": "306.8"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "3,681.63",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "11",
+            "DPS": "334.69"
+        },
+        {
+            "Upgrade 6": "8,000",
+            "Damage": "3,681.63",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "368.16"
+        }
+    ]
+}

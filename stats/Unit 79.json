@@ -1,0 +1,160 @@
+{
+    "Name": "Luci",
+    "Tags": [
+        "Damage Type Water",
+        "Damage Type Light",
+        "Mythic Units",
+        "Unobtainable Units",
+        "Damage Type Physical",
+        "Fairy Tail Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "1",
+    "Tower Type": [
+        "GRND",
+        "SUMN"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Physical",
+        "Light",
+        "Water"
+    ],
+    "Attack Type": {
+        "Deployment": "None"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "3,000",
+            "Damage": "250",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "25",
+            "Spawn": "250"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "350",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "35",
+            "Spawn": "350"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "550",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "55",
+            "Spawn": "550"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "900",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "90",
+            "Spawn": "900"
+        },
+        {
+            "Upgrade 4": "7,500",
+            "Damage": "1,250",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "125",
+            "Spawn": "1,250"
+        },
+        {
+            "Upgrade 5": "9,500",
+            "Damage": "2,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "200",
+            "Spawn": "2,000"
+        },
+        {
+            "Upgrade 6": "12,500",
+            "Damage": "3,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "300",
+            "Spawn": "3,000"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "4,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "400",
+            "Spawn": "4,000"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "3,000",
+            "Damage": "2,301.02",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "230.1",
+            "Spawn": "2,301.02"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "3,221.42",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "322.14",
+            "Spawn": "3,221.42"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "5,062.24",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "506.22",
+            "Spawn": "5,062.24"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "8,283.66",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "828.37",
+            "Spawn": "8,283.66"
+        },
+        {
+            "Upgrade 4": "7,500",
+            "Damage": "11,505.08",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "1,150.51",
+            "Spawn": "11,505.08"
+        },
+        {
+            "Upgrade 5": "9,500",
+            "Damage": "18,408.13",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "1,840.81",
+            "Spawn": "18,408.13"
+        },
+        {
+            "Upgrade 6": "12,500",
+            "Damage": "27,612.2",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "2,761.22",
+            "Spawn": "27,612.2"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "36,816.26",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "3,681.63",
+            "Spawn": "36,816.26"
+        }
+    ]
+}

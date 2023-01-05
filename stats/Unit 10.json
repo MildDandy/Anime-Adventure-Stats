@@ -1,0 +1,139 @@
+{
+    "Name": "Aokijo",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Ice",
+        "One Piece Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Ice"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 8",
+        "Upgrade 4": "AoE (Line) - width: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "400",
+            "Range": "20",
+            "SPA": "15",
+            "DPS": "26.67"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "900",
+            "Range": "21",
+            "SPA": "14",
+            "DPS": "64.29"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "1,500",
+            "Range": "22",
+            "SPA": "14",
+            "DPS": "107.14"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "2,000",
+            "Range": "23",
+            "SPA": "14",
+            "DPS": "142.86"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "2,500",
+            "Range": "23.5",
+            "SPA": "13",
+            "DPS": "192.31"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "3,500",
+            "Range": "24",
+            "SPA": "13",
+            "DPS": "269.23"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "4,000",
+            "Range": "24.5",
+            "SPA": "12",
+            "DPS": "333.33"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "5,000",
+            "Range": "25",
+            "SPA": "12",
+            "DPS": "416.67"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "3,681.63",
+            "Range": "20",
+            "SPA": "15",
+            "DPS": "245.44"
+        },
+        {
+            "Upgrade 1": "2,500",
+            "Damage": "8,283.66",
+            "Range": "21",
+            "SPA": "14",
+            "DPS": "591.69"
+        },
+        {
+            "Upgrade 2": "3,000",
+            "Damage": "13,806.1",
+            "Range": "22",
+            "SPA": "14",
+            "DPS": "986.15"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "18,408.13",
+            "Range": "23",
+            "SPA": "14",
+            "DPS": "1,314.87"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "23,010.16",
+            "Range": "23.5",
+            "SPA": "13",
+            "DPS": "1,770.01"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "32,214.23",
+            "Range": "24",
+            "SPA": "13",
+            "DPS": "2,478.02"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "36,816.26",
+            "Range": "24.5",
+            "SPA": "12",
+            "DPS": "3,068.02"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "46,020.33",
+            "Range": "25",
+            "SPA": "12",
+            "DPS": "3,835.03"
+        }
+    ]
+}

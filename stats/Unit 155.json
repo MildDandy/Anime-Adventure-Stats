@@ -1,0 +1,138 @@
+{
+    "Name": "Blackhair",
+    "Tags": [
+        "One Piece Units",
+        "Damage Type Dark",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Dark"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Line) - width: 8",
+        "Upgrade 4": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "30",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "3.75"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "60",
+            "Range": "14",
+            "SPA": "7",
+            "DPS": "8.57"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "80",
+            "Range": "15",
+            "SPA": "6.5",
+            "DPS": "12.31"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "125",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "19.23"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "150",
+            "Range": "16",
+            "SPA": "6",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "200",
+            "Range": "16.5",
+            "SPA": "6",
+            "DPS": "33.33"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "200",
+            "Range": "17",
+            "SPA": "5.5",
+            "DPS": "36.36"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "250",
+            "Range": "17.5",
+            "SPA": "5",
+            "DPS": "50"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "850",
+            "Damage": "276.12",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "34.52"
+        },
+        {
+            "Upgrade 1": "1,250",
+            "Damage": "552.24",
+            "Range": "14",
+            "SPA": "7",
+            "DPS": "78.89"
+        },
+        {
+            "Upgrade 2": "1,500",
+            "Damage": "736.33",
+            "Range": "15",
+            "SPA": "6.5",
+            "DPS": "113.28"
+        },
+        {
+            "Upgrade 3": "2,250",
+            "Damage": "1,150.51",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "177"
+        },
+        {
+            "Upgrade 4": "5,000",
+            "Damage": "1,380.61",
+            "Range": "16",
+            "SPA": "6",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "1,840.81",
+            "Range": "16.5",
+            "SPA": "6",
+            "DPS": "306.8"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "1,840.81",
+            "Range": "17",
+            "SPA": "5.5",
+            "DPS": "334.69"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "2,301.02",
+            "Range": "17.5",
+            "SPA": "5",
+            "DPS": "460.2"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "Name": "Luci (Celestial)",
+    "Tags": [
+        "Damage Type Water",
+        "Damage Type Light",
+        "Evolved Units",
+        "Unobtainable Units",
+        "Damage Type Physical",
+        "Fairy Tail Units",
+        "Secret Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "1",
+    "Tower Type": [
+        "GRND",
+        "SUMN"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Physical",
+        "Light",
+        "Water"
+    ],
+    "Attack Type": {
+        "Deployment": "None"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "3,000",
+            "Damage": "375",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "37.5",
+            "Spawn": "250"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "525",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "52.5",
+            "Spawn": "350"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "825",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "82.5",
+            "Spawn": "550"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "1,350",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "135",
+            "Spawn": "900"
+        },
+        {
+            "Upgrade 4": "7,500",
+            "Damage": "1,875",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "187.5",
+            "Spawn": "1,250"
+        },
+        {
+            "Upgrade 5": "9,500",
+            "Damage": "3,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "300",
+            "Spawn": "2,000"
+        },
+        {
+            "Upgrade 6": "12,500",
+            "Damage": "4,500",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "450",
+            "Spawn": "3,000"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "6,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "600",
+            "Spawn": "4,000"
+        },
+        {
+            "Upgrade 8": "20,000",
+            "Damage": "6,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "600",
+            "Spawn": "4,000"
+        },
+        {
+            "Upgrade 9": "25,000",
+            "Damage": "9,000",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "900",
+            "Spawn": "6,000"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "3,000",
+            "Damage": "3,451.52",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "345.15",
+            "Spawn": "2,301.02"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "4,832.13",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "483.21",
+            "Spawn": "3,221.42"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "7,593.35",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "759.34",
+            "Spawn": "5,062.24"
+        },
+        {
+            "Upgrade 3": "5,000",
+            "Damage": "12,425.49",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "1,242.55",
+            "Spawn": "8,283.66"
+        },
+        {
+            "Upgrade 4": "7,500",
+            "Damage": "17,257.62",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "1,725.76",
+            "Spawn": "11,505.08"
+        },
+        {
+            "Upgrade 5": "9,500",
+            "Damage": "27,612.2",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "2,761.22",
+            "Spawn": "18,408.13"
+        },
+        {
+            "Upgrade 6": "12,500",
+            "Damage": "41,418.29",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "4,141.83",
+            "Spawn": "27,612.2"
+        },
+        {
+            "Upgrade 7": "15,000",
+            "Damage": "55,224.39",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "5,522.44",
+            "Spawn": "36,816.26"
+        },
+        {
+            "Upgrade 8": "20,000",
+            "Damage": "55,224.39",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "5,522.44",
+            "Spawn": "36,816.26"
+        },
+        {
+            "Upgrade 9": "25,000",
+            "Damage": "82,836.59",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "10",
+            "DPS": "8,283.66",
+            "Spawn": "55,224.39"
+        }
+    ]
+}

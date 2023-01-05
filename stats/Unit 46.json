@@ -1,0 +1,135 @@
+{
+    "Name": "Goju",
+    "Tags": [
+        "Mythic Units",
+        "Jujutsu Kaisen Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 3": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "250",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "31.25"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "500",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "62.5"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "650",
+            "Range": "14",
+            "SPA": "7.5",
+            "DPS": "86.67"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "650",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "86.67"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "800",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "114.29"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "1,200",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "171.43"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "1,500",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "214.29"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "2,000",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "285.71"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,600",
+            "Damage": "2,301.02",
+            "Range": "12",
+            "SPA": "8",
+            "DPS": "287.63"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "4,602.03",
+            "Range": "13",
+            "SPA": "8",
+            "DPS": "575.25"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "5,982.64",
+            "Range": "14",
+            "SPA": "7.5",
+            "DPS": "797.69"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "5,982.64",
+            "Range": "15",
+            "SPA": "7.5",
+            "DPS": "797.69"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "7,363.25",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "1,051.89"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "11,044.88",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "1,577.84"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "13,806.1",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "1,972.3"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "18,408.13",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "2,629.73"
+        }
+    ]
+}

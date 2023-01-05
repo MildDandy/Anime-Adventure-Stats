@@ -1,0 +1,98 @@
+{
+    "Name": "Sosuke",
+    "Tags": [
+        "Damage Type Fire",
+        "Rare Units",
+        "Burn Units",
+        "Naruto Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 5",
+        "Upgrade 4": "AoE (Circle) - radius: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "350",
+            "Damage": "4",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "0.67"
+        },
+        {
+            "Upgrade 1": "450",
+            "Damage": "8",
+            "Range": "12.5",
+            "SPA": "6",
+            "DPS": "1.33"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "15",
+            "Range": "13",
+            "SPA": "5.5",
+            "DPS": "2.73"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "28",
+            "Range": "13",
+            "SPA": "5.5",
+            "DPS": "5.09"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "35",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "7"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "350",
+            "Damage": "36.82",
+            "Range": "12",
+            "SPA": "6",
+            "DPS": "6.14"
+        },
+        {
+            "Upgrade 1": "450",
+            "Damage": "73.63",
+            "Range": "12.5",
+            "SPA": "6",
+            "DPS": "12.27"
+        },
+        {
+            "Upgrade 2": "750",
+            "Damage": "138.06",
+            "Range": "13",
+            "SPA": "5.5",
+            "DPS": "25.1"
+        },
+        {
+            "Upgrade 3": "1,250",
+            "Damage": "257.71",
+            "Range": "13",
+            "SPA": "5.5",
+            "DPS": "46.86"
+        },
+        {
+            "Upgrade 4": "3,000",
+            "Damage": "322.14",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "64.43"
+        }
+    ]
+}

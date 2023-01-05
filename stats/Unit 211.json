@@ -1,0 +1,111 @@
+{
+    "Name": "Johna",
+    "Tags": [
+        "Rare Units",
+        "Damage Type Lightning",
+        "JoJo's Bizarre Adventure Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "6",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Secondary Damage Type": [
+        "Lightning"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 4": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "20",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "5"
+        },
+        {
+            "Upgrade 1": "200",
+            "Damage": "25",
+            "Range": "6.5",
+            "SPA": "4",
+            "DPS": "6.25"
+        },
+        {
+            "Upgrade 2": "300",
+            "Damage": "27",
+            "Range": "6.5",
+            "SPA": "3.5",
+            "DPS": "7.71"
+        },
+        {
+            "Upgrade 3": "450",
+            "Damage": "30",
+            "Range": "7",
+            "SPA": "3.5",
+            "DPS": "8.57"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "30",
+            "Range": "10",
+            "SPA": "4.5",
+            "DPS": "6.67"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "35",
+            "Range": "11",
+            "SPA": "4",
+            "DPS": "8.75"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "400",
+            "Damage": "184.08",
+            "Range": "6",
+            "SPA": "4",
+            "DPS": "46.02"
+        },
+        {
+            "Upgrade 1": "200",
+            "Damage": "230.1",
+            "Range": "6.5",
+            "SPA": "4",
+            "DPS": "57.53"
+        },
+        {
+            "Upgrade 2": "300",
+            "Damage": "248.51",
+            "Range": "6.5",
+            "SPA": "3.5",
+            "DPS": "71"
+        },
+        {
+            "Upgrade 3": "450",
+            "Damage": "276.12",
+            "Range": "7",
+            "SPA": "3.5",
+            "DPS": "78.89"
+        },
+        {
+            "Upgrade 4": "2,500",
+            "Damage": "276.12",
+            "Range": "10",
+            "SPA": "4.5",
+            "DPS": "61.36"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "322.14",
+            "Range": "11",
+            "SPA": "4",
+            "DPS": "80.54"
+        }
+    ]
+}

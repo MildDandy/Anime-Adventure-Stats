@@ -1,0 +1,164 @@
+{
+    "Name": "Red Scar (Conqueror)",
+    "Tags": [
+        "Mythic Units",
+        "Evolved Units",
+        "One Piece Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "3",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 90",
+        "Upgrade 5": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "112.5",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "16.07"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "225",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "32.14"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "300",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "46.15"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "375",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "57.69"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "450",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "75"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "525",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "95.45"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "600",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "109.09"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "825",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "165"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "1,050",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "210"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "1,500",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "300"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,500",
+            "Damage": "1,035.46",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "147.92"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "2,070.91",
+            "Range": "15",
+            "SPA": "7",
+            "DPS": "295.84"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "2,761.22",
+            "Range": "16",
+            "SPA": "6.5",
+            "DPS": "424.8"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "3,451.52",
+            "Range": "17",
+            "SPA": "6.5",
+            "DPS": "531"
+        },
+        {
+            "Upgrade 4": "4,500",
+            "Damage": "4,141.83",
+            "Range": "18",
+            "SPA": "6",
+            "DPS": "690.3"
+        },
+        {
+            "Upgrade 5": "5,000",
+            "Damage": "4,832.13",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "878.57"
+        },
+        {
+            "Upgrade 6": "6,500",
+            "Damage": "5,522.44",
+            "Range": "20",
+            "SPA": "5.5",
+            "DPS": "1,004.08"
+        },
+        {
+            "Upgrade 7": "10,000",
+            "Damage": "7,593.35",
+            "Range": "21",
+            "SPA": "5",
+            "DPS": "1,518.67"
+        },
+        {
+            "Upgrade 8": "12,500",
+            "Damage": "9,664.27",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "1,932.85"
+        },
+        {
+            "Upgrade 9": "15,000",
+            "Damage": "13,806.1",
+            "Range": "22",
+            "SPA": "5",
+            "DPS": "2,761.22"
+        }
+    ]
+}

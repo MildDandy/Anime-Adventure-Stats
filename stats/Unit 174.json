@@ -1,0 +1,107 @@
+{
+    "Name": "Mecha Freezo",
+    "Tags": [
+        "Unobtainable Units",
+        "Dragon Ball Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "HILL"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 4",
+        "Upgrade 4": "AoE (Circle) - radius: 10"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "18",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "3.6"
+        },
+        {
+            "Upgrade 1": "1,000",
+            "Damage": "40",
+            "Range": "16",
+            "SPA": "4.5",
+            "DPS": "8.89"
+        },
+        {
+            "Upgrade 2": "1,550",
+            "Damage": "70",
+            "Range": "17",
+            "SPA": "4",
+            "DPS": "17.5"
+        },
+        {
+            "Upgrade 3": "1,750",
+            "Damage": "100",
+            "Range": "18",
+            "SPA": "4",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 4": "3,250",
+            "Damage": "200",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "250",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "35.71"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "525",
+            "Damage": "165.67",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "33.13"
+        },
+        {
+            "Upgrade 1": "1,000",
+            "Damage": "368.16",
+            "Range": "16",
+            "SPA": "4.5",
+            "DPS": "81.81"
+        },
+        {
+            "Upgrade 2": "1,550",
+            "Damage": "644.28",
+            "Range": "17",
+            "SPA": "4",
+            "DPS": "161.07"
+        },
+        {
+            "Upgrade 3": "1,750",
+            "Damage": "920.41",
+            "Range": "18",
+            "SPA": "4",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 4": "3,250",
+            "Damage": "1,840.81",
+            "Range": "20",
+            "SPA": "8",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 5": "2,000",
+            "Damage": "2,301.02",
+            "Range": "22",
+            "SPA": "7",
+            "DPS": "328.72"
+        }
+    ]
+}

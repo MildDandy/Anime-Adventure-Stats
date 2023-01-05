@@ -1,0 +1,160 @@
+
+body{
+  /*background-color: white;*/
+  color:silver
+}
+
+ul{
+  /*list-style-image: url("gifs/kyoob2.gif");*/
+  padding: 5px;
+  margin: 5px;
+}
+table, button{
+  font-family: 'Fredoka One', cursive;
+}
+
+.rare{
+  color: #0d8cff;
+  font-family: 'Fredoka One', cursive;
+}
+.epic{
+  color: #7c04f5;
+  font-family: 'Fredoka One', cursive;
+}
+.legendary{
+  color: #ffc71e;
+  font-family: 'Fredoka One', cursive;
+}
+.mythic{
+  background: linear-gradient(0, #76f1ff 30%, #fe56ff 50%, #ffec62 60%, #fe56ff 77%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  font-family: 'Fredoka One', cursive;
+}
+.secret{
+  color: #e01419;
+  font-family: 'Fredoka One', cursive;
+}
+
+img {
+  max-width: 30px;
+  max-height: 30px;
+}
+
+.game-font{
+  font-family: 'Fredoka One', cursive;
+}
+
+td {
+
+  border-radius: 10px;
+  padding: 5px;
+}
+
+table{
+  border: 1px solid;
+}
+
+
+#middle_column{
+  
+}
+
+.GFG {
+  color: white;
+  font-size: 50px;
+  text-shadow: -1px 1px 0 #000,
+                1px 1px 0 #000,
+               1px -1px 0 #000,
+              -1px -1px 0 #000;
+}
+
+/*
+{{#switch: {{{1}}}
+| Secret =<span class="game-font-face" style="color: #e01419;">Secret</span>
+| Mythic | Mythical = <span class="game-font-face" style="position: relative; background: linear-gradient(0, #76f1ff 30%, #fe56ff 50%, #ffec62 60%, #fe56ff 77%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mythical<span class="Tsh(Game) mobile-hidden" style="position: absolute; z-index: -1; left: 0;">Mythical</span></span>
+| Legendary =<span class="Tsh(Game) game-font-face" style="color: #ffc71e;">Legendary</span>
+| Epic =<span class="game-font-face" style="color: #7c04f5;">Epic</span>
+| Rare =<span class="game-font-face" style="color: #0d8cff;">Rare</span>
+|<span class="game-font-face" style="color: #565456;">Unknown</span>
+}}<noinclude>{{Doc}}</noinclude>
+*/
+
+#trait{
+  font-size: 25px;
+}
+
+#quote{
+  font-style: italic;
+}
+
+.game-tooltip__container {
+	display: block;
+	padding: 8px 12px;
+	background: linear-gradient(135deg, #181818, #070707);
+	border-radius: 8px;
+	color: #e6e6e6;
+	max-width: 500px;
+	width: max-content;
+	height: fit-content;
+	line-height: 1.2;
+	font-size: 14px;
+	border: 2px solid #646464;
+}
+
+.container{
+  position:relative;
+   margin-top: 40px;
+}
+  
+  
+.graph {
+ 
+  position:absolute
+}
+
+.tooltip {
+  display: inline-block;
+  width:100px;
+  
+}
+
+.tooltip:hover:after {
+  background: #333;
+  background: rgba(0, 0, 0, .8);
+  border-radius: 5px;
+  bottom: 26px;
+  color: #fff;
+  content: attr(title);
+  left: 20%;
+  padding: 5px 15px;
+  position: absolute;
+  z-index: 98;
+  width: 220px;
+}
+
+.tooltip:hover:before {
+  border: solid;
+  border-color: #333 transparent;
+  border-width: 6px 6px 0 6px;
+  bottom: 20px;
+  content: "";
+  left: 25%;
+  position: absolute;
+  z-index: 99;
+}
+
+/*
+.tooltip, .tooltiptext {
+	display: block;
+	padding: 8px 12px;
+	background: linear-gradient(135deg, #181818, #070707);
+	border-radius: 8px;
+	color: #e6e6e6;
+	max-width: 500px;
+	width: max-content;
+	height: fit-content;
+	line-height: 1.2;
+	font-size: 14px;
+	border: 2px solid #646464;
+}
+*/
+

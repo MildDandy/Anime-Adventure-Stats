@@ -1,0 +1,172 @@
+{
+    "Name": "Todorro (Released)",
+    "Tags": [
+        "Mythic Units",
+        "Damage Type Fire",
+        "Limited Units",
+        "My Hero Academia Units",
+        "Damage Type Ice",
+        "Meta Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "4",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Ice",
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 50",
+        "Upgrade 3": "AoE (Cone) - angle: 50",
+        "Upgrade 7": "AoE (Circle) - radius: 12.5"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "210",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "30"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "490",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "70"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "910",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "130"
+        },
+        {
+            "Upgrade 3": "4,000",
+            "Damage": "1,330",
+            "Range": "22.5",
+            "SPA": "7",
+            "DPS": "190"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "1,680",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "240"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "2,030",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "312.31"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "2,800",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "430.77"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "4,060",
+            "Range": "27",
+            "SPA": "8.5",
+            "DPS": "477.65"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "4,690",
+            "Range": "28",
+            "SPA": "8",
+            "DPS": "586.25"
+        },
+        {
+            "Upgrade 9": "12,500",
+            "Damage": "5,355",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "669.38"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,300",
+            "Damage": "1,932.85",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "276.12"
+        },
+        {
+            "Upgrade 1": "2,000",
+            "Damage": "4,509.99",
+            "Range": "20",
+            "SPA": "7",
+            "DPS": "644.28"
+        },
+        {
+            "Upgrade 2": "3,500",
+            "Damage": "8,375.7",
+            "Range": "21",
+            "SPA": "7",
+            "DPS": "1,196.53"
+        },
+        {
+            "Upgrade 3": "4,000",
+            "Damage": "12,241.41",
+            "Range": "22.5",
+            "SPA": "7",
+            "DPS": "1,748.77"
+        },
+        {
+            "Upgrade 4": "4,250",
+            "Damage": "15,462.83",
+            "Range": "24",
+            "SPA": "7",
+            "DPS": "2,208.98"
+        },
+        {
+            "Upgrade 5": "6,000",
+            "Damage": "18,684.25",
+            "Range": "25",
+            "SPA": "6.5",
+            "DPS": "2,874.5"
+        },
+        {
+            "Upgrade 6": "7,500",
+            "Damage": "25,771.38",
+            "Range": "26",
+            "SPA": "6.5",
+            "DPS": "3,964.83"
+        },
+        {
+            "Upgrade 7": "9,000",
+            "Damage": "37,368.5",
+            "Range": "27",
+            "SPA": "8.5",
+            "DPS": "4,396.29"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "43,167.06",
+            "Range": "28",
+            "SPA": "8",
+            "DPS": "5,395.88"
+        },
+        {
+            "Upgrade 9": "12,500",
+            "Damage": "49,287.77",
+            "Range": "30",
+            "SPA": "8",
+            "DPS": "6,160.97"
+        }
+    ]
+}

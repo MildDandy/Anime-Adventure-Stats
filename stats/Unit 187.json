@@ -1,0 +1,120 @@
+{
+    "Name": "Bakayua",
+    "Tags": [
+        "Epic Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "Incomplete Wiki Data",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Circle) - radius: 6",
+        "Upgrade 5": "AoE (Circle) - radius: 8"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "10",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "2"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "20",
+            "Range": "16",
+            "SPA": "4.5",
+            "DPS": "4.44"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "25",
+            "Range": "17",
+            "SPA": "4",
+            "DPS": "6.25"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "30",
+            "Range": "18",
+            "SPA": "3.5",
+            "DPS": "8.57"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "50",
+            "Range": "19",
+            "SPA": "3.5",
+            "DPS": "14.29"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "80",
+            "Range": "22",
+            "SPA": "4",
+            "DPS": "20"
+        },
+        {
+            "Upgrade 6": "4,000",
+            "Damage": "120",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "30"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "550",
+            "Damage": "92.04",
+            "Range": "15",
+            "SPA": "5",
+            "DPS": "18.41"
+        },
+        {
+            "Upgrade 1": "650",
+            "Damage": "184.08",
+            "Range": "16",
+            "SPA": "4.5",
+            "DPS": "40.91"
+        },
+        {
+            "Upgrade 2": "700",
+            "Damage": "230.1",
+            "Range": "17",
+            "SPA": "4",
+            "DPS": "57.53"
+        },
+        {
+            "Upgrade 3": "850",
+            "Damage": "276.12",
+            "Range": "18",
+            "SPA": "3.5",
+            "DPS": "78.89"
+        },
+        {
+            "Upgrade 4": "1,500",
+            "Damage": "460.2",
+            "Range": "19",
+            "SPA": "3.5",
+            "DPS": "131.49"
+        },
+        {
+            "Upgrade 5": "3,000",
+            "Damage": "736.33",
+            "Range": "22",
+            "SPA": "4",
+            "DPS": "184.08"
+        },
+        {
+            "Upgrade 6": "4,000",
+            "Damage": "1,104.49",
+            "Range": "25",
+            "SPA": "4",
+            "DPS": "276.12"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "Name": "Blue Devil",
+    "Tags": [
+        "Mythic Units",
+        "Blue Exorcist Units",
+        "Damage Type Fire",
+        "Unobtainable Units",
+        "Leaderboard Units",
+        "Damage Type Magic"
+    ],
+    "Placement Count": "5",
+    "Tower Type": [
+        "GRND"
+    ],
+    "Damage Type": [
+        "Magic"
+    ],
+    "Secondary Damage Type": [
+        "Fire"
+    ],
+    "Attack Type": {
+        "Deployment": "AoE (Cone) - angle: 50",
+        "Upgrade 3": "AoE (Circle) - radius: 9.5",
+        "Upgrade 7": "AoE (Full)"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "90",
+            "Range": "17",
+            "SPA": "8",
+            "DPS": "11.25"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "200",
+            "Range": "17.5",
+            "SPA": "8",
+            "DPS": "25"
+        },
+        {
+            "Upgrade 2": "2,800",
+            "Damage": "325",
+            "Range": "18",
+            "SPA": "8",
+            "DPS": "40.63"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "450",
+            "Range": "18.5",
+            "SPA": "7.5",
+            "DPS": "60"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "550",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "78.57"
+        },
+        {
+            "Upgrade 5": "5,250",
+            "Damage": "700",
+            "Range": "19.5",
+            "SPA": "7",
+            "DPS": "100"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "775",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "119.23"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "900",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "138.46"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "1,000",
+            "Range": "20.5",
+            "SPA": "6.5",
+            "DPS": "153.85"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "1,400",
+            "Damage": "828.37",
+            "Range": "17",
+            "SPA": "8",
+            "DPS": "103.55"
+        },
+        {
+            "Upgrade 1": "2,100",
+            "Damage": "1,840.81",
+            "Range": "17.5",
+            "SPA": "8",
+            "DPS": "230.1"
+        },
+        {
+            "Upgrade 2": "2,800",
+            "Damage": "2,991.32",
+            "Range": "18",
+            "SPA": "8",
+            "DPS": "373.92"
+        },
+        {
+            "Upgrade 3": "3,500",
+            "Damage": "4,141.83",
+            "Range": "18.5",
+            "SPA": "7.5",
+            "DPS": "552.24"
+        },
+        {
+            "Upgrade 4": "4,000",
+            "Damage": "5,062.24",
+            "Range": "19",
+            "SPA": "7",
+            "DPS": "723.18"
+        },
+        {
+            "Upgrade 5": "5,250",
+            "Damage": "6,442.85",
+            "Range": "19.5",
+            "SPA": "7",
+            "DPS": "920.41"
+        },
+        {
+            "Upgrade 6": "6,000",
+            "Damage": "7,133.15",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "1,097.41"
+        },
+        {
+            "Upgrade 7": "8,500",
+            "Damage": "8,283.66",
+            "Range": "20",
+            "SPA": "6.5",
+            "DPS": "1,274.41"
+        },
+        {
+            "Upgrade 8": "11,000",
+            "Damage": "9,204.07",
+            "Range": "20.5",
+            "SPA": "6.5",
+            "DPS": "1,416.01"
+        }
+    ]
+}

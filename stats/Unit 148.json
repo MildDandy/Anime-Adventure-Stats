@@ -1,0 +1,152 @@
+{
+    "Name": "Lulu",
+    "Tags": [
+        "Secret Units",
+        "Code Geass Units",
+        "Damage Type Physical"
+    ],
+    "Placement Count": "1",
+    "Tower Type": [
+        "GRND",
+        "SUMN"
+    ],
+    "Damage Type": [
+        "Physical"
+    ],
+    "Attack Type": {
+        "Deployment": "Single",
+        "Upgrade 5": "Single"
+    },
+    "Level 1 Stats": [
+        {
+            "Deployment": "2,000",
+            "Damage": "40",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "7",
+            "DPS": "5.71",
+            "Spawn": "80"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "60",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "6.5",
+            "DPS": "9.23",
+            "Spawn": "120"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "100",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "6",
+            "DPS": "16.67",
+            "Spawn": "200"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "150",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "6",
+            "DPS": "25",
+            "Spawn": "300"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "200",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "36.36",
+            "Spawn": "400"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "200",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "36.36",
+            "Spawn": "400"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "300",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "54.55",
+            "Spawn": "600"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "400",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "72.73",
+            "Spawn": "800"
+        }
+    ],
+    "Level 100 Stats": [
+        {
+            "Deployment": "2,000",
+            "Damage": "368.16",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "7",
+            "DPS": "52.59",
+            "Spawn": "736.33"
+        },
+        {
+            "Upgrade 1": "1,500",
+            "Damage": "552.24",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "6.5",
+            "DPS": "84.96",
+            "Spawn": "1,104.49"
+        },
+        {
+            "Upgrade 2": "2,500",
+            "Damage": "920.41",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "6",
+            "DPS": "153.4",
+            "Spawn": "1,840.81"
+        },
+        {
+            "Upgrade 3": "3,000",
+            "Damage": "1,380.61",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "6",
+            "DPS": "230.1",
+            "Spawn": "2,761.22"
+        },
+        {
+            "Upgrade 4": "3,500",
+            "Damage": "1,840.81",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "334.69",
+            "Spawn": "3,681.63"
+        },
+        {
+            "Upgrade 5": "6,500",
+            "Damage": "1,840.81",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "334.69",
+            "Spawn": "3,681.63"
+        },
+        {
+            "Upgrade 6": "7,000",
+            "Damage": "2,761.22",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "502.04",
+            "Spawn": "5,522.44"
+        },
+        {
+            "Upgrade 7": "8,000",
+            "Damage": "3,681.63",
+            "Range": "Incomplete Wiki Data",
+            "SPA": "5.5",
+            "DPS": "669.39",
+            "Spawn": "7,363.25"
+        }
+    ]
+}
