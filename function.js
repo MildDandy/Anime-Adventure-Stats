@@ -26,14 +26,30 @@ function add_description(a){
     var lvl1 = data["Level 1 Stats"];
     var lvl00 = data["Level 100 Stats"];
     console.log(description);
-    //description.innerHTML = "damn this works<br>Tags:" + data["Placement Count"] + "<br>Tags:";
+    HTML = `<table>  
+    <tr>
+        <th>Upgrade</th>
+        <th>Cost</th>
+        <th>Damage</th>
+        <th>Range</th>
+        <th>SPA</th>
+        <th>DPS</th>
+    </tr>`;
+    
     for (let x in lvl1){
         stats = lvl1[x];
+        var first = true;
         for(let y in stats){
-            description.innerHTML += y + ": " + stats[y] + "<br>";
-        }
-        
+            if(first){
+                HTML += "<tr><td>" + y + "</td>";
+                first = false;
+            }
+            HTML += "<td>" + stats[y] + "</td>";
+        } 
+        HTML += "</tr>";
     }
+    HTML += "</table>";
+    description.innerHTML = HTML;
 
     //description.innerHTML += "does appending even more stuff work?";
     /*
