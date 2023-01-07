@@ -1,3 +1,67 @@
+let array = [];
+
+function getJSON() {
+    for(let i = ".".length;i <= 225;i++){
+        fetchStats(i);
+    }   
+    console.log(array);
+  }
+
+function get_buttons(){
+    for(let i = "".length;i <= 225;i++){
+        make_buttons(i);
+    }      
+}
+
+async function fetchStats(a) {
+
+fetch(`https://milddandy.github.io/Anime-Adventure-Stats/stats/Unit ` + a + ".json")
+    .then((response) => response.json())
+    .then((data) => array.push(data));
+}
+
+function add_description(a){
+    var description = document.getElementById("unit" + a);
+    var data = array[a];
+    var lvl1 = data["Level 1 Stats"];
+    var lvl00 = data["Level 100 Stats"];
+    console.log(description);
+    //description.innerHTML = "damn this works<br>Tags:" + data["Placement Count"] + "<br>Tags:";
+    for (let x in lvl1){
+        stats = lvl1[x];
+        for(let y in stats){
+            description.innerHTML += y + ": " + stats[y] + "<br>";
+        }
+        
+    }
+
+    //description.innerHTML += "does appending even more stuff work?";
+    /*
+    for (var key in data) {
+        console.log(data[key]);
+        description.appendChild((document.createElement("")))
+        };
+    
+    ;*/
+    //array[description.value].Name
+}
+
+function make_buttons(a) {
+    //var json = JSON.parse(array[0]);
+    var button = document.createElement('button');
+    var div = document.createElement("div");
+    var br = document.createElement("br");
+    //button.innerText = json;
+    button.innerText = array[a].Name;
+    div.id = "unit" + a;
+    button.value = a;
+    button.onclick = function() {add_description(this.value); };
+    document.getElementById('icon').appendChild(button);
+    document.getElementById('icon').appendChild(div);
+    document.getElementById('icon').appendChild(br);
+}
+
+
 function random_integer(min, max){
     return Math.floor(Math.random() * (max - min + 1) + min)
 }
@@ -101,7 +165,6 @@ function GFG_Fun(image) {
     else{
         document.getElementById("icon").insertBefore(img, document.getElementById("icon").children[0]);
     }
-
 }
 
 function reset(){
@@ -109,6 +172,9 @@ function reset(){
     document.getElementById("icon").innerHTML = "";
     document.getElementById("trait").innerHTML = "";
     rerolls = 0
+    fetch('https://milddandy.github.io/Anime-Adventure-Stats/stats/Unit 1.json')
+        .then((response) => response.json())
+        .then((data) => console.log(data));
 }
 
 function roll_until(){
@@ -125,4 +191,10 @@ function roll_until(){
             setTimeout(roll_trait(), 100);
     }
 }
+async function fetchMovies() {
+  const response = await fetch('/movies');
+  // waits until the request completes...
+  console.log(response);
+}
+
 }
